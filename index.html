@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+
+    <meta name="description" content="SciPyLA 2017 - The scientific Python conference in Latin America">
+    <meta name="author" content="The SciPyLA community">
     <link rel="icon" href="favicon.ico">
 
-    <title>Narrow Jumbotron Template for Bootstrap</title>
+    <title>SciPyLA 2017</title>
 
     <!-- Bootstrap core CSS -->
     <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -31,7 +31,7 @@
   <body>
 
     <div class="container">
-      <div class="header clearfix">
+      <div class="header clearfix" style="display:none">
         <nav>
           <ul class="nav nav-pills pull-right">
             <li role="presentation" class="active"><a href="#">Home</a></li>
@@ -42,38 +42,86 @@
         <h3 class="text-muted">Project name</h3>
       </div>
 
-      <div class="jumbotron">
-        <h1>Jumbotron heading</h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
+      <div class="jumbotron" id="jumbo-main">
+        <img src="assets/img/scipyla.jpg" />
+        <p>&nbsp;</p>
+        <p><small>Conferencia Latinoaméricana de Computación Científica con Python</small></p>
+        <p class="lead">M&aacute;s PYTHON, M&aacute;s CIENCIA</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <p><a class="btn btn-default" id="nav-bottom" href="#" role="button"><span class="glyphicon glyphicon-menu-down"></a></p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+        <div class="btn-group btn-group-xs" role="group" aria-label="btnmain">
+          <button type="button" class="btn btn-default text-uppercase">Acerca de</button>
+          <button type="button" class="btn btn-default text-uppercase">Lugar</button>
+          <button type="button" class="btn btn-default text-uppercase">Organizaci&oacute;n</button>
+          <button type="button" class="btn btn-default text-uppercase">Actividades por año</button>
+          <button type="button" class="btn btn-default text-uppercase">Galería</button>
+          <button type="button" class="btn btn-default text-uppercase">Audiencia</button>
+          <button type="button" class="btn btn-default text-uppercase">Suscripción</button>
+          <button type="button" class="btn btn-default text-uppercase">Contacto</button>
+        </div>
       </div>
 
-      <div class="row marketing">
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+      <div class="row">
+        <div class="col-md-offset-2 col-md-8 col-xs-12 text-center">
+          <h3>SCIPY LATINOAMÉRICA 2017</h3>
+          <p><small>
+          Es la quinta conferencia anual de computación científica con Python.
+          Esta se realizará del 2 al 6 de mayo de 2017 en La Habana, Cuba.
+          La comunidad SciPy se dedica al avance de la computación cietífica
+          a través de software de código abierto hecho en Python para resolver
+          problemas matemáticos de la ciencia y la ingeniería.
+          </small></p>
+          <img src="assets/img/planets.jpg" class="img-responsive"/>
+        </div>
+      </div>
 
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
+      <div class="jumbotron" id="jumbo-venue">
+        <h2>LUGAR - LA HABANA</h2>
+        <p>La Habana, capital de Cuba, es la ciudad más grande del Caribe y uno
+        de los centros urbanos con mayor riqueza cultural en el mundo. Su pasado
+        colonial queda evidenciado en la variedad de impresionantes castillos,
+        catedrales, mansiones y museos. El histórico vecindario de La Habana
+        Vieja es un fascinante sitio designado patrimonio de la humanidad por la
+        UNESCO dado sus más de 900 monumentos históricos, incluyendo el
+        Capitolio Nacional el Palacio Presidencial y la Plaza de la Catedral.
+        </p>
+        <button class="btn btn-lg btn-warning">LEER MÁS</button>
+      </div>
 
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+      <div class="row marketing text-center">
+        <h3>DETALLES DEL EVENTO</h3>
+        <div class="col-lg-4 clearfix">
+          <img src="assets/img/prog.png" class="img-circle" />
+          <h4>PROGRAMA</h4>
+          <p>Conozca el programa de temas preparados para SciPyLA 2017,
+          a partir de tallers sobre el uso de Python en siete &aacute;reas
+          de la Ciencia y la Tecnología</p>
+          <button class="btn btn-primary">VER M&Aacute;S</button>
         </div>
 
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
+        <div class="col-lg-4 clearfix">
+          <img src="assets/img/sched.png" class="img-circle" />
+          <h4>AGENDA</h4>
+          <p>Infórmese sobre el cronograma de actividades previstas
+          para los cuatro días de duración del evento del 2 al 6
+          de mayo de 2017</p>
+          <button class="btn btn-primary">VER M&Aacute;S</button>
+        </div>
 
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        <div class="col-lg-4 clearfix">
+          <img src="assets/img/org.png" class="img-circle" />
+          <h4>ORGANIZADORES</h4>
+          <p>SciPyLA 2017 es una fiesta de todos y para todos.
+          Conozca al Comité Organizador del evento.</p>
+          <button class="btn btn-primary">VER M&Aacute;S</button>
         </div>
       </div>
 
       <footer class="footer">
-        <p>&copy; Company 2014</p>
+        <p>&copy; <a href="http://scipyla.org">SciPy Latinamerica</a> 2017</p>
       </footer>
 
     </div> <!-- /container -->
