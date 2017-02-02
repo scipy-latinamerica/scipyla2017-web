@@ -161,6 +161,7 @@ body {
 
 .sbgu {
   background-image: url('assets/img/sbgu.png');
+  background-position: 120px 0;
   background-repeat: no-repeat;
 }
 

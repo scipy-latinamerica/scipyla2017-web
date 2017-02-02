@@ -227,14 +227,14 @@
         </div>
       </div>
 
-      <div class="jumbotron jumbotron-blue">
+      <div class="jumbotron jumbotron-blue sbgu">
         <div class="sbgl"></div>
         <div class="row">
           <div class="col-md-2"></div>
-          <div class="col-md-8">
-            <div class="row sbgu">
+          <div class="col-md-8" style="z-index: 100;">
+            <div class="row">
               <p>&nbsp;</p>
-              <h3>SUBSCRIPCIÓN</h3>
+              <h3>SUSCRIPCIÓN</h3>
               <p>&nbsp;</p>
             </div>
             <p><small><small>
@@ -242,16 +242,56 @@
             este evento le sugerimos mantenerse informado sobre las últimas noticias
             de SciPyLA 2017 a través de nuesto boletín
             </small></small></p>
-            <div class="form-group">
-              <input class="form-control" type="text" placeholder="Inserte su email acá" />
-            </div>
-            <div class="form-group">
-              <label />
-              <button class="btn btn-warning">SUSCRÍBEME</button>
-            </div>
+            <form>
+              <div class="form-group">
+                <input class="form-control" type="text" placeholder="Inserte su email acá" />
+              </div>
+              <div class="form-group">
+                <label />
+                <button class="btn btn-warning">SUSCRÍBEME</button>
+              </div>
+            </form>
           </div>
           <div class="col-md-2 sbgr"></div>
         </div>
+      </div>
+
+      <div class="row text-center">
+        <h3>CONTACTO <br/><small>Nucleamos a los usuarios de Python en el ámbito
+        científico para facilitar la comunicación a nivel regional.
+        ¡Cont&aacute;ctenos!
+        <small/></h3>
+
+        <form>
+          <div class="col-md-4 col-md-offset-2">
+            <div class="form-group">
+              <input class="form-control" placeholder="Nombre*" name="name"/>
+            </div>
+            <div class="form-group">
+              <input class="form-control" placeholder="Teléfono" name="phone"/>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="form-group">
+              <input class="form-control" placeholder="Email*" name="email"/>
+            </div>
+            <div class="form-group">
+              <input class="form-control" placeholder="Compañía" name="company"/>
+            </div>
+          </div>
+          <div class="col-md-8 col-md-offset-2">
+            <div class="form-group">
+              <input class="form-control" placeholder="Asunto*" name="subject"/>
+            </div>
+            <div class="form-group">
+              <textarea class="form-control" placeholder="Mensaje*"
+                      name="subject"/></textarea>
+            </div>
+            <div class="form-group">
+              <button class="btn btn-primary">ENVIAR</button>
+            </div>
+          </div>
+        </form>
       </div>
 
       <footer class="footer">
