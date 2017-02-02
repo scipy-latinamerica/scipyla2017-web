@@ -34,6 +34,11 @@ body {
   padding: 1px 0 1px 1px
 }
 
+
+.jumbotron-blue .badge, .jumbotron-blue .label {
+  color: #15355B;
+}
+
 /* Custom page footer */
 .footer {
   padding-top: 19px;
@@ -78,6 +83,7 @@ body {
 
 .jumbotron-dark, .jumbotron-blue {
   color: #FFFFFF !important;
+  position: relative;
 }
 
 .jumbotron {
@@ -113,7 +119,7 @@ body {
   text-transform: uppercase;
 }
 
-#jumbo-main-actions .btn:hover {
+#jumbo-main .btn-group .btn:hover {
   color: #ffd438;
 }
 
@@ -150,3 +156,31 @@ body {
     border-bottom: 0;
   }
 }
+
+/* Design elements */
+
+.sbgu {
+  background-image: url('assets/img/sbgu.png');
+  background-repeat: no-repeat;
+}
+
+.sbgl {
+  background-image: url('assets/img/sbgl.png');
+  background-repeat: no-repeat;
+  bottom: 0;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  width: 110px;
+}
+
+.sbgr {
+  background-image: url('assets/img/sbgr.png');
+  background-repeat: no-repeat;
+  bottom: 0;
+  height: 262px;
+  position: absolute;
+  right: 0;
+  width: 258px;
+}
+
