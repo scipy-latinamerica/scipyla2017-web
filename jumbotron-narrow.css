@@ -29,6 +29,11 @@ body {
   border-radius: 50%;
 }
 
+.badge.badge-square {
+  border-radius: 2px;
+  padding: 1px 0 1px 1px
+}
+
 /* Custom page footer */
 .footer {
   padding-top: 19px;
@@ -69,7 +74,10 @@ body {
 .container .jumbotron {
   border-radius: 0px;
   padding-top: 80px;
-  color: #FFFFFF;
+}
+
+.jumbotron-dark, .jumbotron-blue {
+  color: #FFFFFF !important;
 }
 
 .jumbotron {
