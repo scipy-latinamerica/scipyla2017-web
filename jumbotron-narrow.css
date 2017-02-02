@@ -212,6 +212,19 @@
   top: -4px;
 }
 
+/* Layout */
+
+#planets-container {
+  position: relative;
+}
+
+#planets-text {
+  bottom: 10%;
+  left:0;
+  position: absolute;
+  right: 0;
+}
+
 /* Footer */
 
 .footer {
