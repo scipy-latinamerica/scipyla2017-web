@@ -32,18 +32,110 @@
   </head>
 
   <body>
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">
+            <img src="assets/img/scipyla.nav.png" />
+          </a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="dropdown active">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Inicio <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="index.html#about">Acerca de SciPyLA</a></li>
+                <li><a href="index.html#venue">Sede</a></li>
+                <li><a href="index.html#org">Organizaci&oacute;n</a></li>
+                <li><a href="index.html#timeline">Actividades por año</a></li>
+                <li><a href="index.html#gallery">Galería</a></li>
+                <li><a href="index.html#traction">Audiencia</a></li>
+                <li><a href="index.html#signup">Reservar tickets</a></li>
+                <li><a href="index.html#contact">Contacto</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Programa <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="forms/tickets">Reservar tickets</a></li>
+                <li><a href="schedule">Agenda de actividades</a></li>
+                <li role="separator" class="divider"></li>
+                <li class="dropdown-header">Talleres</li>
+                <li><a href="tracks#bio">Bioinform&aacute;tica</a></li>
+                <li><a href="tracks#physics">F&iacute;sica</a></li>
+                <li><a href="tracks#elect">Ingeniería Électrica y Automatización</a></li>
+                <li><a href="tracks#econ">Econom&iacute;a e Investigación de Operaciones</a></li>
+                <li><a href="tracks#tech">Tecnolog&iacute;as de c&oacute;mputo emergentes</a></li>
+                <li><a href="tracks#earth">Cencias de la Tierra</a></li>
+                <li><a href="tracks#social">Ciencias Sociales y Humanidades</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="forms/reviewers">Llamado a revisores acad&eacute;micos</a>
+                <li><a href="forms/poster">Env&iacute;o de posters</a></li>
+                <li><a href="forms/activity">Propuestas de charlas</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Comunidad <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="organizers">Organizadores</a></li>
+                <li><a href="sponsors">Patrocinadores</a></li>
+                <li><a href="sponsors#prospectus">Prospecto de potrocinio</a></li>
+                <li><a href="sponsors#levels">Niveles de patrocinio</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="ambassadors">Embajadores</a></li>
+                <li>
+                  <a href="forms/ambassadors">
+                    Llamado a embajadores
+                  </a>
+                </li>
+                <li role="separator" class="divider"></li>
+                <li><a href="community">Comunidades representadas</a></li>
+                <li>
+                  <a href="forms/community">
+                    Anuncia tu comunidad
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Participa <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="forms/tickets">Reservar tickets</a></li>
+                <li><a href="forms/financial-aid">Ayuda financiera</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="forms/reviewers">Llamado a revisores acad&eacute;micos</a></li>
+                <li><a href="forms/poster">Env&iacute;o de posters</a></li>
+                <li><a href="forms/activity">Propuestas de charlas</a></li>
+                <li><a href="forms/activity">Propuestas de meetups</a></li>
+                <li><a href="forms/activity">Proyectos para sprints</a></li>
+                <li><a href="forms/activity">Propuestas de talleres</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="diversity.html">Diversidad</a></li>
+                <li><a href="coc.html">C&oacute;digo de Conducta</a></li>
+              </ul>
+            </li>
+            <li class="dropdown active">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sede <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="venue.html#info">Informaci&oacute;n de la sede</a></li>
+                <li><a href="venue.html#lodging">Hospedaje</a></li>
+                <li><a href="venue.html#city">Ciudad</a></li>
+                <li><a href="visa.html">VISA</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
 
     <div class="container">
-      <div class="header clearfix" style="display:none">
-        <nav>
-          <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="#">Home</a></li>
-            <li role="presentation"><a href="#">About</a></li>
-            <li role="presentation"><a href="#">Contact</a></li>
-          </ul>
-        </nav>
-        <h3 class="text-muted">Project name</h3>
-      </div>
 
       <div class="jumbotron jumbotron-dark" id="jumbo-main">
         <img src="assets/img/scipyla.jpg" />
@@ -67,8 +159,8 @@
         </div>
       </div>
 
-      <div class="row">
-        <div class="col-md-offset-2 col-md-8 col-xs-12 text-center">
+      <div class="row" id="about">
+        <div class="col-md-offset-2 col-md-8 col-xs-12 text-center" id="planets-container">
           <h3>SCIPY LATINOAMÉRICA 2017</h3>
           <p><small>
           Es la quinta conferencia anual de computación científica con Python.
@@ -78,10 +170,17 @@
           problemas matemáticos de la ciencia y la ingeniería.
           </small></p>
           <img src="assets/img/planets.jpg" class="img-responsive"/>
+          <div class="row" id="planets-text">
+            <strong>
+              <div class="col-xs-3 col-xs-offset-1 text-center">Python</div>
+              <div class="col-xs-3 col-xs-offset-1 text-left">Ciencia</div>
+              <div class="col-xs-4 text-left">Latinoamérica</div>
+            </strong>
+          </div>
         </div>
       </div>
 
-      <div class="jumbotron jumbotron-dark" id="jumbo-venue">
+      <div class="jumbotron jumbotron-dark" id="venue">
         <h2>LUGAR - LA HABANA</h2>
         <p>La Habana, capital de Cuba, es la ciudad más grande del Caribe y uno
         de los centros urbanos con mayor riqueza cultural en el mundo. Su pasado
@@ -95,7 +194,6 @@
       </div>
 
       <div class="row marketing text-center">
-        <h3>DETALLES DEL EVENTO</h3>
         <div class="col-lg-4">
           <img src="assets/img/prog.png" class="img-circle" />
           <h4>PROGRAMA</h4>
@@ -114,16 +212,16 @@
           <button class="btn btn-primary">VER M&Aacute;S</button>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-lg-4" id="org">
           <img src="assets/img/org.png" class="img-circle" />
           <h4>ORGANIZADORES</h4>
-          <p>SciPyLA 2017 es una fiesta de todos y para todos.
+          <p>SciPyLA 2017 es un evento de todos y para todos.
           Conozca al Comité Organizador del evento.</p>
           <button class="btn btn-primary">VER M&Aacute;S</button>
         </div>
       </div>
 
-      <div class="jumbotron jumbotron-blue">
+      <div class="jumbotron jumbotron-blue" id="timeline">
         <div class="container">
           <h3 class="text-uppercase">Actividades por año</h3>
           <p>Lorem ipsum ! De un corazón nacieron dos semillas ...</p>
@@ -160,7 +258,7 @@
         </div>
       </div>
 
-      <div class="row text-center">
+      <div class="row text-center" id="gallery">
         <h3 class="text-uppercase">Galer&iacute;a - Ediciones previas</h3>
         <div class="col-sm-3">
           <a href="#"><img src="assets/img/scipyla2013.png" /></a>
@@ -180,7 +278,7 @@
         </div>
       </div>
 
-      <div class="row text-center">
+      <div class="row text-center" id="traction">
         <h3 class="text-uppercase">Audiencia</h3>
         <div class="col-xs-4">Investigadores</div>
         <div class="col-xs-4">Estudiantes universitarios</div>
@@ -227,7 +325,7 @@
         </div>
       </div>
 
-      <div class="jumbotron jumbotron-blue sbgu">
+      <div class="jumbotron jumbotron-blue sbgu" id="signup">
         <div class="sbgl"></div>
         <div class="row">
           <div class="col-md-2"></div>
@@ -256,7 +354,7 @@
         </div>
       </div>
 
-      <div class="row text-center">
+      <div class="row text-center" id="contact">
         <h3>CONTACTO <br/><small>Nucleamos a los usuarios de Python en el ámbito
         científico para facilitar la comunicación a nivel regional.
         ¡Cont&aacute;ctenos!
@@ -317,5 +415,8 @@
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+    <script src="dist/js/bootstrap.min.js"></script>
+
   </body>
 </html>
