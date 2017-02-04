@@ -1,3 +1,9 @@
+/* Space at the top for the navbar */
+
+body {
+  padding-top: 50px;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
@@ -184,19 +190,36 @@
 
 .btn-round {
   border-radius: 50% !important;
-  height: 34px;
   margin: 5px;
   padding: 0 !important;
   position: relative;
+}
+
+.btn-social.btn-round {
+  height: 34px;
   width: 34px;
 }
 
+.btn-social-big.btn-round {
+  height: 90px;
+  width: 90px;
+}
+
 .btn-round [class^="icon-"] {
-  font-size: 26px;
   left: 0;
   position: absolute;
   right: 0;
+  text-align: center;
+}
+
+.btn-social.btn-round [class^="icon-"] {
+  font-size: 26px;
   top: 4px;
+}
+
+.btn-social-big.btn-round [class^="icon-"] {
+  font-size: 60px;
+  top: 15px;
 }
 
 .btn-xs.btn-social .badge-square {
@@ -223,6 +246,23 @@
   left:0;
   position: absolute;
   right: 0;
+}
+
+.block-align-parent {
+  position: relative;
+}
+
+.block-align-right {
+  position: absolute;
+  right: 0;
+}
+
+.btn-social-big-container {
+  min-height: 100px;
+}
+
+.track-icon {
+  color: #14365B;
 }
 
 /* Footer */
