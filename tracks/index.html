@@ -31,7 +31,7 @@
     <![endif]-->
   </head>
 
-  <body>
+  <body ng-app="scipyla_tracks">
     <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top navbar-inverse">
       <div class="container">
@@ -155,7 +155,7 @@
                 innovaci&oacute;n y conexi&oacute;n con la industria biotecnol&oacute;gica. Cuba destaca dados sus
                 893 permisos comerciales registrados en m&aacute;s de 50 pa&iacute;ses. Conozca de primera
                 mano c&oacute;mo la biotecnolog&iacute;a se abre camino en la regi&oacute;n.
-                <button type="button" class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
+                <button type="button" class="btn-link" data-toggle="modal" data-target="#track-modal" data-track="bio">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -170,39 +170,7 @@
                 investigaciones f&iacute;sicas de una regi&oacute;n que cuenta con m&aacute;s de 15,000
                 profesionales. La asistencia de pa&iacute;ses menos desarrollados contribuir&aacute; a
                 reducir las brechas en t&eacute;rminos de educaci&oacute;n e investigaci&oacute;n.
-                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
-              </div>
-            </li>
-            <li class="media">
-              <div class="media-left media-middle">
-                <div class="btn-round btn-social-big track-icon btn-warning">
-                  <span class="icon-38"></span>
-                </div>
-              </div>
-              <div class="media-body">
-                <h4 class="media-heading">Ingenier&iacute;a El&eacute;ctrica y Autom&aacute;tica</h4>
-                <p>Investigadores y emprendedores se reunir&aacute;n en La Habana para
-                debatir acerca del potencial de la rob&oacute;tica, la inteligencia
-                artificial y la ingenier&iacute;a el&eacute;ctrica para implementar aplicaciones
-                disruptivas, explicando c&oacute;mo Python permiti&oacute; obtener una ventaja
-                competitiva.
-                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
-              </div>
-            </li>
-            <li class="media">
-              <div class="media-left media-middle">
-                <div class="btn-round btn-social-big track-icon btn-warning">
-                  <span class="icon-39"></span>
-                </div>
-              </div>
-              <div class="media-body">
-                <h4 class="media-heading">Econom&iacute;a e Investigaci&oacute;n de Operaciones</h4>
-                <p>La industria financiera, pagos online y puertos a lo largo de m&aacute;s
-                de 200,000 km de costas presentan varios desaf&iacute;os a los
-                investigadores. Expertos presentar&aacute;n diferentes usos de herramientas
-                hechas con Python para ayudar con el crecimiento econ&oacute;mico de empresas
-                con caracter&iacute;sticas diversas.
-                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal" data-track="physics">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -212,12 +180,44 @@
                 </div>
               </div>
               <div class="media-body">
+                <h4 class="media-heading">Ingenier&iacute;a El&eacute;ctrica y Autom&aacute;tica</h4>
+                <p>Investigadores y emprendedores se reunir&aacute;n en La Habana para
+                debatir acerca del potencial de la rob&oacute;tica, la inteligencia
+                artificial y la ingenier&iacute;a el&eacute;ctrica para implementar aplicaciones
+                disruptivas, explicando c&oacute;mo Python permiti&oacute; obtener una ventaja
+                competitiva.
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal" data-track="elect">Leer m&aacute;s</button></p>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left media-middle">
+                <div class="btn-round btn-social-big track-icon btn-warning">
+                  <span class="icon-38"></span>
+                </div>
+              </div>
+              <div class="media-body">
+                <h4 class="media-heading">Econom&iacute;a e Investigaci&oacute;n de Operaciones</h4>
+                <p>La industria financiera, pagos online y puertos a lo largo de m&aacute;s
+                de 200,000 km de costas presentan varios desaf&iacute;os a los
+                investigadores. Expertos presentar&aacute;n diferentes usos de herramientas
+                hechas con Python para ayudar con el crecimiento econ&oacute;mico de empresas
+                con caracter&iacute;sticas diversas.
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal" data-track="elect">Leer m&aacute;s</button></p>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left media-middle">
+                <div class="btn-round btn-social-big track-icon btn-warning">
+                  <span class="icon-39"></span>
+                </div>
+              </div>
+              <div class="media-body">
                 <h4 class="media-heading">Tecnolog&iacute;as Emergentes de C&oacute;mputo</h4>
                 <p>La ciencia y Python ofrecen respuestas a iniciativas regionales
                 que aprovechan oportunidades generadas por m&aacute;s de 689 millones de
                 cuentas m&oacute;viles, 50 millones de consumidores activos, y un mercado de
                 IoT estimado en $15.6 mil millones y 800 millones de dispositivos conectados.
-                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal" data-track="tech">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -232,7 +232,7 @@
                 de desastres, del cambio clim&aacute;tico y para una prospecci&oacute;n y
                 explotaci&oacute;n responsable de los recursos. Se impone la b&uacute;squeda de un
                 equilibio entre las sociedades de consumo y la preservaci&oacute;n de los ecosistemas.
-                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal" data-track="earth">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -247,29 +247,29 @@
                 de mayor crecimiento en el mundo. Paneles de expertos analizar&aacute;n
                 tendencias regionales en temas como ciudades inteligentes, contenidos
                 pluri-culturales, datos abiertos, e-comunidades y redes sociales.
-                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal" data-track="social">Leer m&aacute;s</button></p>
               </div>
             </li>
           </div>
         </div>
       </ul>
 
-      <div id="track-modal" class="modal fade">
+      <div id="track-modal" class="modal fade" ng-controller="TracksCtl">
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
             <div class="modal-body text-center">
               <div id="track_icon" class="center-block btn-round btn-social-big track-icon btn-warning">
-                <span class="icon-36"></span>
+                <span class="{{track.icon_class}}"></span>
               </div>
               <h4>
                 <small>Taller de aplicaciones de Python en:</small> <br/>
-                <span id="track_field"></span> <br/>
+                <span id="track_field" class="text-uppercase">{{track.title_es}}</span> <br/>
                 <small>Convocatoria a env&iacute;o de art&iacute;culos acad&eacute;micos</small>
               </h4>
               <p>One fine body&hellip;</p>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
@@ -300,6 +300,8 @@
     <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
     <script src="../dist/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.min.js"></script>
+    <script src="../assets/js/tracks.js"></script>
 
   </body>
 </html>
