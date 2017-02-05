@@ -39,19 +39,28 @@ var tracks = {
 
 var services = angular.module('scipyla.tracks.srv', ['ngResource']);
 
-services.factory('TrackDescSrv', ['$resource', function($resource) {
+services.factory('TrackDesc', ['$resource', function($resource) {
   return $resource('../../tracks/:id.md', {id: '@id'});
 }]);
 
 var app = angular.module('scipyla.tracks', ['scipyla.tracks.srv']);
 
-app.controller('TracksCtl', ['$scope', 'TrackDescSrv', function($scope, srv) {
+app.controller('TracksCtl', ['$scope', 'TrackDesc', function($scope, TrackDesc) {
   var active = window.location.hash.substr(1);
   
   function set_active(track_id) {
     var track = $scope.track = tracks[track_id];
     // TODO: Translations
     $scope.active = track_id;
+    if (track.desc === undefined) {
+      TrackDesc.get({id: track_id},
+        function(resp) {
+          alert(resp);
+        },
+        function(error) {
+          // TODO: Handle error
+        });
+    }
   }
 
   $('#track-modal').on('show.bs.modal', function (event) {
