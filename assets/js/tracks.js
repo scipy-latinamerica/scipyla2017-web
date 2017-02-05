@@ -1,6 +1,4 @@
 
-var app = angular.module('scipyla_tracks', []);
-
 var tracks = {
   bio: {
     title_es: 'Bioinformática',
@@ -39,7 +37,15 @@ var tracks = {
   }
 }
 
-app.controller('TracksCtl', function($scope) {
+var services = angular.module('scipyla.tracks.srv', ['ngResource']);
+
+services.factory('TrackDescSrv', ['$resource', function($resource) {
+  return $resource('../../tracks/:id.md', {id: '@id'});
+}]);
+
+var app = angular.module('scipyla.tracks', ['scipyla.tracks.srv']);
+
+app.controller('TracksCtl', ['$scope', 'TrackDescSrv', function($scope, srv) {
   var active = window.location.hash.substr(1);
   
   function set_active(track_id) {
@@ -51,11 +57,11 @@ app.controller('TracksCtl', function($scope) {
   $('#track-modal').on('show.bs.modal', function (event) {
     var button = $(event.relatedTarget);
     var track_id = button.data('track');
-    set_active(track_id);
+    $scope.$apply(function() { set_active(track_id) });
   });
 
   set_active(active);
-});
+}]);
 
 
 
