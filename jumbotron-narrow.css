@@ -190,9 +190,12 @@ body {
 
 .btn-round {
   border-radius: 50% !important;
-  margin: 5px;
   padding: 0 !important;
   position: relative;
+}
+
+.btn-group .btn-social.btn-round {
+  margin: 5px;
 }
 
 .btn-social.btn-round {

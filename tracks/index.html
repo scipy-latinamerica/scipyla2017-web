@@ -68,13 +68,13 @@
                 <li><a href="../schedule">Agenda de actividades</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="dropdown-header">Talleres</li>
-                <li><a href="../tracks#bio">Bioinform&aacute;tica</a></li>
-                <li><a href="../tracks#physics">F&iacute;sica</a></li>
-                <li><a href="../tracks#elect">Ingenier&iacute;a Électrica y Automatizaci&oacute;n</a></li>
-                <li><a href="../tracks#econ">Econom&iacute;a e Investigaci&oacute;n de Operaciones</a></li>
-                <li><a href="../tracks#tech">Tecnolog&iacute;as de c&oacute;mputo emergentes</a></li>
-                <li><a href="../tracks#earth">Cencias de la Tierra</a></li>
-                <li><a href="../tracks#social">Ciencias Sociales y Humanidades</a></li>
+                <li><a href="#bio">Bioinform&aacute;tica</a></li>
+                <li><a href="#physics">F&iacute;sica</a></li>
+                <li><a href="#elect">Ingenier&iacute;a Électrica y Automatizaci&oacute;n</a></li>
+                <li><a href="#econ">Econom&iacute;a e Investigaci&oacute;n de Operaciones</a></li>
+                <li><a href="#tech">Tecnolog&iacute;as de c&oacute;mputo emergentes</a></li>
+                <li><a href="#earth">Cencias de la Tierra</a></li>
+                <li><a href="#social">Ciencias Sociales y Humanidades</a></li>
                 <li role="separator" class="divider"></li>
                 <li><a href="../forms/reviewers">Llamado a revisores acad&eacute;micos</a>
                 <li><a href="../forms/poster">Env&iacute;o de posters</a></li>
@@ -137,8 +137,8 @@
 
     <div class="container">
 
-      <h2 class="text-center"> PROGRAMA DEL EVENTO <br/>
-        <small>Talleres Latinoam&eacute;ricanos sobre el uso de Python en:
+      <h2 class="text-center"> PROGRAMA DE LA CONFERENCIA <br/>
+        <small>Talleres Latinoam&eacute;ricanos sobre el uso de Python en:</small>
       </h2>
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
@@ -155,7 +155,7 @@
                 innovaci&oacute;n y conexi&oacute;n con la industria biotecnol&oacute;gica. Cuba destaca dados sus
                 893 permisos comerciales registrados en m&aacute;s de 50 pa&iacute;ses. Conozca de primera
                 mano c&oacute;mo la biotecnolog&iacute;a se abre camino en la regi&oacute;n.
-                <a href="">Leer m&aacute;s</a></p>
+                <button type="button" class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -170,7 +170,7 @@
                 investigaciones f&iacute;sicas de una regi&oacute;n que cuenta con m&aacute;s de 15,000
                 profesionales. La asistencia de pa&iacute;ses menos desarrollados contribuir&aacute; a
                 reducir las brechas en t&eacute;rminos de educaci&oacute;n e investigaci&oacute;n.
-                <a href="">Leer m&aacute;s</a></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -186,7 +186,7 @@
                 artificial y la ingenier&iacute;a el&eacute;ctrica para implementar aplicaciones
                 disruptivas, explicando c&oacute;mo Python permiti&oacute; obtener una ventaja
                 competitiva.
-                <a href="">Leer m&aacute;s</a></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -202,7 +202,7 @@
                 investigadores. Expertos presentar&aacute;n diferentes usos de herramientas
                 hechas con Python para ayudar con el crecimiento econ&oacute;mico de empresas
                 con caracter&iacute;sticas diversas.
-                <a href="">Leer m&aacute;s</a></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -217,7 +217,7 @@
                 que aprovechan oportunidades generadas por m&aacute;s de 689 millones de
                 cuentas m&oacute;viles, 50 millones de consumidores activos, y un mercado de
                 IoT estimado en $15.6 mil millones y 800 millones de dispositivos conectados.
-                <a href="">Leer m&aacute;s</a></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -232,7 +232,7 @@
                 de desastres, del cambio clim&aacute;tico y para una prospecci&oacute;n y
                 explotaci&oacute;n responsable de los recursos. Se impone la b&uacute;squeda de un
                 equilibio entre las sociedades de consumo y la preservaci&oacute;n de los ecosistemas.
-                <a href="">Leer m&aacute;s</a></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
               </div>
             </li>
             <li class="media">
@@ -247,12 +247,33 @@
                 de mayor crecimiento en el mundo. Paneles de expertos analizar&aacute;n
                 tendencias regionales en temas como ciudades inteligentes, contenidos
                 pluri-culturales, datos abiertos, e-comunidades y redes sociales.
-                <a href="">Leer m&aacute;s</a></p>
+                <button class="btn-link" data-toggle="modal" data-target="#track-modal">Leer m&aacute;s</button></p>
               </div>
             </li>
           </div>
         </div>
       </ul>
+
+      <div id="track-modal" class="modal fade">
+        <div class="modal-dialog modal-lg">
+          <div class="modal-content">
+            <div class="modal-body text-center">
+              <div id="track_icon" class="center-block btn-round btn-social-big track-icon btn-warning">
+                <span class="icon-36"></span>
+              </div>
+              <h4>
+                <small>Taller de aplicaciones de Python en:</small> <br/>
+                <span id="track_field"></span> <br/>
+                <small>Convocatoria a env&iacute;o de art&iacute;culos acad&eacute;micos</small>
+              </h4>
+              <p>One fine body&hellip;</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
 
       <footer class="footer text-center">
         <div class="btn-group btn-group-lg">
