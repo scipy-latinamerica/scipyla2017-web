@@ -37,39 +37,36 @@ var tracks = {
   }
 }
 
-var services = angular.module('scipyla.tracks.srv', ['ngResource']);
+var app = angular.module('scipyla.tracks', ['ngSanitize', 'markdown']);
 
-services.factory('TrackDesc', ['$resource', function($resource) {
-  return $resource('../../tracks/:id.md', {id: '@id'});
-}]);
-
-var app = angular.module('scipyla.tracks', ['scipyla.tracks.srv']);
-
-app.controller('TracksCtl', ['$scope', 'TrackDesc', function($scope, TrackDesc) {
+app.controller('TracksCtl', ['$scope', '$http', function($scope, $http) {
   var active = window.location.hash.substr(1);
-  
+
   function set_active(track_id) {
     var track = $scope.track = tracks[track_id];
     // TODO: Translations
     $scope.active = track_id;
     if (track.desc === undefined) {
-      TrackDesc.get({id: track_id},
+      $http({method: 'GET', url: '../../tracks/' + track_id + '.md'})
+      .success(
         function(resp) {
-          alert(resp);
-        },
-        function(error) {
-          // TODO: Handle error
+          tracks[track_id].desc = resp;
         });
     }
   }
 
   $('#track-modal').on('show.bs.modal', function (event) {
     var button = $(event.relatedTarget);
-    var track_id = button.data('track');
+    var track_id = button.data('track') || $scope.active;
     $scope.$apply(function() { set_active(track_id) });
   });
 
-  set_active(active);
+  if (tracks[active] !== undefined) {
+    $scope.active = active;
+    setTimeout(function () {
+        $('#track-modal').modal()
+      }, 2000);
+  }
 }]);
 
 
