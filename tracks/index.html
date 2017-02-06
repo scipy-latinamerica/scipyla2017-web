@@ -266,7 +266,7 @@
                 <span id="track_field" class="text-uppercase">{{track.title_es}}</span> <br/>
                 <small>Convocatoria a env&iacute;o de art&iacute;culos acad&eacute;micos</small>
               </h4>
-              <p>{{track.desc}}</p>
+              <p ng-bind-html="track.desc | markdown"></p>
             </div>
             <div class="modal-footer">
               <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
@@ -302,7 +302,11 @@
     <script src="../dist/js/bootstrap.min.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.min.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular-resource.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/showdown/1.3.0/showdown.min.js"></script>
+    <script src="../assets/js/angular-markdown.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.0/angular-sanitize.min.js"></script>
     <script src="../assets/js/tracks.js"></script>
 
   </body>
 </html>
+
