@@ -37,13 +37,7 @@ var tracks = {
   }
 }
 
-var services = angular.module('scipyla.tracks.srv', ['ngResource']);
-
-services.factory('TrackDesc', ['$resource', function($resource) {
-  return $resource('../../tracks/:id.md', {id: '@id'});
-}]);
-
-var app = angular.module('scipyla.tracks', ['scipyla.tracks.srv']);
+var app = angular.module('scipyla.tracks', ['ngSanitize', 'markdown']);
 
 app.controller('TracksCtl', ['$scope', '$http', function($scope, $http) {
   var active = window.location.hash.substr(1);
