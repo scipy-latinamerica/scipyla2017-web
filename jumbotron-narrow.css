@@ -75,6 +75,7 @@ body {
 #venue {
   background-image: url('assets/img/havana-bg.png');
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container .jumbotron {
@@ -282,6 +283,7 @@ body {
   background-image: url(assets/img/havana360-bg.png);
   background-position: center bottom;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* Navbar */
