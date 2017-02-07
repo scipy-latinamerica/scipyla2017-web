@@ -99,8 +99,15 @@ body {
 
 .jumbotron-blue .container {
   background-color: #15355B;
-  border-bottom-left-radius: 50%;
-  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 25%;
+  border-bottom-right-radius: 25%;
+  margin-bottom: 15px;
+  padding: 15px;
+}
+
+#timeline {
+  background-image: url('assets/img/dotsbg.png');
+  background-repeat: repeat;
 }
 
 .jumbotron-blue {
@@ -282,5 +289,13 @@ body {
 .navbar-brand img {
   height: 48px;
   margin-top: -12px;
+}
+
+#timeline .img-responsive {
+  height: 150px;
+}
+
+#timeline .col-xs-1 {
+  padding: 0;
 }
 
