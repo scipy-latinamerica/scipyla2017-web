@@ -67,13 +67,13 @@ body {
 /* Main marketing message and sign up button */
 
 #jumbo-main {
-  background-image: url('assets/img/jumbobg.jpg');
+  background-image: url('../img/jumbobg.jpg');
   background-repeat: no-repeat;
   height: 730px;
 }
 
 #venue {
-  background-image: url('assets/img/havana-bg.png');
+  background-image: url('../img/havana-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -107,7 +107,7 @@ body {
 }
 
 #timeline {
-  background-image: url('assets/img/dotsbg.png');
+  background-image: url('../img/dotsbg.png');
   background-repeat: repeat;
 }
 
@@ -169,13 +169,13 @@ body {
 /* Design elements */
 
 .sbgu {
-  background-image: url('assets/img/sbgu.png');
+  background-image: url('../img/sbgu.png');
   background-position: 120px 0;
   background-repeat: no-repeat;
 }
 
 .sbgl {
-  background-image: url('assets/img/sbgl.png');
+  background-image: url('../img/sbgl.png');
   background-repeat: no-repeat;
   bottom: 0;
   height: 114px;
@@ -185,7 +185,7 @@ body {
 }
 
 .sbgr {
-  background-image: url('assets/img/sbgr.png');
+  background-image: url('../img/sbgr.png');
   background-repeat: no-repeat;
   bottom: 0;
   height: 262px;
@@ -277,7 +277,7 @@ body {
 
 .footer {
   height: 290px;
-  background-image: url(assets/img/havana360-bg.png);
+  background-image: url(../img/havana360-bg.png);
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
