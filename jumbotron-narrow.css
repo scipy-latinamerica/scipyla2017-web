@@ -211,7 +211,7 @@ body {
   width: 34px;
 }
 
-.btn-social-big.btn-round {
+.btn-social-lg.btn-round {
   height: 90px;
   width: 90px;
 }
@@ -228,7 +228,7 @@ body {
   top: 4px;
 }
 
-.btn-social-big.btn-round [class^="icon-"] {
+.btn-social-lg.btn-round [class^="icon-"] {
   font-size: 60px;
   top: 15px;
 }
@@ -268,10 +268,7 @@ body {
   right: 0;
 }
 
-.btn-social-big-container {
-  min-height: 100px;
-}
-
+/* Remove ewhen theme is ready */
 .track-icon {
   color: #14365B;
 }
@@ -299,5 +296,40 @@ body {
 
 #timeline .col-xs-1 {
   padding: 0;
+}
+
+.bg-grey {
+  background-color: #f5f5f5;
+}
+
+.marketing-box {
+  background-color: #fff;
+  margin: 50px 25px 0 25px;
+  padding: 55px 25px 25px 25px;
+  position: relative;
+}
+
+/* Marketing pattern */
+
+.marketing-box .marketing-icon {
+  display: block;
+  height: 90px;
+  left: 0;
+  margin-top: -45px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+.marketing-box .marketing-icon img {
+  height: 90px;
+  width: 90px;
+}
+
+/* Divider in agenda */
+
+#agenda hr {
+  margin: 5px;
 }
 
