@@ -115,6 +115,14 @@ body {
   padding: 0 0 10px 0 !important;
 }
 
+.jumbotron-dark {
+  background-color: #091727;
+}
+
+#signup {
+  padding: 0 0 10px 0 !important;
+}
+
 #nav-bottom {
   color: #cccccc;
 }
@@ -173,6 +181,16 @@ body {
   background-image: url('../img/sbgu.png');
   background-position: 120px 0;
   background-repeat: no-repeat;
+}
+
+@media (max-width: 767px) {
+  .sbgu {
+    background-position: 40px 0;
+  }
+
+  #timeline .img-responsive {
+    height: 80px;
+  }
 }
 
 .sbgl {
@@ -247,6 +265,15 @@ body {
   top: -4px;
 }
 
+.btn:hover, .btn:focus,
+.btn-warning:hover, .btn-warning:focus,
+.btn:hover, .btn:focus,
+.btn-info:hover, .btn-info:focus {
+  background: #14365b;
+  border: 1px solid #14365b;
+  color: #fff;
+}
+
 /* Layout */
 
 #planets-img {
@@ -301,8 +328,10 @@ body {
   margin-top: -12px;
 }
 
-#timeline .img-responsive {
-  height: 150px;
+@media (min-width: 768px) {
+  #timeline .img-responsive {
+    height: 150px;
+  }
 }
 
 #timeline .col-xs-1 {
