@@ -132,10 +132,12 @@ body {
 }
 
 .jumbotron .btn.btn-default {
-  background-color: transparent;
+  background: transparent;
   border-radius: 50%;
+  box-shadow: none;
   color: #FFFFFF;
   font-size: 21px;
+  text-shadow: 0 0px 0 transparent;
 }
 
 /* Supporting marketing content */
