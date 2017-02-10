@@ -249,15 +249,21 @@ body {
 
 /* Layout */
 
-#planets-container {
+#planets-img {
   position: relative;
+  width: 100%
 }
 
-#planets-text {
-  bottom: 5%;
+#planets {
+  bottom: 0;
   left:0;
   position: absolute;
   right: 0;
+  top: 15%;
+}
+
+#planets .img-responsive {
+  width: 75%;
 }
 
 .block-align-parent {
