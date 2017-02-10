@@ -148,6 +148,35 @@ body {
   text-shadow: 0 0px 0 transparent;
 }
 
+/* Overlays */
+
+.overlay-target {
+  position: relative;
+}
+
+.overlay {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.timeline-scale {
+  padding: 0px;
+}
+
+.timeline-scale hr {
+  margin: 0.68em 10% 0 10%;
+  padding: 0;
+}
+
+.timeline-bullet {
+  font-weight: bolder;
+  font-size: 20px;
+  line-height: 1.0em;
+}
+
 /* Supporting marketing content */
 .marketing {
   margin: 40px 0;
@@ -181,6 +210,12 @@ body {
   background-image: url('../img/sbgu.png');
   background-position: 120px 0;
   background-repeat: no-repeat;
+}
+
+@media (min-width: 768px) {
+  #timeline .img-responsive {
+    height: 150px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -326,12 +361,6 @@ body {
 .navbar-brand img {
   height: 48px;
   margin-top: -12px;
-}
-
-@media (min-width: 768px) {
-  #timeline .img-responsive {
-    height: 150px;
-  }
 }
 
 #timeline .col-xs-1 {
