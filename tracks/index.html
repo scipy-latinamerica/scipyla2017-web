@@ -260,6 +260,9 @@
         <div class="modal-dialog modal-lg">
           <div class="modal-content">
             <div class="modal-body text-center">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
               <div id="track_icon" class="center-block btn-round btn-social-lg track-icon btn-warning">
                 <span class="{{track.icon_class}}"></span>
               </div>
@@ -271,7 +274,12 @@
               <p ng-bind-html="track.desc | markdown"></p>
             </div>
             <div class="modal-footer">
-              <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              <span class="pull-left">
+                &larr; <button type="button" class="btn btn-link">VER TALLER ANTERIOR</button>
+              </span>
+              <span>
+                <button type="button" class="btn btn-link">VER TALLER SIGUIENTE</button> &rarr;
+              </span>
             </div>
           </div><!-- /.modal-content -->
         </div><!-- /.modal-dialog -->
