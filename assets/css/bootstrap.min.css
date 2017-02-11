@@ -1280,13 +1280,13 @@ p {
 }
 .lead {
   margin-bottom: 20px;
-  font-size: 16px;
+  font-size: 115%;
   font-weight: 300;
   line-height: 1.4;
 }
 @media (min-width: 768px) {
   .lead {
-    font-size: 21px;
+    font-size: 150%;
   }
 }
 small,
@@ -5806,6 +5806,10 @@ button.list-group-item-danger.active:focus {
 }
 .well-sm {
   padding: 9px;
+  border-radius: 3px;
+}
+.well-xs {
+  padding: 0px;
   border-radius: 3px;
 }
 .close {

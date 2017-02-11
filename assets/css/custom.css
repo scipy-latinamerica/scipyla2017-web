@@ -128,7 +128,8 @@ body {
 }
 
 #nav-bottom:hover {
-  color: #ffffff;
+  border: 1px solid #fff;
+  color: #fff;
 }
 
 #jumbo-main-actions .btn {
@@ -286,6 +287,26 @@ body {
   width: 258px;
 }
 
+#analytics .well-xs {
+  margin: 0px 6px;
+}
+
+#fb p.lead {
+  margin: 15px 0 0 0;
+}
+
+#fb .lead {
+  color: #364785;
+}
+
+#analytics .btn-social {
+  background-image: none;
+}
+
+#fb .btn-social, #fb .btn-social:hover, #fb .btn-social:focus {
+  background-color: #364785;
+}
+
 /* Buttons */
 
 .btn-round {
@@ -338,9 +359,7 @@ body {
   top: -4px;
 }
 
-.btn:hover, .btn:focus,
 .btn-warning:hover, .btn-warning:focus,
-.btn:hover, .btn:focus,
 .btn-info:hover, .btn-info:focus {
   background: #14365b;
   border: 1px solid #14365b;
