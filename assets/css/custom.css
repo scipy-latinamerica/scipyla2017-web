@@ -453,9 +453,39 @@ body {
 }
 
 .navbar-brand img {
-  height: 48px;
   margin-top: -12px;
 }
+
+@media (max-width:767px) {
+
+  .navbar-brand img {
+    margin-top: -20px;
+  }
+
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+  background: transparent;
+}
+
+.navbar-inverse .navbar-toggle:hover .icon-bar,
+.navbar-inverse .navbar-toggle:focus .icon-bar {
+  background-color: #fdc500;
+  margin-top: -4px;
+}
+
+.navbar-inverse .navbar-toggle:hover .icon-bar + .icon-bar,
+.navbar-inverse .navbar-toggle:focus .icon-bar + .icon-bar{
+  background-color: #fdc500;
+  margin-top: 6px;
+}
+
+.navbar-inverse .navbar-toggle {
+  border: none;
+}
+
+/* Custom components */
 
 #timeline .col-xs-1 {
   padding: 0;
