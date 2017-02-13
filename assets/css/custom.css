@@ -562,12 +562,30 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   border-right: 2px solid #fff;
 }
 
+.nav-pills > li.active,
+.nav-pills > li.active:hover {
+ background-color: #14365b; 
+}
+
 .nav-pills > li > a, .nav-pills > li > a:hover, .nav-pills > li > a:focus {
   color: #14365b;
   font-weight: 600;
 }
 
-.nav-pills > li > a:hover, .nav-pills > li > a:focus {
+.nav-pills > li > a:hover, .nav-pills > li > a:focus,
+.nav-pills > li:hover {
   background-color: #edbd2b;
+}
+
+@media (max-width: 767px) {
+  #agenda .nav-pills.nav-justified > li {
+    float: left;
+    width: 23%;
+  }
+
+  #agenda .nav-pills.nav-justified > li > a {
+    margin-bottom: 0px;
+  }
+
 }
 
