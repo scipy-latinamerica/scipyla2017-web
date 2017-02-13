@@ -485,7 +485,28 @@ body {
   border: none;
 }
 
+a h1, a h2, a h3, a h4, a h5, a h6 {
+  color: #14365b;
+}
+
 /* Custom components */
+
+.round-menu .bg-grey {
+  border-radius: 16px;
+}
+
+.round-menu h4.media-heading {
+  margin-top: 8px;
+}
+
+.round-menu .media:hover h4.media-heading {
+  color: #3288b3;
+} 
+
+.round-menu .media:hover .track-icon {
+  background: #3288b3;
+  color: #fff;
+}
 
 #timeline .col-xs-1 {
   padding: 0;
