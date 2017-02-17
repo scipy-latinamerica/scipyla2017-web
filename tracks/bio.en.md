@@ -3,7 +3,7 @@
 
 ## 5th Latin American Conference on Scientific Computing with Python
 
-![Alt text](../logo/scipyla2017.png)
+![SciPyLA 2017](../assets/img/scipyla.svg)
 
 # SciPyLA 
 # ==2017==

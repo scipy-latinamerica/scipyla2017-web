@@ -42,12 +42,18 @@ var app = angular.module('scipyla.tracks', ['ngSanitize', 'markdown']);
 app.controller('TracksCtl', ['$scope', '$http', function($scope, $http) {
   var active = window.location.hash.substr(1);
 
+  function getlang() {
+    // TODO: Current language for translations
+    return 'es';
+  }
+
   function set_active(track_id) {
     var track = $scope.track = tracks[track_id];
     // TODO: Translations
     $scope.active = track_id;
     if (track.desc === undefined) {
-      $http({method: 'GET', url: '../../tracks/' + track_id + '.md'})
+      var lang_id = getlang();
+      $http({method: 'GET', url: '../../tracks/' + track_id + '.' + lang_id + '.md'})
       .success(
         function(resp) {
           tracks[track_id].desc = resp;

@@ -45,8 +45,8 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="#">
-            <img src="../assets/img/scipyla.nav.svg" class="hidden-xs" />
-            <img src="../assets/img/scipyla.nav.xs.svg" height="60" class="visible-xs" />
+            <img src="../assets/img/scipyla.nav.svg" class="hidden-xs" height="48"/>
+            <img src="../assets/img/scipyla.nav.xs.svg" height="60" class="visible-xs" height="60"/>
           </a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
@@ -360,7 +360,11 @@
                 <span id="track_field" class="text-uppercase">{{track.title_es}}</span> <br/>
                 <small>Convocatoria a env&iacute;o de art&iacute;culos acad&eacute;micos</small>
               </h4>
-              <p ng-bind-html="track.desc | markdown"></p>
+              <div class="container-fluid">
+                <div class="row">
+                  <div id="track-desc" ng-bind-html="track.desc | markdown" class="text-justify col-xs-offset-2 col-xs-8"></div>
+                </div>
+              </div>
             </div>
             <div class="modal-footer">
               <span class="pull-left">
