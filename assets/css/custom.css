@@ -251,19 +251,9 @@ body {
   background-repeat: no-repeat;
 }
 
-@media (min-width: 768px) {
-  #timeline .img-responsive {
-    height: 150px;
-  }
-}
-
 @media (max-width: 767px) {
   .sbgu {
     background-position: 40px 0;
-  }
-
-  #timeline .img-responsive {
-    height: 80px;
   }
 }
 
@@ -523,6 +513,14 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 .round-menu .media:hover .track-icon {
   background: #3288b3;
   color: #fff;
+}
+
+#timeline .label-round {
+  border-radius: 50%;
+  display: inline-block;
+  height: 18px;
+  padding: 4px 0px 0px 1px;
+  width: 18px;
 }
 
 #timeline .col-xs-1 {
