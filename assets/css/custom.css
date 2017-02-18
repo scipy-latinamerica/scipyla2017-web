@@ -4,6 +4,10 @@ body {
   padding-top: 50px;
 }
 
+section {
+  margin-top: 15px;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 .header,
 .marketing,
@@ -208,6 +212,10 @@ body {
 }
 
 /* Gallery */
+
+#gallery {
+  margin: 0px;
+}
 
 #gallery .overlay {
   background-image: url(../img/eye-open.svg);
@@ -513,6 +521,10 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 .round-menu .media:hover .track-icon {
   background: #3288b3;
   color: #fff;
+}
+
+#timeline, #analytics {
+  margin-bottom: 0px;
 }
 
 #timeline .label-round {
