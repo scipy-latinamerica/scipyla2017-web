@@ -259,12 +259,6 @@ section {
   background-repeat: no-repeat;
 }
 
-@media (max-width: 767px) {
-  .sbgu {
-    background-position: 40px 0;
-  }
-}
-
 .sbgl {
   background-image: url('../img/sbgl.png');
   background-repeat: no-repeat;
@@ -454,14 +448,6 @@ section {
   margin-top: -12px;
 }
 
-@media (max-width:767px) {
-
-  .navbar-brand img {
-    margin-top: -20px;
-  }
-
-}
-
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
   background: transparent;
@@ -605,6 +591,31 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 }
 
 @media (max-width: 767px) {
+
+  .modal-footer .btn {
+    font-size: 85%;
+    line-height: 1.35em;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  
+  .modal-fixed button.close {
+    right: -1px;
+    top: -28px;
+  }
+  
+  .modal-fixed .modal-dialog {
+    margin-top: 30px;
+  }
+
+  .sbgu {
+    background-position: 40px 0;
+  }
+
+  .navbar-brand img {
+    margin-top: -20px;
+  }
+
   #agenda .nav-pills.nav-justified > li {
     float: left;
     width: 23%;
@@ -612,6 +623,27 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 
   #agenda .nav-pills.nav-justified > li > a {
     margin-bottom: 0px;
+  }
+
+  .modal-fixed button.close {
+    right: -1px !important;
+    top: -28px !important;
+  }
+
+  .navbar .navbar-collapse {
+    background-color: rgba(51, 51, 51, 0.95);
+    max-height: 100%;
+    padding-right: 30px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 320px;
+  }
+
+  .navbar .navbar-toggle {
+    position: fixed;
+    right: 0px;
+    z-index: 1090;
   }
 
 }
@@ -643,12 +675,20 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   top: 0px;
 }
 
+/*
+.modal-footer {
+  border-top-width: 5px;
+  -moz-border-top-colors: black black black black black white white white white black;
+  --webkit-border-top-colors: black black black black black white white white white black;
+}
+*/
+
 .modal-fixed button.close {
   color: #fff;
   opacity: 1;
   position: absolute;
   right: -40px;
-  top: -15px;
+  top: -25px;
   z-index: 1051;
 }
 
