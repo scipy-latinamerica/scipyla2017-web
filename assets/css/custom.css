@@ -616,3 +616,43 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 
 }
 
+.modal-fixed .modal-dialog,
+.modal-fixed .modal-content {
+  top: 0px;
+}
+
+.modal-fixed .modal-footer,
+.modal-fixed .modal-dialog,
+.modal-fixed .modal-body,
+.modal-fixed .modal-content {
+  left: 0;
+  position: absolute;
+  right: 0;
+}
+
+.modal-fixed .modal-footer,
+.modal-fixed .modal-dialog,
+.modal-fixed .modal-content {
+  bottom: 0;
+}
+
+.modal-fixed .modal-body {
+  bottom: 65px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  top: 0px;
+}
+
+.modal-fixed button.close {
+  color: #fff;
+  opacity: 1;
+  position: absolute;
+  right: -40px;
+  top: -15px;
+  z-index: 1051;
+}
+
+.modal-fixed button.close:hover {
+  color: #ffd438;
+}
+
