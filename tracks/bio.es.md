@@ -25,6 +25,12 @@ apoyo de la PSF organizaremos el primer PyCon Cuba 2017.
 
 ![Python Software Foundation](../assets/img/psf.png)
 
+La Python Software Foundation (PSF) es una organización sin ánimos de lucro
+y membresía abierta, dedicada al mejoramiento de las tecnologías de
+código abierto relacionadas con el lenguaje de programación Python.
+La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Code,
+con el status de organización caritativa, pública, exenta de gravámenes
+tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
