@@ -586,6 +586,9 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   background-color: #edbd2b;
 }
 
+/* Responsive */
+
+/* Extra small */
 @media (max-width: 767px) {
 
   .modal-footer .btn {
@@ -642,6 +645,32 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
     z-index: 1090;
   }
 
+}
+
+/* Marketing */
+
+@media (min-width: 992px) {
+  .row.marketing [class^="col-md-"].marketing-action,
+  .row.marketing [class*=" col-md-"].marketing-action {
+    bottom: 0;
+    padding-bottom: 0px;
+    position: absolute;
+  }
+}
+
+.row.marketing {
+  position: relative;
+}
+
+.row.marketing div[class^="col-xs-"], .row.marketing div[class*=" col-xs-"],
+.row.marketing div[class^="col-sm-"], .row.marketing div[class*=" col-sm-"],
+.row.marketing div[class^="col-md-"], .row.marketing div[class*=" col-md-"],
+.row.marketing div[class^="col-lg-"], .row.marketing div[class*=" col-lg-"] {
+  padding-bottom: 36px;
+}
+
+.row.marketing div {
+  position: static;
 }
 
 .modal-fixed .modal-dialog,
