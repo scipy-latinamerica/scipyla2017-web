@@ -51,11 +51,6 @@ section {
 }
 
 /* Customize container */
-@media (min-width: 768px) and (max-width: 1199px) {
-  .container {
-    max-width: 730px;
-  }
-}
 
 @media (min-width: 1250px) {
   .container {
@@ -774,7 +769,7 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   }
   81% {
     height: 6%;
-    right: 18%;
+    right: 20%;
     top: 0%;
     width: 10%;
     z-index: 19;
