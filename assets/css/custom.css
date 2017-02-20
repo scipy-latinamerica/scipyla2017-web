@@ -532,16 +532,32 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   background-color: #091727;
 }
 
-.marketing-box {
+.row.marketing .marketing-box {
   background-color: #fff;
-  margin: 50px 25px 0 25px;
-  padding: 55px 25px 25px 25px;
   position: relative;
+}
+
+@media (min-width: 992px) {
+
+  .row.marketing .marketing-box {
+    margin: 50px 25px 0 25px;
+    padding: 55px 25px 25px 25px;
+  }
+
+}
+
+@media (min-width: 768px) {
+
+  .row.marketing .marketing-box {
+    padding: 55px 10px 10px 10px;
+    margin: 50px 10px 0 10px;
+  }
+
 }
 
 /* Marketing pattern */
 
-.marketing-box .marketing-icon {
+.row.marketing .marketing-box .marketing-icon {
   display: block;
   height: 90px;
   left: 0;
