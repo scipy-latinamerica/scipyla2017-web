@@ -431,7 +431,7 @@ section {
   background-image: url(../img/havana360-bg.png);
   background-position: center bottom;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
 
 /* Navbar */
