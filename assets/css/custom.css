@@ -490,6 +490,7 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 
 .round-menu .bg-grey {
   border-radius: 16px;
+  line-height: 10px;
 }
 
 .round-menu h4.media-heading {
@@ -502,6 +503,7 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 
 .round-menu .media:hover .track-icon {
   background: #3288b3;
+  border: none;
   color: #fff;
 }
 
