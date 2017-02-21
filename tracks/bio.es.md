@@ -103,7 +103,50 @@ SciPyLA 2017 tendrá varias publicaciones seriadas, una publicación arbitrada d
 
 La conferencia ofrece a los investigadores y candidatos a doctor de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), la cual está indexada en
 
-Google Scholar, DRJI, DOAJ, otros...
+![DRJI](../assets/img/drji-logo.jpg)
+##### Directory of Research Journals Indexing
+
+**3674** Indexed Journals, **96378** Total Articles, **190** Total Countries
+
+![OAIster](../assets/img/oaister-logo.png)
+##### OAIster (R)
+
+OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors.
+
+![Google Scholar](../assets/img/google-scholar-logo.jpg)
+##### Google Scholar
+
+![OCLC First search](../assets/img/oclc-logo.png)
+##### OCLC FirstSearch (R)
+
+OCLC FirstSearch service is a valuable access point to research databases.
+
+![Pandora](../assets/img/pandora-logo.gif)
+##### Pandora, Australia's web archive
+
+![National Library of Australia](../assets/img/nla.au-logo.gif)
+##### National Library of Australia
+
+![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif)
+##### Ovid LinkSolver
+
+A journal and book browsing and linking tool.
+
+![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png)
+##### Ulrich's Global Serial Directory
+
+![EBSCOhost](../assets/img/ebscohost-db-logo.png)
+##### EBSCOhost Research Databases
+
+EBSCOhost databases are the most-used, premium online information resources for tens
+of thousands of institutions worldwide, representing millions of end users.
+Five New Ultimate Databases from EBSCO. Superior content, global coverage, relevant results.
+
+![OCLC Worldcat](../assets/img/worldcat-logo.png)
+##### OCLC Worldcat
+
+![EZB Regensburg University](../assets/img/ezb-logo.png)
+##### Electronic Journal Library @ University Library of Regensburg (TPP only)
 
 Los trabajos considerados relevantes por los revisores académicos podrán publicarse en otras revistas de los socios académicos del evento previa comunicación con usted.
 
