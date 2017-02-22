@@ -88,9 +88,63 @@ Supramolecular Chemistry, Synthetic Biology, Synthetic Genomics Systematics, Tis
 
 The conference offers the Latin American researchers the opportunity to publish in an international Journal. Furthermore, you could contribute to the convention's main objectives: reproducible science, effective divulgation of scientific discoveries, communication of Python experiences and contributions to science, to the scientific and technological development of Latin America.
 
-SciPyLA 2017 will publish two manuscripts. The first will be "The Python Papers (TPP)" for full peer-reviewed papers, and the other "The Python Papers Monograph (TPPM)" for abstracts. Both journals are indexed in
+SciPyLA 2017 will publish two manuscripts. The first will be "The Python Papers (TPP)", ISSN: 1834-3147, for full peer-reviewed papers, and the other "The Python Papers Monograph (TPPM)" for abstracts. Both journals are indexed in
 
-Google Scholar, DRJI, DOAJ, etc ...
+![Google Scholar](../assets/img/google-scholar-logo.jpg)
+##### Google Scholar
+
+![DRJI](../assets/img/drji-logo.jpg)
+##### Directory of Research Journals Indexing
+
+**3674** Indexed Journals, **96378** Total Articles, **190** Total Countries
+
+![Index Copernicus](../assets/img/index.copernicus-logo.png)
+##### Index Copernicus
+
+The [ICI Journals Master List](http://journals.indexcopernicus.com/page.php?page=2) database contains over 22 000 journals. Index Copernicus Value (ICV) is the measure of a journal's strength. It provides information on how fast a published article is able to increase the citation rate. ICV is a respected measure used to rate scientific journals.
+
+![DOAJ](../assets/img/doaj-logo.png)
+##### Directory of Open Access Journals
+
+**9,457** Journals, **128** Countries, **2,442,144** Articles. 
+
+![OAIster](../assets/img/oaister-logo.png)
+##### OAIster (R)
+
+OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors.
+
+![OCLC First search](../assets/img/oclc-logo.png)
+##### OCLC FirstSearch (R)
+
+OCLC FirstSearch service is a valuable access point to research databases.
+
+![Pandora](../assets/img/pandora-logo.gif)
+##### Pandora, Australia's web archive
+
+![National Library of Australia](../assets/img/nla.au-logo.gif)
+##### National Library of Australia
+
+![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif)
+##### Ovid LinkSolver
+
+A journal and book browsing and linking tool.
+
+![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png)
+##### Ulrich's Global Serial Directory
+
+![EBSCOhost](../assets/img/ebscohost-db-logo.png)
+##### EBSCOhost Research Databases
+
+EBSCOhost databases are the most-used, premium online information resources for tens
+of thousands of institutions worldwide, representing millions of end users.
+Now you can access five new Ultimate Databases from EBSCO with superior content,
+global coverage, and relevant results.
+
+![OCLC Worldcat](../assets/img/worldcat-logo.png)
+##### OCLC Worldcat
+
+![EZB Regensburg University](../assets/img/ezb-logo.png)
+##### Electronic Journal Library @ University Library of Regensburg
 
 The submission, review and final publication of both series will be managed through the [General Information on The Python Papers](http://www.pythonpapers.org/instAuthor.html)
 

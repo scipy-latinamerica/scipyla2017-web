@@ -95,31 +95,46 @@ Ingeniería de Tejidos, Virología.
 
 ###### [http://scipyla.org/conf/2017/forms/reviewers/es](../forms/reviewers/es)
 
+N.B. Las aplicaciones para ayudar financieramente a los revisores son
+independientes a las [ayudas financieras](http://scipyla2017.cuban.tech/forms/financial-aid/es)
+ofrecidas a los asistentes y se gestionarán y otorgarán siguiendo criterios
+específicos para cada caso.
+
 ******************************************************************
 
 ### Indicaciones para los Autores
 
 SciPyLA 2017 tendrá varias publicaciones seriadas, una publicación arbitrada de artículos completos, y una monografía con resúmenes de otros trabajos. Ambos volúmenes del evento serán gestionados a través del sistema online para el envío, revisión y publicación final de los papers.
 
-La conferencia ofrece a los investigadores y candidatos a doctor de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), la cual está indexada en
-
-![DRJI](../assets/img/drji-logo.jpg)
-##### Directory of Research Journals Indexing
-
-**3674** Indexed Journals, **96378** Total Articles, **190** Total Countries
-
-![OAIster](../assets/img/oaister-logo.png)
-##### OAIster (R)
-
-OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors.
+La conferencia ofrece a los investigadores y candidatos a doctor de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, la cual está indexada en
 
 ![Google Scholar](../assets/img/google-scholar-logo.jpg)
 ##### Google Scholar
 
+![DRJI](../assets/img/drji-logo.jpg)
+##### Directory of Research Journals Indexing
+
+**3674** revistas indexadas, **96378** arículos en total, **190** países.
+
+![Index Copernicus](../assets/img/index.copernicus-logo.png)
+##### Index Copernicus
+
+La base de datos del [Índice Maestro de Revistas ICI](http://journals.indexcopernicus.com/page.php?page=2) contiene más de 22,000 revistas. El ICV es un indicador de la relevancia de una publicación seriada. El mismo ofrece información sobre cuan rápidamente se incrementa la tasa de citas de un artículo publicado.ICV es un indicador para publicaciones seriadas de temas científicos, respetado y establecido.
+
+![DOAJ](../assets/img/doaj-logo.png)
+##### Directory of Open Access Journals
+
+**9,457** revistas indexadas, **128** países, **2,442,144** artículos. 
+
+![OAIster](../assets/img/oaister-logo.png)
+##### OAIster (R)
+
+OAIster incluye más de 50 millones de fichas bibliográficas que representan recursos provenientes de más de 2,000 fuentes.
+
 ![OCLC First search](../assets/img/oclc-logo.png)
 ##### OCLC FirstSearch (R)
 
-OCLC FirstSearch service is a valuable access point to research databases.
+El servicio OCLC FirstSearch (R)  es un punto de acceso a bases de datos investigativas.
 
 ![Pandora](../assets/img/pandora-logo.gif)
 ##### Pandora, Australia's web archive
@@ -130,7 +145,7 @@ OCLC FirstSearch service is a valuable access point to research databases.
 ![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif)
 ##### Ovid LinkSolver
 
-A journal and book browsing and linking tool.
+Una herramienta de búsqueda y enlace de publicaciones seriadas y libros.
 
 ![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png)
 ##### Ulrich's Global Serial Directory
@@ -138,19 +153,24 @@ A journal and book browsing and linking tool.
 ![EBSCOhost](../assets/img/ebscohost-db-logo.png)
 ##### EBSCOhost Research Databases
 
-EBSCOhost databases are the most-used, premium online information resources for tens
-of thousands of institutions worldwide, representing millions of end users.
-Five New Ultimate Databases from EBSCO. Superior content, global coverage, relevant results.
+Las bases de datos EBSCOhost incluyen los recursos PREMIUM en línea más
+frecuentemente utilizados por decenas de miles de instituciones que representan
+millones de usuarios en todo el mundo. Ahora es posible acceder a cinco nuevas
+bases de datos PREMIUM en las que EBSCO ofrece contenidos de calidad suprema,
+puestos a disposición mediante servicios de búsqueda capaces de brindar
+resultados relevantes y cobertura global.
 
 ![OCLC Worldcat](../assets/img/worldcat-logo.png)
 ##### OCLC Worldcat
 
 ![EZB Regensburg University](../assets/img/ezb-logo.png)
-##### Electronic Journal Library @ University Library of Regensburg (TPP only)
+##### Electronic Journal Library @ University Library of Regensburg
+
+******************************************************************
 
 Los trabajos considerados relevantes por los revisores académicos podrán publicarse en otras revistas de los socios académicos del evento previa comunicación con usted.
 
-#### Instrucciones para publicar en The Python Papers (TPP)
+### Instrucciones para publicar en The Python Papers (TPP)
 
 1. [Registrarse como autor en TPP](http://ojs.pythonpapers.org/index.php/tpp/user/register).
 2. [Enviar un artículo](http://ojs.pythonpapers.org/index.php/tpp/author/submit).
