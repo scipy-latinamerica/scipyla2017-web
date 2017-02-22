@@ -116,12 +116,12 @@ La conferencia ofrece a los investigadores y candidatos a doctor de la región l
 
 **3674** revistas indexadas, **96378** arículos en total, **190** países.
 
-![Index Copernicus](../assets/img/index.copernicus-logo.png)
+![Index Copernicus](../assets/img/index.copernicus-logo.jpg)
 ##### Index Copernicus
 
 La base de datos del [Índice Maestro de Revistas ICI](http://journals.indexcopernicus.com/page.php?page=2) contiene más de 22,000 revistas. El ICV es un indicador de la relevancia de una publicación seriada. El mismo ofrece información sobre cuan rápidamente se incrementa la tasa de citas de un artículo publicado.ICV es un indicador para publicaciones seriadas de temas científicos, respetado y establecido.
 
-![DOAJ](../assets/img/doaj-logo.png)
+![DOAJ](../assets/img/doaj-logo.jpg)
 ##### Directory of Open Access Journals
 
 **9,457** revistas indexadas, **128** países, **2,442,144** artículos. 

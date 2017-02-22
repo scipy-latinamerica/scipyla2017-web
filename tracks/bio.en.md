@@ -98,12 +98,12 @@ SciPyLA 2017 will publish two manuscripts. The first will be "The Python Papers 
 
 **3674** Indexed Journals, **96378** Total Articles, **190** Total Countries
 
-![Index Copernicus](../assets/img/index.copernicus-logo.png)
+![Index Copernicus](../assets/img/index.copernicus-logo.jpg)
 ##### Index Copernicus
 
 The [ICI Journals Master List](http://journals.indexcopernicus.com/page.php?page=2) database contains over 22 000 journals. Index Copernicus Value (ICV) is the measure of a journal's strength. It provides information on how fast a published article is able to increase the citation rate. ICV is a respected measure used to rate scientific journals.
 
-![DOAJ](../assets/img/doaj-logo.png)
+![DOAJ](../assets/img/doaj-logo.jpg)
 ##### Directory of Open Access Journals
 
 **9,457** Journals, **128** Countries, **2,442,144** Articles. 
