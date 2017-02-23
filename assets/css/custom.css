@@ -525,6 +525,10 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   padding: 0;
 }
 
+#organizers img {
+  height: 100px;
+}
+
 .bg-grey {
   background-color: #f5f5f5;
 }
