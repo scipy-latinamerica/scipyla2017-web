@@ -485,6 +485,7 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   height: auto;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 25px;
   max-width: 100%;
 }
 
@@ -607,8 +608,27 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 
 /* Responsive */
 
+.img-ads {
+  background-color: #999;
+}
+
+/* Large */
+@media (min-width: 1200px) {
+
+  .img-ads {
+    height: 150px;
+    width: 900px;
+  }
+
+}
+
 /* Extra small */
 @media (max-width: 767px) {
+
+  .img-ads {
+    height: 200px;
+    width: 280px;
+  }
 
   .modal-footer .btn {
     font-size: 85%;
