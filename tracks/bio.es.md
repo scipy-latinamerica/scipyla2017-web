@@ -194,7 +194,7 @@ Si Ud. desea presentar un poster, solamente debe enviar un resumen. Cambie el pa
 
 #### Formato para redacción de los artículos.
 
-Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de haber utilizado una de las siguientes plantillas para redactar su artículo.
+Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de haber utilizado una de las siguientes plantillas para redactar su contenido.
 
 * [Plantilla ODT para redactar su artículo](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.odt)
 * [Plantilla DOC para redactar su artículo](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.doc)
@@ -202,10 +202,10 @@ Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de hab
 #### Fechas Importantes {#deadlines}
 
 *   Sitio Web de la Conferencia: Agosto 2016
-*   Aceptación de revisores: Noviembre 2016
-*   Recepción de trabajos: Enero 2017
-*   Respuesta de revisores: Febrero 2017
-*   Envío de correcciones: Marzo 2017
+*   Aceptación de revisores: 15 abril 2016
+*   Recepción de trabajos: 1 de mayo 2017
+*   Respuesta de revisores: 1 de junio 2017
+*   Envío de correcciones: 15 de julio 2017
 
 ******************************************************************
 
