@@ -6,8 +6,8 @@
       title_en: 'Bioinformatics',
       icon_class: 'icon-36'
     },
-    physics: {
-      title_es: 'Física',
+   physics: {
+     title_es: 'Física',
       title_en: 'Physics',
       icon_class: 'icon-37'
     },
@@ -40,11 +40,15 @@
   tracks_lookup = 'ihlceao', // Second char of track ID
   tracks_order  = ['bio', 'physics', 'elect', 'econ', 'tech', 'earth', 'social'];
 
-  var app = angular.module('scipyla.tracks', ['ngSanitize', 'markdown']);
+  for (var tid in tracks) {
+    tracks[tid].id = tid;
+  }
+
+  var app = angular.module('scipyla.tracks', ['ngSanitize', 'mdMarkdownIt']);
   
-  app.controller('TracksCtl', ['$scope', '$http', function($scope, $http) {
-    var active = window.location.hash.substr(1);
-  
+  app.controller('TracksCtl', ['$scope', function($scope) {
+    var active = (window.location.hash.match(/^#\/?(.*)/) || ['', ''])[1];
+
     function getlang() {
       // TODO: Current language for translations
       return 'es';
@@ -56,11 +60,7 @@
       $scope.active = track_id;
       if (track.desc === undefined) {
         var lang_id = getlang();
-        $http({method: 'GET', url: '../../tracks/' + track_id + '.' + lang_id + '.md'})
-        .success(
-          function(resp) {
-            tracks[track_id].desc = resp;
-          });
+        track.file = '../../tracks/' + track_id + '.' + lang_id + '.md';
       }
     }
   
