@@ -121,6 +121,8 @@ OCLC FirstSearch service is a valuable access point to research databases.
 ![Pandora](../assets/img/pandora-logo.gif)
 ##### Pandora, Australia's web archive
 
+PANDORA (Preserving and Accessing Networked Documentary Resources of Australia), Australia's Web Archive, is a growing collection of Australian online publications.
+
 ![National Library of Australia](../assets/img/nla.au-logo.gif)
 ##### National Library of Australia
 
@@ -145,6 +147,8 @@ global coverage, and relevant results.
 
 ![EZB Regensburg University](../assets/img/ezb-logo.png)
 ##### Electronic Journal Library @ University Library of Regensburg
+
+The Electronic Journals Library is a service to facilitate the use of scholarly journals on the internet. At the moment, 616 institutions actively take part in the Electronic Journals Library. The development of the EZB has been supported by the German Research Foundation (DFG), by the Federal Ministry of Education and Research and by the Bavarian State Ministry of Sciences, Research and the Arts.
 
 The submission, review and final publication of both series will be managed through the [General Information on The Python Papers](http://www.pythonpapers.org/instAuthor.html)
 

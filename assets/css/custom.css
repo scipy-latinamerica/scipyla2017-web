@@ -489,6 +489,11 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   max-width: 100%;
 }
 
+.md td {
+  padding: 7px;
+  vertical-align: top;
+}
+
 .round-menu .bg-grey {
   border-radius: 16px;
   cursor: pointer;

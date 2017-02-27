@@ -108,63 +108,22 @@ SciPyLA 2017 tendrá varias publicaciones seriadas, una publicación arbitrada d
 
 La conferencia ofrece a los investigadores y candidatos a doctor de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, la cual está indexada en
 
-![Google Scholar](../assets/img/google-scholar-logo.jpg)
-##### Google Scholar
-
-![DRJI](../assets/img/drji-logo.jpg)
-##### Directory of Research Journals Indexing
-
-**3674** revistas indexadas, **96378** arículos en total, **190** países.
-
-![Index Copernicus](../assets/img/index.copernicus-logo.jpg)
-##### Index Copernicus
-
-La base de datos del [Índice Maestro de Revistas ICI](http://journals.indexcopernicus.com/page.php?page=2) contiene más de 22,000 revistas. El ICV es un indicador de la relevancia de una publicación seriada. El mismo ofrece información sobre cuan rápidamente se incrementa la tasa de citas de un artículo publicado.ICV es un indicador para publicaciones seriadas de temas científicos, respetado y establecido.
-
-![DOAJ](../assets/img/doaj-logo.jpg)
-##### Directory of Open Access Journals
-
-**9,457** revistas indexadas, **128** países, **2,442,144** artículos. 
-
-![OAIster](../assets/img/oaister-logo.png)
-##### OAIster (R)
-
-OAIster incluye más de 50 millones de fichas bibliográficas que representan recursos provenientes de más de 2,000 fuentes.
-
-![OCLC First search](../assets/img/oclc-logo.png)
-##### OCLC FirstSearch (R)
-
-El servicio OCLC FirstSearch (R)  es un punto de acceso a bases de datos investigativas.
-
-![Pandora](../assets/img/pandora-logo.gif)
-##### Pandora, Australia's web archive
-
-![National Library of Australia](../assets/img/nla.au-logo.gif)
-##### National Library of Australia
-
-![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif)
-##### Ovid LinkSolver
-
-Una herramienta de búsqueda y enlace de publicaciones seriadas y libros.
-
-![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png)
-##### Ulrich's Global Serial Directory
-
-![EBSCOhost](../assets/img/ebscohost-db-logo.png)
-##### EBSCOhost Research Databases
-
-Las bases de datos EBSCOhost incluyen los recursos PREMIUM en línea más
-frecuentemente utilizados por decenas de miles de instituciones que representan
-millones de usuarios en todo el mundo. Ahora es posible acceder a cinco nuevas
-bases de datos PREMIUM en las que EBSCO ofrece contenidos de calidad suprema,
-puestos a disposición mediante servicios de búsqueda capaces de brindar
-resultados relevantes y cobertura global.
-
-![OCLC Worldcat](../assets/img/worldcat-logo.png)
-##### OCLC Worldcat
-
-![EZB Regensburg University](../assets/img/ezb-logo.png)
-##### Electronic Journal Library @ University Library of Regensburg
+|         |             |
+|:-------:|-------------|
+| ![Google Scholar](../assets/img/google-scholar-logo.jpg) | **Google Scholar** : Buscador de Google para artículos académicos |
+| ![DRJI](../assets/img/drji-logo.jpg) | **Directory of Research Journals Indexing** : *3674* revistas indexadas, *96378* artículos en total, *190* países |
+| ![Index Copernicus](../assets/img/index.copernicus-logo.jpg) | **Index Copernicus** : La base de datos del [Índice Maestro de Revistas ICI](http://journals.indexcopernicus.com/page.php?page=2) contiene más de *22,000* revistas. El ICV es un indicador de la relevancia de una publicación seriada. El mismo ofrece información sobre cuan rápidamente se incrementa la tasa de citas de un artículo publicado.ICV es un indicador para publicaciones seriadas de temas científicos, respetado y establecido.|
+| ![DOAJ](../assets/img/doaj-logo.jpg) | **Directory of Open Access Journals** : *9,457* revistas indexadas, *128* países, *2,442,144* artículos. |
+| ![OAIster](../assets/img/oaister-logo.png) | **OAIster (R)** : OAIster incluye más de 50 millones de fichas bibliográficas que representan recursos provenientes de más de *2,000* fuentes.|
+| ![OCLC First search](../assets/img/oclc-logo.png) | **OCLC FirstSearch (R)** : El servicio OCLC FirstSearch (R)  es un punto de acceso a bases de datos investigativas.|
+| ![Pandora](../assets/img/pandora-logo.gif) | **Pandora, Australia's web archive** : PANDORA (Preserving and Accessing Networked Documentary Resources of Australia), es una collección cada vez más grande de publicaciones digitales australianas en línea |
+| ![National Library of Australia](../assets/img/nla.au-logo.gif) | **National Library of Australia** : |
+| ![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif) | **Ovid LinkSolver** : Una herramienta de búsqueda y enlace de publicaciones seriadas y libros .|
+| ![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png) | **Ulrich's Global Serial Directory** : |
+| ![EBSCOhost](../assets/img/ebscohost-db-logo.png) | **EBSCOhost Research Databases** : Las bases de datos EBSCOhost incluyen los recursos PREMIUM en línea más frecuentemente utilizados por decenas de miles de instituciones que representan millones de usuarios en todo el mundo. Ahora es posible acceder a cinco nuevas bases de datos PREMIUM en las que EBSCO ofrece contenidos de calidad suprema, puestos a disposición mediante servicios de búsqueda capaces de brinda resultados relevantes y cobertura global. |
+| ![OCLC Worldcat](../assets/img/worldcat-logo.png) | **OCLC Worldcat** : |
+| ![EZB Regensburg University](../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : Electronic Journals Library es un servicio que facilita el acceso a publicaciones seriadas distribuidas por internet. En este momento *616* instituciones colaboran activamente en el proyecto. |
+| ![eGranary](../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - también conocida como *la Internet dentro de una caja* - ofrece millones de recursos educacionales a instituciones que carecen de acceso a internet adecuado |
 
 ******************************************************************
 
