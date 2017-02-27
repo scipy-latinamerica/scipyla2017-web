@@ -1,4 +1,6 @@
 
+![Código de Conducta](../assets/img/coc.jpg)
+
 # Código de Conducta
 
 Todos los participantes, conferencistas, patrocinadores y voluntarios que

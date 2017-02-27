@@ -471,16 +471,16 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 
 /* Custom components */
 
-#track-desc h1,
-#track-desc h2,
-#track-desc h3,
-#track-desc h4,
-#track-desc h5,
-#track-desc h6 {
+.md h1,
+.md h2,
+.md h3,
+.md h4,
+.md h5,
+.md h6 {
   text-align: center;
 }
 
-#track-desc img {
+.md img {
   display: block;
   height: auto;
   margin-left: auto;
@@ -622,6 +622,10 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   .img-ads {
     height: 150px;
     width: 900px;
+  }
+
+  .footer {
+    background-size: cover;
   }
 
 }

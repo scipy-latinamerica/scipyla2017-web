@@ -1,3 +1,6 @@
+
+![Code of Conduct](../assets/img/coc.jpg)
+
 # Code of Conduct
 
 We, the organizers of SciPyLA 2017, are dedicated to providing a

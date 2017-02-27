@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="Organizers - SciPyLA 2017 - The scientific Python conference in Latin America">
+    <meta name="description" content="TITLE - SciPyLA 2017 - The scientific Python conference in Latin America">
     <meta name="author" content="The SciPyLA community">
     <link rel="icon" href="../favicon.ico">
 
-    <title>SciPyLA 2017 - Organizers</title>
+    <title>SciPyLA 2017 - TITLE </title>
 
     <!-- Bootstrap core CSS -->
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
@@ -34,7 +34,7 @@
     <![endif]-->
   </head>
 
-  <body ng-app="scipyla.tracks">
+  <body ng-app="scipyla.md">
     <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top navbar-inverse text-uppercase">
       <div class="container">
@@ -72,7 +72,7 @@
                 <li><a href="../schedule">Agenda de actividades</a></li>
                 <li role="separator" class="divider"></li>
                 <li class="dropdown-header">Talleres</li>
-                <li><a href="../tracks#bio">Bioinform&aacute;tica</a></li>
+                <li><a href="../tracks/bio">Bioinform&aacute;tica</a></li>
                 <li><a href="../tracks/physics">F&iacute;sica</a></li>
                 <li><a href="../tracks/elect">Ingenier&iacute;a Électrica y Automatizaci&oacute;n</a></li>
                 <li><a href="../tracks/econ">Econom&iacute;a e Investigaci&oacute;n de Operaciones</a></li>
@@ -141,41 +141,12 @@
 
     <div class="container">
 
-      <p>&nbsp;</p>
-      <h3 class="text-center">ORGANIZADORES</h3>
-      <p>&nbsp;</p>
-
-      <div class="row" id="organizers">
-        <div class="text-center col-md-6" id="cubantech">
-          <img class="center-block img-responsive" src="../assets/img/cubantech.svg" height="100" />
-          <p>
-El grupo CubanTech est&aacute; integrado por j&oacute;venes cubanos profesionales de la
-inform&aacute;tica que  colaboran con instituciones, asociaciones y fundaciones 
-cubanas para ofrecer actividades de difusi&oacute;n y educaci&oacute;n sobre el desarrollo
-inclusivo y colaborativo de tecnolog&iacute;as basadas en est&aacute;ndares abiertos. Con
-apoyo de la PSF organizaremos el primer PyCon Cuba 2017.
-          </p>
-          <p> M&aacute;s informaci&oacute;n en
-            <a href="http://cuban.tech"><span class="icon-10"></span> http://cuban.tech</a>
-          </p>
-        </div>
-        <hr class="visible-xs visible-sm" />
-        <div class="text-center col-md-6" id="psf">
-          <img class="center-block img-responsive" src="../assets/img/psf.png" height="100" />
-          <p>
-La Python Software Foundation (PSF) es una organizaci&oacute;n sin &aacute;nimos de lucro
-y membres&iacute;a abierta, dedicada al mejoramiento de las tecnolog&iacute;as de
-c&oacute;digo abierto relacionadas con el lenguaje de programaci&oacute;n Python.
-La misma opera bajo las reglas del ep&iacute;grafe 501(c)3 del US Internal Revenue Code,
-con el status de organizaci&oacute;n caritativa, p&uacute;blica, exenta de grav&aacute;menes
-tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
-          <p> M&aacute;s informaci&oacute;n en
-            <a href="http://www.python.org/psf"><span class="icon-10"></span> http://www.python.org/psf</a>
-          </p>
-          </p>
+      <div class="row">
+        <div class="col-xs-12">
+          <div markdown-it ng-include="'Code_of_Conduct.es.md'" class="md">
+          </div>
         </div>
       </div>
-      
 
       <footer class="footer text-center">
         <div class="btn-group btn-group-lg">
@@ -202,6 +173,11 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
     <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
     <script src="../dist/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.0/angular-sanitize.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/markdown-it/6.0.0/markdown-it.min.js"></script>
+    <script src="../assets/js/ng-markdownit.min.js"></script>
+    <script src="../assets/js/md.js"></script>
 
   </body>
 </html>
