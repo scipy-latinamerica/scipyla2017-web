@@ -34,7 +34,7 @@
     <![endif]-->
   </head>
 
-  <body ng-app="scipyla.tracks">
+  <body ng-app="scipyla.md">
     <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top navbar-inverse text-uppercase">
       <div class="container">
@@ -65,7 +65,7 @@
                 <li><a href="../index.html#contact">Contacto</a></li>
               </ul>
             </li>
-            <li class="dropdown active">
+            <li class="dropdown">
               <a href="../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Programa <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../forms/tickets">Reservar tickets</a></li>
@@ -85,7 +85,7 @@
                 <li><a href="../forms/activity">Propuestas de charlas</a></li>
               </ul>
             </li>
-            <li class="dropdown">
+            <li class="dropdown active">
               <a href="../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Comunidad <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../organizers">Organizadores</a></li>
@@ -123,6 +123,8 @@
                 <li role="separator" class="divider"></li>
                 <li><a href="../diversity">Diversidad</a></li>
                 <li><a href="../coc">C&oacute;digo de Conducta</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="../forms/joinus">&Uacute;nete al Equipo</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -175,7 +177,10 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
           </p>
         </div>
       </div>
-      
+
+      <div class="md" markdown-it ng-include="'staff.es.md'">
+      </div>
+
 
       <footer class="footer text-center">
         <div class="btn-group btn-group-lg">
@@ -202,6 +207,11 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
     <script src="../assets/js/ie10-viewport-bug-workaround.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
     <script src="../dist/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.0/angular-sanitize.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/markdown-it/6.0.0/markdown-it.min.js"></script>
+    <script src="../assets/js/ng-markdownit.min.js"></script>
+    <script src="../assets/js/md.js"></script>
 
   </body>
 </html>
