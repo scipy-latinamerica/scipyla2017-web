@@ -1,0 +1,54 @@
+
+# Registering for SciPyLA
+
+Registration is not open yet . Once this will be ready you will see a link to the registration form below.
+
+[Follow us](../#contact-div) to be notified of conference registration.
+
+Part of the funds raised with registration fees are used to pay for services and products needed during the conference. The rest goes to the financial aid fund and is aimed at supporting participation of people with low incomes or those for whom it is not possible to attend the event for other reasons. In particular, this allows Cuban citizens to participate free of charge. SciPyLA trusts you to self-select a fair registration rate:
+
+- Corporate Rate : If your company is paying for you to attend SciPyLA 2017, register at the corporate rate. You will help keep the conference affordable for everyone, especially students and those needing financial aid. Government employees should also register at the corporate rate.
+- Individual Rate : If you are paying for yourself to attend SciPyLA, feel free to come as an individual. Employees of non-profits might also choose to register at the individual rate. Notice that the price varies considering your country of origin. A way to think about this is to consider this policy as granting a financial aid in advance to people traveling from under-developed countries.
+- Student Rate : This rate is for full-time students and academics.
+
+Here is how much each level costs for SciPyLA 2017:
+
+| Rate | Cost |
+|------:|------|
+| Corporate | $350 USD |
+| Individual - North America, Europe, Russia, Japan, South Korea, Australia, New Zealand, South Africa | $200 USD |
+| Individual - Latin America and the Caribbean, Africa, Asia-Pacific | $75 USD |
+| Individual - Cuba | **free** but limited in slots available |
+| Student | $75 USD |
+
+Note: Tutorial registration is not included in regular conference registration prices. Tutorial registration will open in May 2017. Cost will be $15 per tutorial and onsite it will be $30 per tutorial.
+
+## What's Included?
+
+Conference registration includes a full breakfast, full lunch, and both morning and afternoon break refreshments on the three conference days Friday, Saturday, and Sunday (May 19-21, 2017).
+
+Tutorial attendees on the Wednesday and Thursday (before the main conference) will be provided with lunch and break refreshments. Attendees pay per tutorial for each tutorial class that they attend, and purchasing a tutorial by itself does not include admission to the main conference. Tutorial registration will open in 2017. One tutorial will cost $15 and onsite, it will cost $30.
+
+When registration is open, attendees can also book hotel reservations at venues where we have negotiated conference rates. Please be aware of "housing pirates" and do not book rooms through solicitations. Our staff will never call you to reserve a room. Only book rooms through our registration website.
+
+## Childcare
+
+Childcare is not available.
+
+## Financial Aid
+
+Everyone - even the conference chair - pays for registration so that we can assist those who might not otherwise be able to attend. To learn more about Financial Aid for flights, hotel, registration, and childcare to attend PyCon, see the [Financial Aid](../forms/financial-aid) page.
+
+[Submit a financial aid application](../forms/financial-aid)
+
+## Cancellation Policy
+
+> For our foreign guests: if you are denied a VISA, or denied entry to Cuba, please contact us and we will refund your registration : in full, and without a processing fee.
+
+Registration cancellations must be submitted in writing and received by July 15th, 2017 in order to receive a refund less a processing fee of $25. No refunds will be granted for cancellations received after July 15th, 2017.
+
+## Questions?
+
+If you have questions or issues with registration, please [contact us](../#contact-div)
+
+

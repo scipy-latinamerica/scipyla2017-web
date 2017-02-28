@@ -182,11 +182,7 @@ Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de hab
 
 # Inscripción / Asistencia / Pagos
 
-Las cuotas de inscripción cubren solamente la posibilidad de asistir al evento y están diferenciadas por regiones para promover la participación de estudiantes, profesionales e investigadores de América Latina y el Caribe imposibilitados de estar presencialmente en el evento por circunstancias de índole económica u otras razones. Para más detalles sobre este tema infórmese sobre [las ayudas financieras](../forms/financial-aid/es).
-
-- *América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zelanda, Sudáfrica* : $200.00 USD
-- *América Latina y el Caribe, África, Asia, Oceanía* : $75.00 USD
-- *Cuba* : libre de costo, pero con cupos límitados
+Las [cuotas de inscripción](../register) cubren solamente la posibilidad de asistir al evento y están diferenciadas por regiones para promover la participación de estudiantes, profesionales e investigadores de América Latina y el Caribe imposibilitados de estar presencialmente en el evento por circunstancias de índole económica u otras razones. Para más detalles sobre el tema consulte las [cuotas de inscripción](../register). Para conocer otras maneras de financiar su participación infórmese sobre [las ayudas financieras](../forms/financial-aid/es).
 
 TODO: Travel guidelines
 
