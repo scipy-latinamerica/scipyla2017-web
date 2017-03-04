@@ -1,5 +1,5 @@
 
-## Conferencia Latinoaméricana de Computación Científica con Python
+## 5ta Conferencia Latinoaméricana de Computación Científica con Python
 
 ![SciPyLA 2017](../assets/img/scipyla.svg)
 
@@ -86,7 +86,7 @@ Nanomateriales, Nanotecnologías, Neurociencias, Paleo-Biología,
 Ingeniería y Química de Polímeros, Fitoquímica, Biología Estructural,
 Química Supramolecular, Biología Sintética, Métodos de Genómica Sintética,
 Ingeniería de Tejidos, Virología.
-        
+​        
 ******************************************************************
 
 ![Welcome reviewers](../assets/img/cfr.png)
@@ -95,10 +95,7 @@ Ingeniería de Tejidos, Virología.
 
 ###### [http://scipyla.org/conf/2017/forms/reviewers/es](../forms/reviewers/es)
 
-N.B. Las aplicaciones para ayudar financieramente a los revisores son
-independientes a las [ayudas financieras](http://scipyla2017.cuban.tech/forms/financial-aid/es)
-ofrecidas a los asistentes y se gestionarán y otorgarán siguiendo criterios
-específicos para cada caso.
+N.B. Las aplicaciones para ayudar financieramente a los revisores son independientes a las [ayudas financieras](http://scipyla2017.cuban.tech/forms/financial-aid/es) ofrecidas a los asistentes y se gestionarán y otorgarán siguiendo criterios específicos para cada caso.
 
 ******************************************************************
 
@@ -106,22 +103,22 @@ específicos para cada caso.
 
 SciPyLA 2017 tendrá varias publicaciones seriadas, una publicación arbitrada de artículos completos, y una monografía con resúmenes de otros trabajos. Ambos volúmenes del evento serán gestionados a través del sistema online para el envío, revisión y publicación final de los papers.
 
-La conferencia ofrece a los investigadores y candidatos a doctor de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, la cual está indexada en
+La conferencia ofrece a los investigadores de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, la cual está indexada en:
 
-|         |             |
-|:-------:|-------------|
+|                                          |                                          |
+| :--------------------------------------: | ---------------------------------------- |
 | ![Google Scholar](../assets/img/google-scholar-logo.jpg) | **Google Scholar** : Buscador de Google para artículos académicos |
-| ![DRJI](../assets/img/drji-logo.jpg) | **Directory of Research Journals Indexing** : *3674* revistas indexadas, *96378* artículos en total, *190* países |
-| ![Index Copernicus](../assets/img/index.copernicus-logo.jpg) | **Index Copernicus** : La base de datos del [Índice Maestro de Revistas ICI](http://journals.indexcopernicus.com/page.php?page=2) contiene más de *22,000* revistas. El ICV es un indicador de la relevancia de una publicación seriada. El mismo ofrece información sobre cuan rápidamente se incrementa la tasa de citas de un artículo publicado.ICV es un indicador para publicaciones seriadas de temas científicos, respetado y establecido.|
-| ![DOAJ](../assets/img/doaj-logo.jpg) | **Directory of Open Access Journals** : *9,457* revistas indexadas, *128* países, *2,442,144* artículos. |
-| ![OAIster](../assets/img/oaister-logo.png) | **OAIster (R)** : OAIster incluye más de 50 millones de fichas bibliográficas que representan recursos provenientes de más de *2,000* fuentes.|
-| ![OCLC First search](../assets/img/oclc-logo.png) | **OCLC FirstSearch (R)** : El servicio OCLC FirstSearch (R)  es un punto de acceso a bases de datos investigativas.|
+|   ![DRJI](../assets/img/drji-logo.jpg)   | **Directory of Research Journals Indexing** : *3674* revistas indexadas, *96378* artículos en total, *190* países |
+| ![Index Copernicus](../assets/img/index.copernicus-logo.jpg) | **Index Copernicus** : La base de datos del [Índice Maestro de Revistas ICI](http://journals.indexcopernicus.com/page.php?page=2) contiene más de *22,000* revistas. El ICV es un indicador de la relevancia de una publicación seriada. El mismo ofrece información sobre cuan rápidamente se incrementa la tasa de citas de un artículo publicado.ICV es un indicador para publicaciones seriadas de temas científicos, respetado y establecido. |
+|   ![DOAJ](../assets/img/doaj-logo.jpg)   | **Directory of Open Access Journals** : *9,457* revistas indexadas, *128* países, *2,442,144* artículos. |
+| ![OAIster](../assets/img/oaister-logo.png) | **OAIster (R)** : OAIster incluye más de 50 millones de fichas bibliográficas que representan recursos provenientes de más de *2,000* fuentes. |
+| ![OCLC First search](../assets/img/oclc-logo.png) | **OCLC FirstSearch (R)** : El servicio OCLC FirstSearch (R)  es un punto de acceso a bases de datos investigativas. |
 | ![Pandora](../assets/img/pandora-logo.gif) | **Pandora, Australia's web archive** : PANDORA (Preserving and Accessing Networked Documentary Resources of Australia), es una collección cada vez más grande de publicaciones digitales australianas en línea |
-| ![National Library of Australia](../assets/img/nla.au-logo.gif) | **National Library of Australia** : |
-| ![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif) | **Ovid LinkSolver** : Una herramienta de búsqueda y enlace de publicaciones seriadas y libros .|
-| ![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png) | **Ulrich's Global Serial Directory** : |
+| ![National Library of Australia](../assets/img/nla.au-logo.gif) | **National Library of Australia** :      |
+| ![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif) | **Ovid LinkSolver** : Una herramienta de búsqueda y enlace de publicaciones seriadas y libros . |
+| ![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png) | **Ulrich's Global Serial Directory** :   |
 | ![EBSCOhost](../assets/img/ebscohost-db-logo.png) | **EBSCOhost Research Databases** : Las bases de datos EBSCOhost incluyen los recursos PREMIUM en línea más frecuentemente utilizados por decenas de miles de instituciones que representan millones de usuarios en todo el mundo. Ahora es posible acceder a cinco nuevas bases de datos PREMIUM en las que EBSCO ofrece contenidos de calidad suprema, puestos a disposición mediante servicios de búsqueda capaces de brinda resultados relevantes y cobertura global. |
-| ![OCLC Worldcat](../assets/img/worldcat-logo.png) | **OCLC Worldcat** : |
+| ![OCLC Worldcat](../assets/img/worldcat-logo.png) | **OCLC Worldcat** :                      |
 | ![EZB Regensburg University](../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : Electronic Journals Library es un servicio que facilita el acceso a publicaciones seriadas distribuidas por internet. En este momento *616* instituciones colaboran activamente en el proyecto. |
 | ![eGranary](../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - también conocida como *la Internet dentro de una caja* - ofrece millones de recursos educacionales a instituciones que carecen de acceso a internet adecuado |
 
@@ -132,24 +129,42 @@ Los trabajos considerados relevantes por los revisores académicos podrán publi
 ### Instrucciones para publicar en The Python Papers (TPP)
 
 1. [Registrarse como autor en TPP](http://ojs.pythonpapers.org/index.php/tpp/user/register).
-2. [Enviar un artículo](http://ojs.pythonpapers.org/index.php/tpp/author/submit).
-    
+2. [Enviar un artículo antes del 1 de Mayo](http://ojs.pythonpapers.org/index.php/tpp/author/submit).
+
     2.1. Seleccione la opción "Peer-reviewed Articles", y siga las instrucciones.
-    
+
     2.2. **Importante:** agregar **SciPyLA2017** en el campo "Comments for the Editor".
 
 3. Arbitros expertos en su temática harán la revisión.
-4. Se le notificará la decisión editorial: [(ver fechas)](#deadlines).
-    
+4. Se le notificará la decisión editorial antes del 1ro de Junio: [(ver fechas)](#deadlines).
+
     4.1 RECHAZADO: Ud. solo podrá leer los commentarios hechos por los expertos.
-    
+
     4.2 ACEPTADO: Ud. deberá enviar antes de la fecha indicada cualquier corrección que le sea solicitada. [(ver fechas)](#deadlines).
 
-Para más información le invitamos a consular las [instrucciones de publicación en The Python Papers](http://www.pythonpapers.org/instAuthor.html)
+#### Instrucciones para envío de Posters a la Monografía TPPM
 
-#### Instrucciones para envío de resúmenes en la Monografía TPPM
+You will only be required to submit the abstract of your presentation.
 
-Si Ud. desea presentar un poster, solamente debe enviar un resumen. Cambie el paso 1 y regístrese en: [autor en TPPM](http://ojs.pythonpapers.org/index.php/tppm/user/register)
+1. [Registrarse como autor en TPPM](http://ojs.pythonpapers.org/index.php/tppm/user/register).
+
+   Seleccionar el registro como "as author".
+
+2. [Enviar el resumen antes del 1 de Mayo](http://ojs.pythonpapers.org/index.php/tppm/author/submit).
+
+    2.1. Seleccione la opción "Peer-reviewed Articles", y siga las instrucciones.
+
+    2.2. **Importante:** agregar **ScipyLA2017** en el campo "Comments for the Editor".
+
+3. Arbitros expertos en su temática harán la revisión.
+
+4. Se le notificará la decisión editorial antes del 1ro de Junio: [(ver fechas)](#deadlines).
+
+    4.1 RECHAZADO: Ud. podrá leer los commentarios hechos por los expertos.
+
+    4.2 ACEPTADO: Ud. deberá enviar antes de la fecha indicada cualquier corrección que le sea solicitada antes del 15 de Julio. [(ver fechas)](#deadlines).
+
+5. Envíe el poster completo a los __Contactos del Event__ antes del 15 de Julio: [(ver fechas)](#deadlines).
 
 #### Formato para redacción de los artículos.
 
@@ -157,6 +172,12 @@ Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de hab
 
 * [Plantilla ODT para redactar su artículo](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.odt)
 * [Plantilla DOC para redactar su artículo](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.doc)
+
+Los artículos completos no excederán las 10 páginas.
+
+Los posters tendrán una dimensión de 70cmx100cm, con márgenes por sus cuatro lados de 1.5cm. Use las mismas fuentes ofrecidas en las plantillas de los artículos adicionando de manera obligatoria título, autores, contactos, resumen y resultados, y luego otros de su elección.
+
+Para más información le invitamos a consular las [instrucciones de publicación en The Python Papers](http://www.pythonpapers.org/instAuthor.html)
 
 #### Fechas Importantes {#deadlines}
 
@@ -174,11 +195,11 @@ Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de hab
 
 * **Presentaciones y charlas:** Conferencistas invitados hablarán acerca de tendencias mundiales y mejores prácticas en el ámbito científico.
 
-*   **Sesiones de Posters:** Exponga sus investigaciones utilizando pancartas y medios visuales atractivos.
+* **Sesiones de Posters:** Exponga sus investigaciones utilizando pancartas y medios visuales atractivos.
 
-*   **Sprints:** Reúnase con los autores de bibliotecas singulares para conocer maneras más eficientes de realizar cálculos científicos.
+* **Sprints:** Reúnase con los autores de bibliotecas singulares para conocer maneras más eficientes de realizar cálculos científicos.
 
-*   **Charlas relámpago:** Promocione y amplíe el alcance de su investigación exponiendo en breve tiempo sus ideas a los especialistas de la región.
+* **Charlas relámpago:** Promocione y amplíe el alcance de su investigación exponiendo en breve tiempo sus ideas a los especialistas de la región.
 
 # Inscripción / Asistencia / Pagos
 

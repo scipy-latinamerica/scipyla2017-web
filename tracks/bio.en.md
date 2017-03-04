@@ -13,7 +13,7 @@
 ###### [http://scipyla.org/conf/2017/](http://scipyla.org/conf/2017/)
 
 ******************************************************************
-# BROUGHT TO YOU BY
+# ORGANIZED BY
 
 ![Grupo CubanTech](../assets/img/cubantech.svg)
 
@@ -83,70 +83,33 @@ Supramolecular Chemistry, Synthetic Biology, Synthetic Genomics Systematics, Tis
 
 ###### [http://scipyla.org/conf/2017/forms/reviewers/en](../forms/reviewers/en)
 
+N.B. Financial applications for reviewers are separated from [financial helps](http://scipyla2017.cuban.tech/forms/financial-aid/es) offered to the attendants and these will be managed and granted following specific criterion in each case.
+
 ******************************************************************
 ### Instructions for Authors
 
-The conference offers the Latin American researchers the opportunity to publish in an international Journal. Furthermore, you could contribute to the convention's main objectives: reproducible science, effective divulgation of scientific discoveries, communication of Python experiences and contributions to science, to the scientific and technological development of Latin America.
+SciPyLA 2017 will publish two serialized manuscripts, the first will be for full peer-reviewed papers, and the other for poster-abstracts. The submission, review and final publication of both series will be managed through the [online system](http://ojs.pythonpapers.org/).
 
-SciPyLA 2017 will publish two manuscripts. The first will be "The Python Papers (TPP)", ISSN: 1834-3147, for full peer-reviewed papers, and the other "The Python Papers Monograph (TPPM)" for abstracts. Both journals are indexed in
+The conference offers the researchers the opportunity to publish in the international journal __The Python Papers__ (TPP), ISSN: 1834-3147, for full peer-reviewed papers, and in the "The Python Papers Monograph (TPPM)" for poster-abstracts. Both journals are indexed in:
 
-![Google Scholar](../assets/img/google-scholar-logo.jpg)
-##### Google Scholar
+|                                          |                                          |
+| :--------------------------------------: | ---------------------------------------- |
+| ![Google Scholar](../assets/img/google-scholar-logo.jpg) | **Google Scholar** : Google search engine for academic papers |
+|   ![DRJI](../assets/img/drji-logo.jpg)   | **Directory of Research Journals Indexing** : **3674** Indexed Journals, **96378** Total Articles, **190** Total Countries |
+| ![Index Copernicus](../assets/img/index.copernicus-logo.jpg) | **Index Copernicus** : The [ICI Journals Master List](http://journals.indexcopernicus.com/page.php?page=2) database contains over 22 000 journals. Index Copernicus Value (ICV) is the measure of a journal's strength. It provides information on how fast a published article is able to increase the citation rate. ICV is a respected measure used to rate scientific journals. |
+|   ![DOAJ](../assets/img/doaj-logo.jpg)   | **Directory of Open Access Journals** : **9,457** Journals, **128** Countries, **2,442,144** Articles. |
+| ![OAIster](../assets/img/oaister-logo.png) | **OAIster (R)** : OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors. |
+| ![OCLC First search](../assets/img/oclc-logo.png) | **OCLC FirstSearch (R)** : OCLC FirstSearch service is a valuable access point to research databases. |
+| ![Pandora](../assets/img/pandora-logo.gif) | **Pandora, Australia's web archive** : PANDORA (Preserving and Accessing Networked Documentary Resources of Australia), online repository for Australian publications. |
+| ![National Library of Australia](../assets/img/nla.au-logo.gif) | **National Library of Australia**:       |
+| ![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif) | **Ovid LinkSolver** : A journal and book browsing and linking tool. |
+| ![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png) | **Ulrich's Global Serial Directory** :   |
+| ![EBSCOhost](../assets/img/ebscohost-db-logo.png) | **EBSCOhost Research Databases** :  EBSCOhost databases are the most-used, premium online information resources for tensof thousands of institutions worldwide, representing millions of end users.Now you can access five new Ultimate Databases from EBSCO with superior content,global coverage, and relevant results. |
+| ![OCLC Worldcat](../assets/img/worldcat-logo.png) | **OCLC Worldcat** :                      |
+| ![EZB Regensburg University](../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : The Electronic Journals Library is a service that enable the access to serialized journals spread over Internet. In 2016 more than 600 institutions collaborate actively with the project. |
+| ![eGranary](../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - also known as _Internet inside a box_ - offers millions of educational resources to institutions with low band Internet access. |
 
-![DRJI](../assets/img/drji-logo.jpg)
-##### Directory of Research Journals Indexing
-
-**3674** Indexed Journals, **96378** Total Articles, **190** Total Countries
-
-![Index Copernicus](../assets/img/index.copernicus-logo.jpg)
-##### Index Copernicus
-
-The [ICI Journals Master List](http://journals.indexcopernicus.com/page.php?page=2) database contains over 22 000 journals. Index Copernicus Value (ICV) is the measure of a journal's strength. It provides information on how fast a published article is able to increase the citation rate. ICV is a respected measure used to rate scientific journals.
-
-![DOAJ](../assets/img/doaj-logo.jpg)
-##### Directory of Open Access Journals
-
-**9,457** Journals, **128** Countries, **2,442,144** Articles. 
-
-![OAIster](../assets/img/oaister-logo.png)
-##### OAIster (R)
-
-OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors.
-
-![OCLC First search](../assets/img/oclc-logo.png)
-##### OCLC FirstSearch (R)
-
-OCLC FirstSearch service is a valuable access point to research databases.
-
-![Pandora](../assets/img/pandora-logo.gif)
-##### Pandora, Australia's web archive
-
-![National Library of Australia](../assets/img/nla.au-logo.gif)
-##### National Library of Australia
-
-![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif)
-##### Ovid LinkSolver
-
-A journal and book browsing and linking tool.
-
-![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png)
-##### Ulrich's Global Serial Directory
-
-![EBSCOhost](../assets/img/ebscohost-db-logo.png)
-##### EBSCOhost Research Databases
-
-EBSCOhost databases are the most-used, premium online information resources for tens
-of thousands of institutions worldwide, representing millions of end users.
-Now you can access five new Ultimate Databases from EBSCO with superior content,
-global coverage, and relevant results.
-
-![OCLC Worldcat](../assets/img/worldcat-logo.png)
-##### OCLC Worldcat
-
-![EZB Regensburg University](../assets/img/ezb-logo.png)
-##### Electronic Journal Library @ University Library of Regensburg
-
-The submission, review and final publication of both series will be managed through the [General Information on The Python Papers](http://www.pythonpapers.org/instAuthor.html)
+By mutual agreement between you and the convention's  committee, some papers considered relevant by the reviewers could be published in other magazines of the academic partners of the event. 
 
 #### Submitting papers to TPP
 
@@ -154,7 +117,7 @@ The submission, review and final publication of both series will be managed thro
 
    You will select the registration "as author".
 
-2. [Submit your paper by February 28](http://ojs.pythonpapers.org/index.php/tpp/author/submit).
+2. [Submit your paper by May 1](http://ojs.pythonpapers.org/index.php/tpp/author/submit).
 
     2.1. Select the option "Peer-reviewed Articles", and follow the instructions.
 
@@ -162,29 +125,56 @@ The submission, review and final publication of both series will be managed thro
 
 3. Reviewers on the subject will make their assessment.
 
-4. You will be notified of the editorial decision by March 30 (see __Important Dates__ section).
+4. You will be notified of the editorial decision by June 1 (see __Important Dates__ section).
 
     4.1 REJECTED: You will be able to read the reviewer's comments.
 
-    4.2 ACCEPTED: You will be asked to address the reviewers comments and submit the camera-ready version by April 15 (see __Important Dates__ section).
+    4.2 ACCEPTED: You will be asked to address the reviewers comments and submit the camera-ready version by July 15 (see __Important Dates__ section).
 
-#### Submitting abstracts to TPPM 
+#### Submitting Poster-Abstracts to TPPM 
 
-"For poster-only submissions, follow the previous steps, selecting "[Register as author in TPPM](http://ojs.pythonpapers.org/index.php/tppm/user/register)" instead of "as author". You will only be required to submit the abstract of your presentation.
+You will only be required to submit the abstract of your presentation.
+
+1. [Register as author in TPPM](http://ojs.pythonpapers.org/index.php/tppm/user/register).
+
+   You will select the registration "as author".
+
+2. [Submit your abstract by May 1](http://ojs.pythonpapers.org/index.php/tppm/author/submit).
+
+    2.1. Select the option "Peer-reviewed Articles", and follow the instructions.
+
+    2.2. **Important:** add **ScipyLA2017** in the field "Comments for the Editor".
+
+3. Reviewers on the subject will make their assessment.
+
+4. You will be notified of the editorial decision by June 1 (see __Important Dates__ section).
+
+    4.1 REJECTED: You will be able to read the reviewer's comments.
+
+   4.2 ACCEPTED: You will be asked to address the reviewers comments and submit the camera-ready-summary version by July 15 (see __Important Dates__ section).
+
+5. Send the full poster to __Event Contacts__ by July 15 (see __Important Dates__ section).
 
 #### Papers Template
 
+Please, before following the previous steps for submit your paper, ensure the use of one of the following papers template:
+
 * [ODT Template to write articles](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.odt)
-* [DOC Template to compose](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.doc)
+* [DOC Template to write articles](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.doc)
 
 Full papers will have a 10 pages limit.
 
+Full Poster will have 70cmx100cm, with four side margins of 1.5cm. Use the same fonts of  the articles templates adding title, authors, contact , summary and results mandatory, and others of your choice.
+
+For more information about how to publish on TPP journal read [The Python Papers publishing instructions](http://www.pythonpapers.org/instAuthor.html)
+
 #### Important Dates
 
-* Reviewers acceptance: February 28, 2016
-* Submission deadline: February 21, 2017
-* Reviewers response: March 30, 2017
-* Camera-ready submission: April 15, 2017
+* Website of the Conference: August 2016
+* Reviewers acceptance: April 15, 2016
+* Submission deadline: May 1, 2017
+* Reviewers response: June 1, 2017
+* Camera-ready submission: July 15, 2017
 
 ******************************************************************
 ## Activities
@@ -201,9 +191,9 @@ Full papers will have a 10 pages limit.
 
 ## Subscription / Participation / Payment
 
-Subcription to the event will be free. Your participation will depend on the papers you send and their quality. If you are selected, you will have to guarantee your  stay in Havana through tourist packages not offered directly by the conference. 
+The [subscription cuotes](../register) only cover the attendance to the event and they are distinguished by regions to promote the participation of students, professionals and researchers of Latin America and the Caribbean with few economical resources. For more details consult the [inscription cuotes](../register).  To know more about other ways to get financial resources read about [financial helps](../forms/financial-aid/en).
 
-* To make your travel to Cuba an engaging experience, we advise you to read [Instructions to travel to Cuba](http://scipyla.org/conf/2017/cubatravelinstructions.html)
+To make your travel to Cuba an engaging experience, we advise you to read [Instructions to travel to Cuba](http://scipyla.org/conf/2017/cubatravelinstructions.html)
 
 ******************************************************************
 # Contacts
