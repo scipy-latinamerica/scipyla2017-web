@@ -8,7 +8,7 @@
 
 # "More Python, More Science"
 
-### May, 2017, Havana, Cuba
+### September / October, 2017, Havana, Cuba
 
 ###### [http://scipyla.org/conf/2017/](http://scipyla.org/conf/2017/)
 
@@ -37,7 +37,7 @@ Spanish, Portuguese, English
 *   Promote the use of accesible and reproducible approaches in scientific research. 
 *   Present recent sci-tech findings using Python or related tools. 
 *   Promote the use of Python in science development. 
-*   Contribute to the Cuban and Latin American technological development. 
+*   Contribute to the Latin American technological development. 
 
 ******************************************************************
 
@@ -79,16 +79,16 @@ Supramolecular Chemistry, Synthetic Biology, Synthetic Genomics Systematics, Tis
 
 ![Welcome reviewers](../assets/img/cfr.png)
 
-### Apply [here](../forms/reviewers/es) to become an academic referee of the SciPyLA conference.
+### Apply [here](../forms/reviewers/en) to become an academic referee of the SciPyLA conference.
 
 ###### [http://scipyla.org/conf/2017/forms/reviewers/en](../forms/reviewers/en)
 
-N.B. Financial applications for reviewers are separated from [financial helps](http://scipyla2017.cuban.tech/forms/financial-aid/es) offered to the attendants and these will be managed and granted following specific criterion in each case.
+N.B. Financial applications for reviewers are different from [financial helps](../forms/financial-aid/es) offered to the attendants and these will be managed and granted following specific criterion in each case.
 
 ******************************************************************
 ### Instructions for Authors
 
-SciPyLA 2017 will publish two serialized manuscripts, the first will be for full peer-reviewed papers, and the other for poster-abstracts. The submission, review and final publication of both series will be managed through the [online system](http://ojs.pythonpapers.org/).
+SciPyLA 2017 will publish two serialized manuscripts, the first one will be for full peer-reviewed papers, and the second one for poster-abstracts. The submission, review and final publication of both series will be managed through the [online system](http://ojs.pythonpapers.org/).
 
 The conference offers the researchers the opportunity to publish in the international journal __The Python Papers__ (TPP), ISSN: 1834-3147, for full peer-reviewed papers, and in the "The Python Papers Monograph (TPPM)" for poster-abstracts. Both journals are indexed in:
 
@@ -109,7 +109,7 @@ The conference offers the researchers the opportunity to publish in the internat
 | ![EZB Regensburg University](../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : The Electronic Journals Library is a service that enable the access to serialized journals spread over Internet. In 2016 more than 600 institutions collaborate actively with the project. |
 | ![eGranary](../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - also known as _Internet inside a box_ - offers millions of educational resources to institutions with low band Internet access. |
 
-By mutual agreement between you and the convention's  committee, some papers considered relevant by the reviewers could be published in other magazines of the academic partners of the event. 
+By mutual agreement between authors and the Program Committee of the SciPyLA 2017 conference, some papers considered relevant by the reviewers might be selected for publication in other magazines of the academic partners of the event. 
 
 #### Submitting papers to TPP
 
@@ -123,7 +123,7 @@ By mutual agreement between you and the convention's  committee, some papers con
 
     2.2. **Important:** add **ScipyLA2017** in the field "Comments for the Editor".
 
-3. Reviewers on the subject will make their assessment.
+3. Reviewers with expertise on the paper subjects will make their assessment.
 
 4. You will be notified of the editorial decision by June 1 (see __Important Dates__ section).
 
@@ -171,7 +171,7 @@ For more information about how to publish on TPP journal read [The Python Papers
 #### Important Dates
 
 * Website of the Conference: August 2016
-* Reviewers acceptance: April 15, 2016
+* Reviewers acceptance: April 25, 2017
 * Submission deadline: May 1, 2017
 * Reviewers response: June 1, 2017
 * Camera-ready submission: July 15, 2017
@@ -191,14 +191,14 @@ For more information about how to publish on TPP journal read [The Python Papers
 
 ## Subscription / Participation / Payment
 
-The [subscription cuotes](../register) only cover the attendance to the event and they are distinguished by regions to promote the participation of students, professionals and researchers of Latin America and the Caribbean with few economical resources. For more details consult the [inscription cuotes](../register).  To know more about other ways to get financial resources read about [financial helps](../forms/financial-aid/en).
+The [registration rates](../register) only cover event attendance. There is a differentiation by regions to encourage the participation of students, professionals and researchers of Latin America and the Caribbean with relevant results and yet limited economic resources. For more details consult the [registration rates](../register).  To know more about other ways to get financial resources read about [financial helps](../forms/financial-aid/en).
 
-To make your travel to Cuba an engaging experience, we advise you to read [Instructions to travel to Cuba](http://scipyla.org/conf/2017/cubatravelinstructions.html)
+To make your travel to Cuba an engaging experience, we advise you to read [Instructions to travel to Cuba](http://scipyla.org/conf/2017/travel)
 
 ******************************************************************
 # Contacts
 
-Make yours our calendar, send your interests and research area to __Event Contacts__.
+Make yours our agenda, send your interests and research area to the __event contacts__.
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org

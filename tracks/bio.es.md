@@ -8,7 +8,7 @@
 
 # "Más Python, Más ciencia"
 
-### La Habana, Cuba, Mayo 2017
+### La Habana, Cuba, Septiembre / Octubre 2017
 
 ###### [http://scipyla.org/conf/2017/](http://scipyla.org/conf/2017/)
 
@@ -21,7 +21,7 @@ El grupo CubanTech está integrado por jóvenes cubanos profesionales de la
 informática que  colaboran con instituciones, asociaciones y fundaciones 
 cubanas para ofrecer actividades de difusión y educación sobre el desarrollo
 inclusivo y colaborativo de tecnologías basadas en estándares abiertos. Con
-apoyo de la PSF organizaremos el primer PyCon Cuba 2017.
+apoyo de la PSF organizaremos el primer PyCon Cuba.
 
 ![Python Software Foundation](../assets/img/psf.png)
 
@@ -86,7 +86,7 @@ Nanomateriales, Nanotecnologías, Neurociencias, Paleo-Biología,
 Ingeniería y Química de Polímeros, Fitoquímica, Biología Estructural,
 Química Supramolecular, Biología Sintética, Métodos de Genómica Sintética,
 Ingeniería de Tejidos, Virología.
-​        
+
 ******************************************************************
 
 ![Welcome reviewers](../assets/img/cfr.png)
@@ -95,13 +95,13 @@ Ingeniería de Tejidos, Virología.
 
 ###### [http://scipyla.org/conf/2017/forms/reviewers/es](../forms/reviewers/es)
 
-N.B. Las aplicaciones para ayudar financieramente a los revisores son independientes a las [ayudas financieras](http://scipyla2017.cuban.tech/forms/financial-aid/es) ofrecidas a los asistentes y se gestionarán y otorgarán siguiendo criterios específicos para cada caso.
+N.B. Las aplicaciones para ayudar financieramente a los revisores son independientes a las [ayudas financieras](../forms/financial-aid/es) ofrecidas a los asistentes y se gestionarán y otorgarán siguiendo criterios específicos para cada caso.
 
 ******************************************************************
 
 ### Indicaciones para los Autores
 
-SciPyLA 2017 tendrá varias publicaciones seriadas, una publicación arbitrada de artículos completos, y una monografía con resúmenes de otros trabajos. Ambos volúmenes del evento serán gestionados a través del sistema online para el envío, revisión y publicación final de los papers.
+SciPyLA 2017 tendrá varias publicaciones seriadas, una publicación arbitrada de artículos completos, y una monografía con resúmenes de otros trabajos. Ambos volúmenes del evento serán gestionados a través del [sistema online](http://ojs.pythonpapers.org/) para el envío, revisión y publicación final de los papers.
 
 La conferencia ofrece a los investigadores de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, la cual está indexada en:
 
@@ -144,7 +144,7 @@ Los trabajos considerados relevantes por los revisores académicos podrán publi
 
 #### Instrucciones para envío de Posters a la Monografía TPPM
 
-You will only be required to submit the abstract of your presentation.
+Usted solamente necesitará enviar un resúmen de la presentación de su poster.
 
 1. [Registrarse como autor en TPPM](http://ojs.pythonpapers.org/index.php/tppm/user/register).
 
@@ -182,7 +182,7 @@ Para más información le invitamos a consular las [instrucciones de publicació
 #### Fechas Importantes {#deadlines}
 
 *   Sitio Web de la Conferencia: Agosto 2016
-*   Aceptación de revisores: 15 abril 2016
+*   Aceptación de revisores: 25 abril 2017
 *   Recepción de trabajos: 1 de mayo 2017
 *   Respuesta de revisores: 1 de junio 2017
 *   Envío de correcciones: 15 de julio 2017
