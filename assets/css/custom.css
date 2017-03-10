@@ -621,16 +621,13 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   background-color: #999;
 }
 
-/* Large */
-@media (min-width: 1200px) {
+/* Extra-extra small */
+
+@media (max-width: 480px) {
 
   .img-ads {
-    height: 150px;
-    width: 900px;
-  }
-
-  .footer {
-    background-size: cover;
+    height: 200px;
+    width: 280px;
   }
 
 }
@@ -639,8 +636,8 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 @media (max-width: 767px) {
 
   .img-ads {
-    height: 200px;
-    width: 280px;
+    height: 180px;
+    width: 400px;
   }
 
   .modal-footer .btn {
@@ -695,6 +692,35 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
     position: fixed;
     right: 0px;
     z-index: 1090;
+  }
+
+}
+
+/* Small */
+@media (min-width: 768px) {
+
+  .img-ads {
+    height: 160px;
+    width: 700px;
+  }
+
+}
+
+/* Medium */
+@media (min-width: 992px) {
+
+  .img-ads {
+    height: 150px;
+    width: 900px;
+  }
+
+}
+
+/* Large */
+@media (min-width: 1200px) {
+
+  .footer {
+    background-size: cover;
   }
 
 }
