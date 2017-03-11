@@ -471,6 +471,10 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 
 /* Custom components */
 
+.img-inline img {
+  display: inline !important;
+}
+
 .md h1,
 .md h2,
 .md h3,
