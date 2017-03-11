@@ -5,11 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="description" content="Register - SciPyLA 2017 - The scientific Python conference in Latin America">
+    <meta name="description" content="Sponsors and collaborators - SciPyLA 2017 - The scientific Python conference in Latin America">
     <meta name="author" content="The SciPyLA community">
     <link rel="icon" href="../favicon.ico">
 
-    <title>SciPyLA 2017 - Register </title>
+    <title>SciPyLA 2017 - Sponsors and collaborators</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../assets/css/bootstrap.min.css" rel="stylesheet">
@@ -65,7 +65,7 @@
                 <li><a href="../index.html#contact">Contacto</a></li>
               </ul>
             </li>
-            <li class="dropdown active">
+            <li class="dropdow">
               <a href="../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Programa <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../register">Reservar tickets</a></li>
@@ -85,7 +85,7 @@
                 <li><a href="../forms/activity">Propuestas de charlas</a></li>
               </ul>
             </li>
-            <li class="dropdown">
+            <li class="dropdownn active">
               <a href="../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Comunidad <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../organizers">Organizadores</a></li>
@@ -141,7 +141,47 @@
 
     <div class="container">
 
-      <div class="md" markdown-it ng-include="'register.es.md'">
+      <div class="row md">
+        <div class="col-xs-12">
+          <h2>Patrocinadores</h2>
+          <p>
+            El Comit&eacute; organizador de la conferencia SciPyLA 2017 agradece el
+            generoso apoyo de nuestros patrocinadores. Todav&iacute;a aceptamos propuestas
+            de patrocinio.
+          </p>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-sm-4 col-sm-offset-4">
+          <a href="../forms/sponsors" class="btn btn-primary"> ¡ PATROCINE A SCIPYLA 2017 !</a>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-sm-4 col-sm-offset-2">
+          <a href="prospectus">Prospecto de patrocinio</a>
+        </div>
+        <div class="col-sm-4">
+          <a href="levels">Niveles de patrocinio</a>
+        </div>
+      </div>
+      <div class="row md img-inline">
+        <div class="col-xs-12">
+          <div markdown-it ng-include="'sponsors.es.md'">
+          </div>
+        </div>
+      </div>
+
+      <div class="row md" id="friends">
+        <div class="col-xs-12">
+          <h3>Amigos de SciPyLA 2017</h3>
+          <p>
+            Las siguientes comunidades, empresas y/o organizaciones han cooperado con
+            la conferencia ya sea apoyando tareas de organizaci&oacute;n y/o difus&oacute;n,
+            o enviando miembros o emisarios  portadores de generosas donaciones.
+          </p>
+          <div markdown-it ng-include="'community.es.md'">
+          </div>
+        </div>
       </div>
 
       <footer class="footer text-center">

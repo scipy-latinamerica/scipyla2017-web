@@ -5,7 +5,7 @@ Esta página solo menciona los contactos principales para temas relacionados
 con la conferencia. No se incluyen a continuación los nombres de los muchos 
 voluntarios sin los cuales no sería posible realizar la conferencia SciPyLA  .
 
-Si Usted está interesado en asumir alguno deestos roles, por favor ofrézcanos 
+Si Usted está interesado en asumir alguno de estos roles, por favor ofrézcanos 
 sus datos en el [formulario de búsqueda de colaboradores](../forms/joinus).
 
 - Presidente del Comité Organizador : [Olemis Lang](http://linkedin.com/in/olemis)
