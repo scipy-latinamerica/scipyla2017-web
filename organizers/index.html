@@ -34,7 +34,7 @@
     <![endif]-->
   </head>
 
-  <body ng-app="scipyla.md">
+  <body ng-app="scipyla.ambassadors">
     <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top navbar-inverse text-uppercase">
       <div class="container">
@@ -181,24 +181,28 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
       </section>
 
       <section id="ambassadors">
-      <div class="jumbotron jumbotron-blue">
+      <div class="jumbotron jumbotron-blue" ng-controller="AmbCtl">
         <div class="container">
           <h3 class="text-center">EMBAJADORES SCIPYLA</h3>
+          <p>&nbsp;</p>
           <div class="col-md-6">
             <div class="row">
-              <ul class="media-list round-menu round-menu-lg text-left col-sm-6">
-                <li class="media bg-dark">
-                  <a data-toggle="modal" data-target="#cv-modal" data-who="celiacintas">
+              <ul class="media-list round-menu round-menu-lg text-left col-sm-6"
+                  ng-repeat="bounds in [[0, profiles_mididx + 1],
+                                [profiles_mididx + 1, profiles.length]]">
+                <li class="media bg-dark" ng-repeat="p in slice(profiles, bounds[0], bounds[1])">
+                  <a data-toggle="modal" data-target="#cv-modal" data-who="{{p.id}}"
+                      class="hover">
                     <div class="media-left">
                       <div class="btn-round">
-                        <img src="../assets/img/celiacintas.small.png" class="img-round" width="52"/>
+                        <img ng-src="{{'../assets/img/' + p.id + '.small.png'}}" class="img-round" width="50"/>
                       </div>
                     </div>
                     <div class="media-body">
                       <h4 class="media-heading"><span class="flag-ar"></span>
-                        <small>ARGENTINA</small>
+                        <small class="text-uppercase" ng-bind="p.country"></small>
                       </h4>
-                      <p>Celia Cintas</p>
+                      <p ng-bind="p.name"></p>
                     </div>
                   </a>
                 </li>
@@ -236,7 +240,7 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
           </div>
         </div>
         <p>&iquest; Interesado en representar su pa&iacute;s en la comunidad SciPyLA ?</p>
-        <a class="btn btn-warning"  href="../forms/ambassadors">APLICAR COMO EMBAJADOR </a>
+        <a class="btn btn-warning"  href="../forms/ambassadors">CONVERTIRSE EN EMBAJADOR </a>
       </div>
       </section>
 
@@ -274,7 +278,7 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
     <script src="http://cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.5.0/angular-sanitize.min.js"></script>
     <script src="http://cdnjs.cloudflare.com/ajax/libs/markdown-it/6.0.0/markdown-it.min.js"></script>
     <script src="../assets/js/ng-markdownit.min.js"></script>
-    <script src="../assets/js/md.js"></script>
+    <script src="../assets/js/amb.js"></script>
 
   </body>
 </html>

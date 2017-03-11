@@ -532,8 +532,9 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
 }
 
 #ambassadors .round-menu .btn-round {
-  border: 2px solid #fff;
+  border: 3px solid #fff;
 }
+
 #ambassadors #legend {
   bottom: 0px;
   left: 0px;
