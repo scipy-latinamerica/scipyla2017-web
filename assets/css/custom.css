@@ -150,6 +150,11 @@ section {
 
 /* Patterns - Overlays */
 
+.media-left.overlay-target, .media-right.overlay-target,
+.media-body.overlay-target {
+  display: table-cell;
+}
+
 .overlay-target {
   display: inline-block;
   position: relative;
@@ -168,15 +173,52 @@ section {
   top: 0;
 }
 
-.overlay.bg-grey,
-.overlay.bg-dark,
-.overlay.bg-primary,
-.overlay.bg-success,
-.overlay.bg-info,
-.overlay.bg-warning
+.overlay.bg-grey {
+}
+
+.overlay.bg-dark {
+  background-color: rgba(9, 23, 39, 0.8);
+}
+
+.overlay.bg-primary {
+
+}
+
+.overlay.bg-success {
+
+}
+
+.overlay.bg-info {
+
+}
+
+.overlay.bg-warning {
+
+}
+
 .overlay.bg-danger {
   opacity: 0.8;
   filter: ~"alpha(opacity=70)";
+}
+
+.overlay .glyphicon.center-block {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+}
+
+.overlay .glyphicon {
+  color: #fff;
+  filter: ~"alpha(opacity=100)";
+  opacity : 1.0;
+  margin-left: -13px;
+  margin-top: -8px;
+}
+
+.round-menu-lg .overlay .glyphicon {
+  font-size: 24px;
+  margin-left: -18px;
+  margin-top: -13px;
 }
 
 /* Patterns - Visible on hover */
