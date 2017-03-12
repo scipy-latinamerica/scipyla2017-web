@@ -193,9 +193,12 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
                 <li class="media bg-dark" ng-repeat="p in slice(profiles, bounds[0], bounds[1])">
                   <a data-toggle="modal" data-target="#cv-modal" data-who="{{p.id}}"
                       class="hover">
-                    <div class="media-left">
+                    <div class="media-left overlay-target">
                       <div class="btn-round">
                         <img ng-src="{{'../assets/img/' + p.id + '.small.png'}}" class="img-round" width="50"/>
+                      </div>
+                      <div class="overlay bg-dark img-round visible-hover">
+                        <span class="glyphicon glyphicon-eye-open center-block"></span>
                       </div>
                     </div>
                     <div class="media-body">
@@ -208,6 +211,8 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
                 </li>
               </ul>
             </div>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
           </div>
           <div class="col-md-6 hidden-xs hidden-sm overlay-target">
             <img src="../assets/img/map.amb.png" class="img-responsive" />

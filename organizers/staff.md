@@ -8,7 +8,7 @@ If you are interested in taking on any of the available assignments below,
 please fill and submit the (../forms/joinus)[collaborators form].
 
 - Conference Chair : [Olemis Lang](http://linkedin.com/in/olemis)
-- Program Committee Chair : Abel Meneses Abad
+- Program Committee Chair : [Abel Meneses Abad](https://cu.linkedin.com/in/abel-abel-meneses-abad-1450ba3a)
 - Diversity Outreach Chair : 
 - Tutorials Coordinator :
 - Posters Coordinator : 
@@ -16,7 +16,7 @@ please fill and submit the (../forms/joinus)[collaborators form].
 - Social Events Coordinator : 
 - Financial Aid Coordinator : [Olemis Lang](http://linkedin.com/in/olemis)
 - Volunteers Coordinator :
-- Media Coordinator : Rachel Domínguez Rojas
+- Media Coordinator : [Rachel Domínguez Roja](https://www.linkedin.com/in/rachel-dom%C3%ADnguez-b5271891/)
 - Head of Infrastructure and Mobile : 
 
 - Bioinformatics Workshop Coordinator :
