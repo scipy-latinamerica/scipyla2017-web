@@ -4,6 +4,10 @@ body {
   padding-top: 50px;
 }
 
+head.main {
+  width: 100%;
+}
+
 section {
   margin-top: 15px;
 }
@@ -67,6 +71,7 @@ section {
 #jumbo-main {
   background-image: url('../img/jumbobg.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
   height: 730px;
 }
 
