@@ -1,9 +1,13 @@
 /* Space at the top for the navbar */
 
+/*
 body {
   padding-top: 50px;
 }
+*/
 
+body > section > .jumbotron,
+body > .jumbotron,
 head.main {
   width: 100%;
 }
@@ -72,7 +76,8 @@ section {
   background-image: url('../img/jumbobg.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  height: 730px;
+  height: 99vh;
+  padding-top: 98px;
 }
 
 #venue {
@@ -101,12 +106,13 @@ section {
   margin-right: 15px
 }
 
-.jumbotron-blue .container {
+.jumbotron-blue .jumbotron-body {
   background-color: #15355B;
   border-bottom-left-radius: 25%;
   border-bottom-right-radius: 25%;
   margin-bottom: 15px;
   padding: 15px;
+  width: 100%;
 }
 
 #timeline {

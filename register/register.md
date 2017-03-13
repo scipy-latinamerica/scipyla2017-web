@@ -1,5 +1,5 @@
 
-# Registering for SciPyLA
+# Registering for SciPyLA 2017
 
 Registration is not open yet . Once this will be ready you will see a link to the registration form below.
 
@@ -25,9 +25,9 @@ Note: Tutorial registration is not included in regular conference registration p
 
 ## What's Included?
 
-Conference registration includes a full breakfast, full lunch, and both morning and afternoon break refreshments on the three conference days Friday, Saturday, and Sunday (May 19-21, 2017).
+Conference registration includes a full breakfast, full lunch, and both morning and afternoon break refreshments on the four conference days .
 
-Tutorial attendees on the Wednesday and Thursday (before the main conference) will be provided with lunch and break refreshments. Attendees pay per tutorial for each tutorial class that they attend, and purchasing a tutorial by itself does not include admission to the main conference. Tutorial registration will open in 2017. One tutorial will cost $15 and onsite, it will cost $30.
+Tutorial attendees (before the main conference) will be provided with lunch and break refreshments. Attendees pay per tutorial for each tutorial class that they attend, and purchasing a tutorial by itself does not include admission to the main conference. Tutorial registration will open in 2017. One tutorial will cost $15 and onsite, it will cost $30.
 
 When registration is open, attendees can also book hotel reservations at venues where we have negotiated conference rates. Please be aware of "housing pirates" and do not book rooms through solicitations. Our staff will never call you to reserve a room. Only book rooms through our registration website.
 
@@ -37,13 +37,13 @@ Childcare is not available.
 
 ## Financial Aid
 
-Everyone - even the conference chair - pays for registration so that we can assist those who might not otherwise be able to attend. To learn more about Financial Aid for flights, hotel, registration, and childcare to attend PyCon, see the [Financial Aid](../forms/financial-aid) page.
+Everyone - even the conference chair - pays for registration so that we can assist those who might not otherwise be able to attend. To learn more about Financial Aid for flights, hotel, registration, and childcare to attend SciPyLA, see the [Financial Aid](../forms/financial-aid) page.
 
 [Submit a financial aid application](../forms/financial-aid)
 
 ## Cancellation Policy
 
-> For our foreign guests: if you are denied a VISA, or denied entry to Cuba, please contact us and we will refund your registration : in full, and without a processing fee.
+> For our foreign guests: if you are denied a VISA, or denied entry to Cuba, please contact us and we will refund your registration. In the process you will be informed of the documentation you will need to provide us with, as well as the cancellation fees.
 
 Registration cancellations must be submitted in writing and received by July 15th, 2017 in order to receive a refund less a processing fee of $25. No refunds will be granted for cancellations received after July 15th, 2017.
 

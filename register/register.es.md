@@ -1,54 +1,57 @@
 
-# Registering for SciPyLA
+# Registro para participar en SciPyLA 2017
 
-Registration is not open yet . Once this will be ready you will see a link to the registration form below.
+El registro para participar en SciPyLA 2017 no está abierto todavía. En cuanto estén listas las condiciones Usted verá en esta página un enlace al formulario de inscripción.
 
-[Follow us](../#contact-div) to be notified of conference registration.
+[Contáctenos](../#contact-div) para conocer el momento en que comience el registro de la conferencia.
 
-Part of the funds raised with registration fees are used to pay for services and products needed during the conference. The rest goes to the financial aid fund and is aimed at supporting participation of people with low incomes or those for whom it is not possible to attend the event for other reasons. In particular, this allows Cuban citizens to participate free of charge. SciPyLA trusts you to self-select a fair registration rate:
+Parte de los fondos recaudados con los pagos por inscripción se utilizan para pagar servicios y productos necesarios durante la conferencia. El resto es utilizado por el fondo de ayudas financieras. Este fondo tiene como objetivo apoyar la participación de personas con bajos ingresoso que por otras causas no pueden asistir al evento. En particular estas contribuciones son las que hacen posible asumir los costos de participación de ciudadanos cubanos . El comité organizador de SciPyLA 2017 confía en que Usted seleccionará la opción de registro que se adecúa a su situación actula:
 
-- Corporate Rate : If your company is paying for you to attend SciPyLA 2017, register at the corporate rate. You will help keep the conference affordable for everyone, especially students and those needing financial aid. Government employees should also register at the corporate rate.
-- Individual Rate : If you are paying for yourself to attend SciPyLA, feel free to come as an individual. Employees of non-profits might also choose to register at the individual rate. Notice that the price varies considering your country of origin. A way to think about this is to consider this policy as granting a financial aid in advance to people traveling from under-developed countries.
-- Student Rate : This rate is for full-time students and academics.
+- Tarifa Corporativa : Si su compañía paga su participación en SciPyLA 2017, Usted debe registrase con una tarifa corporativa. Al hacerlo Usted ayuda a mantener la conferencia accesible para todos los participantes, especialmente estudiantes y aquellos que necesitan ayudas financieras. Los empleados gubernamentales deben registrarse según las tarifas corporativas.
 
-Here is how much each level costs for SciPyLA 2017:
+- Tarifa Individual: Si Usted paga su participación en el evento, Usted debe registrarse con una tarifa individual. Los empleados de organizaciones sin ánimo de lucro son elegibles para registrarse con una tarifa corporativa. Considere que la tarifa varía de acuerdo a su zona geográfica de orígen. Esto expresa la intención de otorgar una bonificación a personas que viajen desde países en vías de desarrollo
 
-| Rate | Cost |
+- Tarifa para Estudiantes : Esta tarifa es para estudiantes a tiempo completo e invitados académicos.
+
+A continuación le mostramos los precios de inscripción.
+
+| Tarifa | Precio |
 |------:|------|
-| Corporate | $350 USD |
-| Individual - North America, Europe, Russia, Japan, South Korea, Australia, New Zealand, South Africa | $200 USD |
-| Individual - Latin America and the Caribbean, Africa, Asia-Pacific | $75 USD |
-| Individual - Cuba | **free** but limited in slots available |
-| Student | $75 USD |
+| Corporativa | $350 USD |
+| Individual - América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zeland, Sudáfrica | $200 USD |
+| Individual - América Latina y el Caribe, y el resto de África, Asia y el Pacífico | $75 USD |
+| Individual - Cuba | **gratuito** pero con cupos limitados |
+| Estudiantes | $75 USD |
 
-Note: Tutorial registration is not included in regular conference registration prices. Tutorial registration will open in May 2017. Cost will be $15 per tutorial and onsite it will be $30 per tutorial.
+N.B. : El registro para participar en los tutoriales no está incluído entre las tarifas de inscripción de la conferencia. La inscripción para este tipo de talleres comenzará en mayo del 2017. El precio de inscripción será $15 por taller si se reserva previamente y $30 si se reserva en la sede.
 
-## What's Included?
+## ¿Qué incluye la inscripción?
 
-Conference registration includes a full breakfast, full lunch, and both morning and afternoon break refreshments on the three conference days Friday, Saturday, and Sunday (May 19-21, 2017).
+El registro en la conferencia incluye desayuno, almuerzo y meriendas en mañana y tarde durente los cuatro días de la conferencia.
 
-Tutorial attendees on the Wednesday and Thursday (before the main conference) will be provided with lunch and break refreshments. Attendees pay per tutorial for each tutorial class that they attend, and purchasing a tutorial by itself does not include admission to the main conference. Tutorial registration will open in 2017. One tutorial will cost $15 and onsite, it will cost $30.
+Los asistentes a los talleres previos a la conferencia tendrán garantizados almuerzos y meriendas. El pago de los tutoriales se realiza por cada clase individualmente y no incluye la participación en la conferencia. El registro para participar en este tipo de actividades abrirá en mayo del 2017. La participación en cada clase o taller tendrá un costo de $15 si se reserva con antelación o $30 si la reserva se realiza en la sede
 
-When registration is open, attendees can also book hotel reservations at venues where we have negotiated conference rates. Please be aware of "housing pirates" and do not book rooms through solicitations. Our staff will never call you to reserve a room. Only book rooms through our registration website.
+Cuando se comience a ofrecer el proceso de registro, los participantes también podrán reservar su alojamiento. El equipo organizador hará convenios con hoteles   con los cuales se negociarán precios preferenciales para los asistentes al evento. Es responsabilidad de cada asistente decidir la opción de alojamiento que le resulte conveniente. Para   evitar incidentes recomendamos muy seriamente reservar las habitaciones a través de los servicios sugeridos por el equipo organizador de la conferencia.
 
-## Childcare
+## Acompañamiento para menores de edad
 
-Childcare is not available.
+Por el momento no contamos con opciones para que las personas que viajan con menores puedan dejarlos a cuidado de una persona / entidad responsable. Estamos buscando opciones. De encontralas las mismas seránpublicadas a través de los canales oficiales de la conferencia .
 
-## Financial Aid
+## Ayuda financiera
 
-Everyone - even the conference chair - pays for registration so that we can assist those who might not otherwise be able to attend. To learn more about Financial Aid for flights, hotel, registration, and childcare to attend PyCon, see the [Financial Aid](../forms/financial-aid) page.
+Todo el mundo, incluído el Presidente del Comité Organizador, paga por participar en el evento. De esta manera se pueden recaudar fondos para facilitar la asistencia de personas que no podrían participar de otra forma. Para informarse acerca de las ayudas financieras para cubrir gastos de vuelos, hoteles, inscripciones y acompañamiento a menores (de estar disponible), consulte la página de [Ayudas Finacieras](../forms/financial-aid).
 
-[Submit a financial aid application](../forms/financial-aid)
+[Solicitar ayuda financiera](../forms/financial-aid)
 
-## Cancellation Policy
+## Política de cancelación
 
-> For our foreign guests: if you are denied a VISA, or denied entry to Cuba, please contact us and we will refund your registration : in full, and without a processing fee.
+> Para nuestros invitados extranjeros: si su petición de VISA o su entrada al país fueran denegadas, por favor contacte al equipo organizador para hacer la devolución de su pago. En el proceso se le informará de la documentación que debe presentar y los recargos aplicados.
 
-Registration cancellations must be submitted in writing and received by July 15th, 2017 in order to receive a refund less a processing fee of $25. No refunds will be granted for cancellations received after July 15th, 2017.
+Las cancelaciones deben ser presentadas por escrito y recibidas antes del 15 de julio del 2017. Al acerlo se recibirá una devolución de sus fondos con un descuento de $25 por concepto de procesamiento de su solicitud. No se harán devoluciones a solicitudes de cancelación recibidas en fechas posteriores al 15 de julio del 2017.
 
-## Questions?
+## ¿Preguntas?
 
-If you have questions or issues with registration, please [contact us](../#contact-div)
+Si Usted tiene alguna pregunta o inquietud relacionada con las inscripciones, por favor [contáctenos](../#contact-div)
+
 
 
