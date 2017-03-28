@@ -26,7 +26,7 @@ please fill and submit the (../forms/joinus)[collaborators form].
 - Emerging Computing Technologies Workshop Coordinator :
   * Infrastructure for Reproducible Research Coordinators : 
 - Earth Sciences Workshop Coordinator :
-- Social Sciences and Humanities Workshop Coordinator :
+- Social Sciences and Humanities Workshop Coordinator : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/)
 
 - Teen Track Coordinator : 
 
