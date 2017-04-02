@@ -3,7 +3,7 @@
 
   var profiles = {
     celiacintas : {
-      name: 'Celia cintas',
+      name: 'Celia Cintas',
       country: 'Argentina',
       geocode: 'ar'
     },

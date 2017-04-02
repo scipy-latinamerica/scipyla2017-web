@@ -1,0 +1,14 @@
+
+.sprite { background: url('../img/embajadores-sprite.png') no-repeat top left; width: 64px; height: 64px;  } 
+.sprite.amb-celiacintas { background-position: 0 0; } 
+.sprite.amb-rgaia { background-position: 0 -74px; } 
+.sprite.amb-xmnlab { background-position: 0 -148px; } 
+.sprite.amb-jroa { background-position: 0 -222px; } 
+.sprite.amb-jblanco { background-position: 0 -296px; } 
+.sprite.amb-olemis { background-position: 0 -370px; } 
+.sprite.amb-soliva { background-position: 0 -444px; } 
+.sprite.amb-alexd { background-position: 0 -518px; } 
+.sprite.amb-mcetrulo { background-position: 0 -592px; } 
+.sprite.amb-fpalm { background-position: 0 -666px; } 
+.sprite.amb-hvargas { background-position: 0 -740px; } 
+
