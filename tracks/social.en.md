@@ -17,14 +17,14 @@
 
 ![Grupo CubanTech](../assets/img/cubantech.svg)
 
-The Cuban Tech Group is devoted to providing a foundation of major outreach for open, collaborative technology development and education, in order to help more people access computing and technology making. It is a non-profit organization to which companies and individuals can donate resources; we guarantee they will be used for the development of the Cuban technology ecosystem. Together with the PSF we will run the first PyCon Cuba 2017.
+The members of the CubanTech Group are young Cuban technology entrepreneurs skilled in ICT subjects, who collaborate with Cuban institutions, associations, and foundations so as to offer outreach and education on inclusive and collaborative development of open technologies. With the support of the PSF the group will organize the first PyCon Cuba 2017.
 
 ![Python Software Foundation](../assets/img/psf.png)
 
 The Python Software Foundation (PSF) is a non-profit membership organization devoted to advancing open source technology related to the Python programming language. It qualifies under the US Internal Revenue Code as a tax-exempt 501(c)(3) scientific and educational public charity, and conducts its business according to the rules for such organizations.
 
 ******************************************************************
-## Workshop description
+## Latin American workshop on Python, Social Sciences and Humanities
 
 The 670 Latin American ethnic groups conform the fastest growing Internet population in the world. Join the experts to discuss regional trends in fields like smart cities, sharing economy, multilingual content navigation, open data, social networking and e-communities.
 
