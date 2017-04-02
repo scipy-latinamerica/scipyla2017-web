@@ -15,11 +15,11 @@ Here is how much each level costs for SciPyLA 2017:
 
 | Rate | Cost |
 |------:|------|
-| Corporate | $350 USD |
-| Individual - North America, Europe, Russia, Japan, South Korea, Australia, New Zealand, South Africa | $200 USD |
-| Individual - Latin America and the Caribbean, Africa, Asia-Pacific | $75 USD |
+| Corporate | will be announced soon |
+| Individual - North America, Europe, Russia, Japan, South Korea, Australia, New Zealand, South Africa | will be announced soon |
+| Individual - Latin America and the Caribbean, Africa, Asia-Pacific | will be announced soon $75 USD |
 | Individual - Cuba | **free** but limited in slots available |
-| Student | $75 USD |
+| Student | will be announced soon |
 
 Note: Tutorial registration is not included in regular conference registration prices. Tutorial registration will open in May 2017. Cost will be $15 per tutorial and onsite it will be $30 per tutorial.
 

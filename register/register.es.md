@@ -17,11 +17,11 @@ A continuación le mostramos los precios de inscripción.
 
 | Tarifa | Precio |
 |------:|------|
-| Corporativa | $350 USD |
-| Individual - América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zeland, Sudáfrica | $200 USD |
-| Individual - América Latina y el Caribe, y el resto de África, Asia y el Pacífico | $75 USD |
+| Corporativa | será anunciado próximamente |
+| Individual - América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zeland, Sudáfrica | será anunciado próximamente |
+| Individual - América Latina y el Caribe, y el resto de África, Asia y el Pacífico | será anunciado próximamente |
 | Individual - Cuba | **gratuito** pero con cupos limitados |
-| Estudiantes | $75 USD |
+| Estudiantes | será anunciado próximamente |
 
 N.B. : El registro para participar en los tutoriales no está incluído entre las tarifas de inscripción de la conferencia. La inscripción para este tipo de talleres comenzará en mayo del 2017. El precio de inscripción será $15 por taller si se reserva previamente y $30 si se reserva en la sede.
 
