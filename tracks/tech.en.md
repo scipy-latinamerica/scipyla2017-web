@@ -88,7 +88,7 @@ Some particular areas of interest are:
 
 In general the program committee will accept paper submissions related to the following disciplines:
 
-Artificial Intelligence, Business Intelligence, Cryptgraphy, Data Science, Datawarehousin , Digital Broadcasting Networks, Digital Signal Processing, Mass media, Optical fiber networks, Quantum Computing, Telecommunications, Wireless Technologies.
+Artificial Intelligence, Business Intelligence, Cryptography, Data Science, Datawarehousing , Digital Broadcasting Networks, Digital Signal Processing, Mass media, Optical fiber networks, Quantum Computing, Telecommunications, Wireless Technologies.
 
 ******************************************************************
 
