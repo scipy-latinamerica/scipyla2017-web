@@ -8,7 +8,7 @@
 
 # "Más Python, Más ciencia"
 
-### La Habana, Cuba, Septiembre / Octubre 2017
+##### La Habana, Cuba, Septiembre / Octubre 2017
 
 ###### [http://scipyla.org/conf/2017/](http://scipyla.org/conf/2017/)
 
