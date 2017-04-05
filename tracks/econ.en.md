@@ -7,7 +7,7 @@
 # SciPyLA 
 # ==2017==
 
-# "More Python, More Science"
+## More Python, More Science
 
 ##### September / October, 2017, Havana, Cuba
 
