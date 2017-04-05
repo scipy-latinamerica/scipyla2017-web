@@ -524,6 +524,10 @@ a h1, a h2, a h3, a h4, a h5, a h6 {
   color: #14365b;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+}
+
 /* Custom components */
 
 .img-inline img {
