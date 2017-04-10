@@ -18,8 +18,9 @@ sus datos en el [formulario de búsqueda de colaboradores](../forms/joinus).
 - Coordinador de Ayudas Financieras : [Olemis Lang](http://linkedin.com/in/olemis)
 - Coordinador de Voluntarios : 
 - Coordinadora de Prensa y Medios Informativos : [Rachel Domínguez Rojas](https://www.linkedin.com/in/rachel-dom%C3%ADnguez-b5271891/)
-- Encargado de Infraestructura y Servicios : 
+- Encargado de Infraestructura y Servicios : [Hanoi Calvo Fernández](https://www.facebook.com/hanoicalvofernandez)
 
+- Coordinadores Generales del evento : [Roxana Martin Ramos](https://www.linkedin.com/in/roxana-martin-ramos-50711948/)
 - Coordinador del Taller de Bioinformática :
 - Coordinador del Taller de Física : 
 - Coordinador del Taller de Ingeniería Eléctrica y Automatización de Procesos : 
