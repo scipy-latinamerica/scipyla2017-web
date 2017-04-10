@@ -11,7 +11,7 @@ sus datos en el [formulario de búsqueda de colaboradores](../forms/joinus).
 - Presidente del Comité Organizador : [Olemis Lang](http://linkedin.com/in/olemis)
 - Presidente del Programa Científico : [Abel Meneses Abad](https://cu.linkedin.com/in/abel-abel-meneses-abad-1450ba3a)
 - Presidente del Equipo de Diversidad, Accesibilidad y Superación : 
-- Coordinador de Tutoriales :
+- Coordinador de Tutoriales :  [Igr Alexander Fernández Sauco](https://www.linkedin.com/in/igr-alex%C3%A1nder-fern%C3%A1ndez-sa%C3%BAco-34374062/)
 - Coordinador de Posters : 
 - Coordinador de Sprints :
 - Coordinador de Eventos Sociales : 
@@ -25,7 +25,7 @@ sus datos en el [formulario de búsqueda de colaboradores](../forms/joinus).
 - Coordinador del Taller de Física : 
 - Coordinador del Taller de Ingeniería Eléctrica y Automatización de Procesos : 
 - Coordinador del Taller de Economía e Investigación de Operaciones :
-- Coordinador del Taller de Tecnologías Emergentes de Cómputo :
+- Coordinador del Taller de Tecnologías Emergentes de Cómputo : [Igr Alexander Fernández Sauco](https://www.linkedin.com/in/igr-alex%C3%A1nder-fern%C3%A1ndez-sa%C3%BAco-34374062/)
   * Coordinador del sub-evento Infraestructura para Investigación Reproducible :
 - Coordinador del Taller de Ciencias de la Tierra : 
 - Coordinadora del Taller de Ciencias Sociales y Humanidades : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/)
