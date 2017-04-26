@@ -1,5 +1,5 @@
 
-## 5ta Conferencia Latinoaméricana de Computación Científica con Python
+## 5ta Conferencia Latinoamericana de Computación Científica con Python
 
 ![SciPyLA 2017](../assets/img/scipyla.svg)
 
@@ -53,6 +53,8 @@ Español, Portugués, Inglés
 
 ## Tópicos del Taller de Bioinformática ##
 
+Algunas áreas específicas de interés son:
+
 *   Sensores biónicos
 *   Bio-impresión
 *   Bioplásticos
@@ -95,15 +97,15 @@ Ingeniería de Tejidos, Virología.
 
 ###### [http://scipyla.org/conf/2017/forms/reviewers/es](../forms/reviewers/es)
 
-N.B. Las aplicaciones para ayudar financieramente a los revisores son independientes a las [ayudas financieras](../forms/financial-aid/es) ofrecidas a los asistentes y se gestionarán y otorgarán siguiendo criterios específicos para cada caso.
+Nota: Las aplicaciones para ayudar financieramente a los revisores son independientes a las [ayudas financieras](../forms/financial-aid/es) ofrecidas a los asistentes y se gestionarán y otorgarán siguiendo criterios específicos para cada caso.
 
 ******************************************************************
 
 ### Indicaciones para los Autores
 
-SciPyLA 2017 tendrá dos publicaciones seriadas, la primera arbitrada contendrá artículos completos, la segunda publicará en una monografía los resúmenes los posters. Ambos volúmenes del evento serán gestionados a través del [sistema online](http://ojs.pythonpapers.org/) para el envío, revisión y publicación final de los papers.
+SciPyLA 2017 tendrá dos publicaciones seriadas, la primera contendrá artículos completos arbitrados, la segunda publicará una monografía con los resúmenes de los posters. Ambos volúmenes del evento serán gestionados a través del [sistema online](http://ojs.pythonpapers.org/) para el envío, revisión y publicación final de los papers.
 
-La conferencia ofrece a los investigadores de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, para los artículos completos, y en "The Python Papers Monograph" los resúmenes de los posters. Ambas están indexadas en:
+La conferencia ofrece a los investigadores de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, para los artículos completos, y en "The Python Papers Monograph" los resúmenes de los posters. Ambas revistas están indexadas en:
 
 |                                          |                                          |
 | :--------------------------------------: | ---------------------------------------- |
@@ -150,7 +152,7 @@ Los trabajos considerados relevantes por los revisores académicos podrán publi
 
 Usted solamente necesitará enviar un resúmen de la presentación de su poster.
 
-1. [Registrarse como autor en TPPM](http://ojs.pythonpapers.org/index.php/tppm/user/register).
+1. [Registrarse](http://ojs.pythonpapers.org/index.php/tppm/user/register).
 
    Seleccionar el registro "as author".
 
@@ -168,7 +170,7 @@ Usted solamente necesitará enviar un resúmen de la presentación de su poster.
 
     4.2 ACEPTADO: Ud. deberá enviar antes de la fecha indicada la versión final corregida del resumen antes del 15 de Julio (ver sección __Fechas Importantes__).
 
-5. Envíe el poster completo a los __Contactos del Event__ antes del 15 de Julio (ver sección __Fechas Importantes__).
+5. Envíe el poster completo a los __Contactos del Evento__ antes del 15 de Julio (ver sección __Fechas Importantes__).
 
 #### Formato para redacción de los artículos.
 
@@ -176,10 +178,11 @@ Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de hab
 
 * [Plantilla ODT para redactar su artículo](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.odt)
 * [Plantilla DOC para redactar su artículo](http://ojs.pythonpapers.org/templates/TPP_TPPSC_template.doc)
+* [Plantillas para Posters](https://github.com/scipy-latinamerica/scipyla2017/tree/master/print_materials/posters)
 
 Los artículos completos no excederán las 10 páginas.
 
-Los posters tendrán una dimensión de 70cmx100cm, con márgenes por sus cuatro lados de 2cm. Use las mismas fuentes ofrecidas en las plantillas de los artículos adicionando de manera obligatoria título, autores, contactos, resumen y resultados, y luego otros de su elección.
+Los posters tendrán una dimensión de 70cmx100cm, con márgenes por sus cuatro lados de 2cm. Use las mismas fuentes ofrecidas en las plantillas, adicionando de manera obligatoria título, autores, contactos, resumen y resultados, y luego otros de su elección.
 
 Para más información le invitamos a consular las [instrucciones de publicación en The Python Papers](http://www.pythonpapers.org/instAuthor.html)
 
@@ -215,7 +218,7 @@ Para facilitar su viaje a Cuba le recomendamos leer [Instrucciones para viajar a
 
 # Contactos {#Contact}
 
-Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **Contactos del Evento**. 
+Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **contactos del evento**. 
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org
