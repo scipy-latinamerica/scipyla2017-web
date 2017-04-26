@@ -34,7 +34,7 @@ tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
-## Descripción del taller
+## Taller Latinoamericano de Python y Bioinformática
 
 SciPyLA 2017 será la ocasión para explorar oportunidades de innovación y conexión con la industria biotecnológica. Cuba destaca dados sus 893 permisos comerciales registrados en más de 50 países. Conozca de primera mano cómo la biotecnología se abre camino en la región.
 
@@ -45,8 +45,8 @@ Español, Portugués, Inglés
 ## Objetivos
 
 *   Promover el uso de enfoques accesibles y reproducibles en la investigación científica.
-*   Presentar adelantos científico-técnicos recientes utilizando el lenguaje de programación Python o herramientas hechas en -o relacionadas con- Python.
-*   Promover el uso del lenguaje de programación Python en las actividades de investigación científica.
+*   Presentar adelantos científico-técnicos recientes utilizando Python o herramientas relacionadas.
+*   Promover el uso de Python en el desarrollo de la ciencia.
 *   Contribuir con el desarrollo tecnológico de América Latina.
 
 ******************************************************************
@@ -101,9 +101,9 @@ N.B. Las aplicaciones para ayudar financieramente a los revisores son independie
 
 ### Indicaciones para los Autores
 
-SciPyLA 2017 tendrá varias publicaciones seriadas, una publicación arbitrada de artículos completos, y una monografía con resúmenes de otros trabajos. Ambos volúmenes del evento serán gestionados a través del [sistema online](http://ojs.pythonpapers.org/) para el envío, revisión y publicación final de los papers.
+SciPyLA 2017 tendrá dos publicaciones seriadas, la primera arbitrada contendrá artículos completos, la segunda publicará en una monografía los resúmenes los posters. Ambos volúmenes del evento serán gestionados a través del [sistema online](http://ojs.pythonpapers.org/) para el envío, revisión y publicación final de los papers.
 
-La conferencia ofrece a los investigadores de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, la cual está indexada en:
+La conferencia ofrece a los investigadores de la región la oportunidad de publicar en la revista internacional **The Python Papers** (TPP), ISSN: 1834-3147, para los artículos completos, y en "The Python Papers Monograph" los resúmenes de los posters. Ambas están indexadas en:
 
 |                                          |                                          |
 | :--------------------------------------: | ---------------------------------------- |
@@ -129,6 +129,9 @@ Los trabajos considerados relevantes por los revisores académicos podrán publi
 ### Instrucciones para publicar en The Python Papers (TPP)
 
 1. [Registrarse como autor en TPP](http://ojs.pythonpapers.org/index.php/tpp/user/register).
+
+   Seleccionar el registro "as author".
+
 2. [Enviar un artículo antes del 1 de Mayo](http://ojs.pythonpapers.org/index.php/tpp/author/submit).
 
     2.1. Seleccione la opción "Peer-reviewed Articles", y siga las instrucciones.
@@ -136,11 +139,12 @@ Los trabajos considerados relevantes por los revisores académicos podrán publi
     2.2. **Importante:** agregar **SciPyLA2017** en el campo "Comments for the Editor".
 
 3. Arbitros expertos en su temática harán la revisión.
-4. Se le notificará la decisión editorial antes del 1ro de Junio: [(ver fechas)](#deadlines).
+
+4. Se le notificará la decisión editorial antes del 1ro de Junio:  (ver sección __Fechas Importantes__)).
 
     4.1 RECHAZADO: Ud. solo podrá leer los commentarios hechos por los expertos.
 
-    4.2 ACEPTADO: Ud. deberá enviar antes de la fecha indicada cualquier corrección que le sea solicitada. [(ver fechas)](#deadlines).
+    4.2 ACEPTADO: Ud. deberá enviar antes de la fecha indicada cualquier corrección que le sea solicitada.  (ver sección __Fechas Importantes__).
 
 #### Instrucciones para envío de Posters a la Monografía TPPM
 
@@ -148,7 +152,7 @@ Usted solamente necesitará enviar un resúmen de la presentación de su poster.
 
 1. [Registrarse como autor en TPPM](http://ojs.pythonpapers.org/index.php/tppm/user/register).
 
-   Seleccionar el registro como "as author".
+   Seleccionar el registro "as author".
 
 2. [Enviar el resumen antes del 1 de Mayo](http://ojs.pythonpapers.org/index.php/tppm/author/submit).
 
@@ -158,13 +162,13 @@ Usted solamente necesitará enviar un resúmen de la presentación de su poster.
 
 3. Arbitros expertos en su temática harán la revisión.
 
-4. Se le notificará la decisión editorial antes del 1ro de Junio: [(ver fechas)](#deadlines).
+4. Se le notificará la decisión editorial antes del 1ro de Junio: (ver sección __Fechas Importantes__).
 
     4.1 RECHAZADO: Ud. podrá leer los commentarios hechos por los expertos.
 
-    4.2 ACEPTADO: Ud. deberá enviar antes de la fecha indicada cualquier corrección que le sea solicitada antes del 15 de Julio. [(ver fechas)](#deadlines).
+    4.2 ACEPTADO: Ud. deberá enviar antes de la fecha indicada la versión final corregida del resumen antes del 15 de Julio (ver sección __Fechas Importantes__).
 
-5. Envíe el poster completo a los __Contactos del Event__ antes del 15 de Julio: [(ver fechas)](#deadlines).
+5. Envíe el poster completo a los __Contactos del Event__ antes del 15 de Julio (ver sección __Fechas Importantes__).
 
 #### Formato para redacción de los artículos.
 
@@ -175,7 +179,7 @@ Por favor, antes de seguir los pasos para enviar su artículo, asegúrese de hab
 
 Los artículos completos no excederán las 10 páginas.
 
-Los posters tendrán una dimensión de 70cmx100cm, con márgenes por sus cuatro lados de 1.5cm. Use las mismas fuentes ofrecidas en las plantillas de los artículos adicionando de manera obligatoria título, autores, contactos, resumen y resultados, y luego otros de su elección.
+Los posters tendrán una dimensión de 70cmx100cm, con márgenes por sus cuatro lados de 2cm. Use las mismas fuentes ofrecidas en las plantillas de los artículos adicionando de manera obligatoria título, autores, contactos, resumen y resultados, y luego otros de su elección.
 
 Para más información le invitamos a consular las [instrucciones de publicación en The Python Papers](http://www.pythonpapers.org/instAuthor.html)
 
@@ -205,17 +209,17 @@ Para más información le invitamos a consular las [instrucciones de publicació
 
 Las [cuotas de inscripción](../register) cubren solamente la posibilidad de asistir al evento y están diferenciadas por regiones para promover la participación de estudiantes, profesionales e investigadores de América Latina y el Caribe imposibilitados de estar presencialmente en el evento por circunstancias de índole económica u otras razones. Para más detalles sobre el tema consulte las [cuotas de inscripción](../register). Para conocer otras maneras de financiar su participación infórmese sobre [las ayudas financieras](../forms/financial-aid/es).
 
-TODO: Travel guidelines
+Para facilitar su viaje a Cuba le recomendamos leer [Instrucciones para viajar a Cuba](http://scipyla.org/conf/2017/travel).
 
 ******************************************************************
 
 # Contactos {#Contact}
 
-Ayúdenos a organizar sus intereses en la agenda de la conferencia enviando su área específica de investigación a los contactos del evento. 
+Haga suya nuestra agenda enviando sus intereses y área específica de investigación a los **Contactos del Evento**. 
 
 *   2017@scipyla.org
 *   scipyla2017@pythoncuba.org
 *   scipyla2017@cuban.tech
 
-Si estuviera interesado en otros temas le invitamos a conocer la [lista de talleres del evento](../tracks).
+Puede revisar la [lista de talleres del evento](../tracks). construida colaborativamente.
 
