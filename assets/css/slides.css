@@ -3,6 +3,10 @@ body {
   overflow: auto;
 }
 
+.reveal.embedded, .reveal.embedded.center {
+  height: 100vh;
+}
+
 .reveal.embedded .controls {
   display: block;
   position: absolute;
@@ -43,11 +47,6 @@ body {
 
 .reveal .slides > section, .reveal .slides > section > section {
   padding: 0px;
-}
-
-.reveal.embedded, .reveal.embedded.center {
-  height: 700px;
-  min-height: 100vh !important;
 }
 
 .reveal section img {
