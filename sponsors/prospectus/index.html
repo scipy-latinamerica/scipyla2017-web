@@ -11,6 +11,13 @@
 
     <title>SciPyLA 2017 - Sponsor prospectus </title>
 
+    <!-- Reveal.js slides -->
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/css/reveal.min.css">
+    <link rel="stylesheet" href="../../assets/css/slides.css">
+
+    <!-- Code syntax highlighting -->
+    <link rel="stylesheet" href="../../assets/css/zenburn.css">
+
     <!-- Bootstrap core CSS -->
     <link href="../../assets/css/bootstrap.min.css" rel="stylesheet">
     <!-- SciPyLA Bootstrap theme -->
@@ -33,12 +40,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/css/reveal.min.css">
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/css/theme/black.min.css" id="theme">
-
-    <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="../../assets/css/zenburn.css">
-    <link rel="stylesheet" href="../../assets/css/slides.css">
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/css/theme/white.min.css" id="theme">
 
     <!-- Printing and PDF exports -->
     <script>
@@ -50,9 +52,6 @@
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
 
-    <!--[if lt IE 9]>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
   </head>
 
   <body>
@@ -86,7 +85,7 @@
                 <li><a href="../../index.html#contact">Contacto</a></li>
               </ul>
             </li>
-            <li class="dropdown active">
+            <li class="dropdown">
               <a href="../../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Programa <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../../register">Reservar tickets</a></li>
@@ -106,7 +105,7 @@
                 <li><a href="../../forms/activity">Propuestas de charlas</a></li>
               </ul>
             </li>
-            <li class="dropdown">
+            <li class="dropdown active">
               <a href="../../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Comunidad <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="../../organizers">Organizadores</a></li>
@@ -162,13 +161,19 @@
 
     <div class="container">
 
-      <div class="slides markdown-slides">
-        <section data-markdown="slides.es.md"
-                 data-separator="^\n---\n"
-                 data-separator-vertical="^\n--\n"
-                 data-notes="^Note:"
-                 data-charset="iso-8859-15">
-        </section>
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="reveal embedded">
+            <div class="slides markdown-slides">
+              <section data-markdown="slides.es.md"
+                       data-separator="^\n---\n"
+                       data-separator-vertical="^\n--\n"
+                       data-notes="^Note:"
+                       data-charset="iso-8859-15">
+              </section>
+            </div>
+          </div>
+        </div>
       </div>
 
     </div> <!-- /container -->
@@ -202,7 +207,7 @@
 
     <!-- TODO: CDN link -->
     <script src="../../assets/js/head.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/js/reveal.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/js/reveal.js"></script>
 
     <script>
 
@@ -212,8 +217,9 @@
         controls: true,
         progress: true,
         history: true,
-        center: true,
-        theme: 'black',
+        center: false,
+        theme: 'white',
+        embedded: true,
 
         transition: 'slide', // none/fade/slide/convex/concave/zoom
 
