@@ -75,15 +75,42 @@ section {
 /* Main marketing message and sign up button */
 
 #jumbo-main {
-  background-image: url('../img/jumbobg.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
   height: 99vh;
   padding-top: 98px;
 }
 
+#jumbo-main.slide-1 {
+  background-image: url('../img/jumbobg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#jumbo-main.slide-2 {
+  background-color: #061220;
+  background-image: url('../img/sponsors-bg.jpg');
+  background-position: bottom;
+  background-repeat: repeat-x;
+  background-size: auto 160px;
+}
+
+#home-carousel {
+  height: 80vh;
+}
+
+#home-carousel .bottom-nav {
+  position: absolute;
+  bottom: 80px;
+  left: 50%;
+  z-index: 15;
+  width: 60%;
+  margin-left: -30%;
+  padding-left: 0;
+  list-style: none;
+  text-align: center;
+}
+
 #venue {
-  background-image: url('../img/havana-bg.png');
+  background-image: url('../img/varadero-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
