@@ -8,7 +8,7 @@
 
 ## More Python, More Science
 
-##### September / October, 2017, Havana, Cuba
+##### September / October, 2017, Varadero, Cuba
 
 ###### [http://scipyla.org/conf/2017/](http://scipyla.org/conf/2017/)
 
@@ -26,7 +26,7 @@ The Python Software Foundation (PSF) is a non-profit membership organization dev
 ******************************************************************
 ## Latin American workshop on Python, Electric Engineering and Control
 
-Researchers and entrepreneurs will meet in Havana to cover the potential of smart-grid technologies, robotics, AI and similar technologies to implement disruptive applications, emphasizing on explaining how Python helped them to achieve a competitive advantage.
+Researchers and entrepreneurs will meet in Varadero to cover the potential of smart-grid technologies, robotics, AI and similar technologies to implement disruptive applications, emphasizing on explaining how Python helped them to achieve a competitive advantage.
 
 ## Official languages
 
