@@ -11,25 +11,29 @@ Parte de los fondos recaudados con los pagos por inscripción se utilizan para p
 
 - Tarifa Individual: Si Usted paga su participación en el evento, Usted debe registrarse con una tarifa individual. Los empleados de organizaciones sin ánimo de lucro son elegibles para registrarse con una tarifa corporativa. Considere que la tarifa varía de acuerdo a su zona geográfica de orígen. Esto expresa la intención de otorgar una bonificación a personas que viajen desde países en vías de desarrollo
 
-- Tarifa para Estudiantes : Esta tarifa es para estudiantes a tiempo completo e invitados académicos.
+- Tarifa para Estudiantes : Esta tarifa es para estudiantes a tiempo completo e invitados académicos. La asistencia en esta modalidad 
 
 A continuación le mostramos los precios de inscripción.
 
 | Tarifa | Precio |
 |------:|------|
-| Corporativa | será anunciado próximamente |
-| Individual - América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zeland, Sudáfrica | será anunciado próximamente |
-| Individual - América Latina y el Caribe, y el resto de África, Asia y el Pacífico | será anunciado próximamente |
+| Corporativa | 450 €  |
+| Corporativa - Cuba | 420 €  |
+| Individual - América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zelanda, Sudáfrica | 375 €  |
+| Individual - América Latina y el Caribe, y el resto de África, Asia y el Pacífico | 300 €  |
 | Individual - Cuba | **gratuito** pero con cupos limitados |
-| Estudiantes | será anunciado próximamente |
+| Estudiantes | 200 €  |
+| Pases diarios | serán anunciados próximamente |
 
-N.B. : El registro para participar en los tutoriales no está incluído entre las tarifas de inscripción de la conferencia. La inscripción para este tipo de talleres comenzará en mayo del 2017. El precio de inscripción será $15 por taller si se reserva previamente y $30 si se reserva en la sede.
+N.B. : El registro para participar en los tutoriales no está incluído entre las tarifas de inscripción de la conferencia. La inscripción para este tipo de talleres comenzará en mayo del 2017. El precio de inscripción será 30 € por taller si se reserva previamente y 50 € si se reserva en la sede.
+
+![Credenciales SciPyLA 2017](../assets/img/badge.jpg)
 
 ## ¿Qué incluye la inscripción?
 
-El registro en la conferencia incluye desayuno, almuerzo y meriendas en mañana y tarde durente los cuatro días de la conferencia.
+El registro en la conferencia incluye hospedaje, desayuno, almuerzo y meriendas en mañana y tarde durente los cuatro días de la conferencia en régimen todo incluído.
 
-Los asistentes a los talleres previos a la conferencia tendrán garantizados almuerzos y meriendas. El pago de los tutoriales se realiza por cada clase individualmente y no incluye la participación en la conferencia. El registro para participar en este tipo de actividades abrirá en mayo del 2017. La participación en cada clase o taller tendrá un costo de $15 si se reserva con antelación o $30 si la reserva se realiza en la sede
+Los asistentes a los talleres previos a la conferencia tendrán garantizados almuerzos y meriendas. El pago de los tutoriales se realiza por cada clase individualmente y no incluye la participación en la conferencia. El registro para participar en este tipo de actividades abrirá en mayo del 2017. La participación en cada clase o taller tendrá un costo de 30 € si se reserva con antelación o 50 € si la reserva se realiza en la sede
 
 Cuando se comience a ofrecer el proceso de registro, los participantes también podrán reservar su alojamiento. El equipo organizador hará convenios con hoteles   con los cuales se negociarán precios preferenciales para los asistentes al evento. Es responsabilidad de cada asistente decidir la opción de alojamiento que le resulte conveniente. Para   evitar incidentes recomendamos muy seriamente reservar las habitaciones a través de los servicios sugeridos por el equipo organizador de la conferencia.
 
@@ -47,7 +51,7 @@ Todo el mundo, incluído el Presidente del Comité Organizador, paga por partici
 
 > Para nuestros invitados extranjeros: si su petición de VISA o su entrada al país fueran denegadas, por favor contacte al equipo organizador para hacer la devolución de su pago. En el proceso se le informará de la documentación que debe presentar y los recargos aplicados.
 
-Las cancelaciones deben ser presentadas por escrito y recibidas antes del 15 de julio del 2017. Al acerlo se recibirá una devolución de sus fondos con un descuento de $25 por concepto de procesamiento de su solicitud. No se harán devoluciones a solicitudes de cancelación recibidas en fechas posteriores al 15 de julio del 2017.
+Las cancelaciones deben ser presentadas por escrito y recibidas antes del 1 de agosto del 2017. Al hacerlo se recibirá una devolución de sus fondos con un descuento de 50 € por concepto de procesamiento de su solicitud. No se harán devoluciones a solicitudes de cancelación recibidas en fechas posteriores al 1 de agosto del 2017.
 
 ## ¿Preguntas?
 
