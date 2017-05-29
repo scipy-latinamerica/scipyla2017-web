@@ -8,7 +8,7 @@
 
 ## Más Python, Más ciencia
 
-##### Varadero, Cuba, Septiembre / Octubre 2017
+##### La Habana, Cuba, Septiembre / Octubre 2017
 
 ###### [http://scipyla.org/conf/2017/](http://scipyla.org/conf/2017/)
 
@@ -34,9 +34,9 @@ tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
-## Taller Latinoamericano de Python y Bioinformática
+## Taller Latinoamericano de Python y Física
 
-SciPyLA 2017 será la ocasión para explorar oportunidades de innovación y conexión con la industria biotecnológica. Cuba destaca dados sus 893 permisos comerciales registrados en más de 50 países. Conozca de primera mano cómo la biotecnología se abre camino en la región.
+En el taller se discutirán los resultados más relevantes de los centros de investigaciones físicas de una región que cuenta con más de 15,000 profesionales. La asistencia de países menos desarrollados contribuirá a reducir las brechas en términos de educación e investigación.
 
 ## Idiomas oficiales
 
@@ -51,43 +51,19 @@ Español, Portugués, Inglés
 
 ******************************************************************
 
-## Tópicos del Taller de Bioinformática ##
+## Tópicos del Taller de Física ##
 
 Algunas áreas específicas de interés son:
 
-*   Sensores biónicos
-*   Bio-impresión
-*   Bioplásticos
-*   Procesamiento para Simulaciones del Cerebro, Corazón y otros órganos
-*   Lecturas cerebrales y Neuroinformática
-*   Interfaces Cerebro-Máquina
-*   Estudios del Cáncer y Tumores utilizando Big Data
-*   Polímeros Conductivos
-*   Secuenciación de ADN
-*   Informática como Servicio para la Salud
-*   Inmunoensayos
-*   Producción de alimentos in vitro
-*   Lab-on-a-chip y Aplicaciones
-*   Nanomedicinas y Nanosensores
-*   Investigación de virus oncolíticos
-*   Tratamientos Personalizados
-*   Plagiosis
-*   Tratamientos con células madre
-*   Lenguajes Abiertos para Biología Sintética.
-*   Ingeniería de Tejidos
+*   Métodos numéricos para la resolución de ecuaciones diferenciales.
+*   Experimentos de física de alta energía
+*   Formación de estructuras a gran escala de Universos
+*   Evolución de las galaxias
+*   Simulaciones de materia oscura
 
 En general el comité del evento aceptará artículos relacionados con las siguientes disciplinas:
 
-Química Analítica, Astrobiología, Bioquímica, Bioinformática,
-Biomateriales, Biomecánica, Biofísica, Biotecnología,
-Ingeniería Química, Biología Química, Quimioinformática, Biología Computacional,
-Química Computacional, Química Nuclear, Química de Flujos, Genética, Genómica,
-Ciencias de la Salud, Inmuno-Química, Inmunología, Biología Matemática,
-Química Matemática, Microbiología, Biología Molecular, Mecánica Molecular,
-Nanomateriales, Nanotecnologías, Neurociencias, Paleo-Biología,
-Ingeniería y Química de Polímeros, Fitoquímica, Biología Estructural,
-Química Supramolecular, Biología Sintética, Métodos de Genómica Sintética,
-Ingeniería de Tejidos, Virología.
+Física Aplicada, Astronomía, Astrofísica, Física Computacional, Cosmología, Física de partículas elemental, Física Experimental, Dinámica de Fluidos, Física Matemática, Mecánica Cuántica Molecular, Física Nuclear, Simulaciones Numéricas, Física de los Materiales, Física Cuántica, Radioquímica, Semiconductores, Mecánica Estadística.
 
 ******************************************************************
 
