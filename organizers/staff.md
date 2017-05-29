@@ -9,24 +9,24 @@ please fill and submit the (../forms/joinus)[collaborators form].
 
 - Conference Chair : [Olemis Lang](http://linkedin.com/in/olemis)
 - Program Committee Chair : [Abel Meneses Abad](https://cu.linkedin.com/in/abel-abel-meneses-abad-1450ba3a)
-- Diversity Outreach Chair : 
+- Diversity Outreach Chair : [Roxana Martin Ramos](https://www.linkedin.com/in/roxana-martin-ramos-50711948/), [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/)
 - Tutorials Coordinator : [Igr Alexander Fernández Sauco](https://www.linkedin.com/in/igr-alex%C3%A1nder-fern%C3%A1ndez-sa%C3%BAco-34374062/)
 - Posters Coordinator : 
 - Sprint Coordinators :
 - Social Events Coordinator : 
 - Financial Aid Coordinator : [Olemis Lang](http://linkedin.com/in/olemis)
-- Volunteers Coordinator :
+- Volunteers Coordinator : [Vladimir Gómez Fumero](https://www.linkedin.com/in/vladimir-g%C3%B3mez-fumero-55aa8513b)
 - Media Coordinator : [Rachel Domínguez Roja](https://www.linkedin.com/in/rachel-dom%C3%ADnguez-b5271891/)
 - Head of Infrastructure : [Hanoi Calvo Fernández](https://www.facebook.com/hanoicalvofernandez)
 
 - General Event Coordinators : [Roxana Martin Ramos](https://www.linkedin.com/in/roxana-martin-ramos-50711948/)
-- Bioinformatics Workshop Coordinator :
-- Physics Workshop Workshop Coordinator : 
-- Electrical Engineering and Process Automation Workshop Coordinator : 
-- Economy and Operations Research Workshop Coordinator :
+- Bioinformatics Workshop Coordinator : [Olemis Lang](http://linkedin.com/in/olemis)
+- Physics Workshop Coordinator : [Alejandro Ramos Ramos](https://www.facebook.com/alejandro.ramosramos.35)
+- Electrical Engineering and Process Automation Workshop Coordinator : [Yudivián Almeida Cruz](https://www.linkedin.com/in/yudivi%C3%A1n-almeida-cruz-a534a8a4/)
+- Economy and Operations Research Workshop Coordinator : [Eduardo Sánchez González](https://www.linkedin.com/in/eduardo-s%C3%A1nchez-gonz%C3%A1lez-13750889/)
 - Emerging Computing Technologies Workshop Coordinator : [Igr Alexander Fernández Sauco](https://www.linkedin.com/in/igr-alex%C3%A1nder-fern%C3%A1ndez-sa%C3%BAco-34374062/)
   * Infrastructure for Reproducible Research Coordinators : 
-- Earth Sciences Workshop Coordinator :
+- Earth Sciences Workshop Coordinator : [Olemis Lang](http://linkedin.com/in/olemis)
 - Social Sciences and Humanities Workshop Coordinator : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/)
 
 - Teen Track Coordinator : 
