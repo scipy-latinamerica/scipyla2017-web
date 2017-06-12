@@ -34,9 +34,9 @@ tributarios, y de carácter científico y educacional.
 
 ******************************************************************
 
-## Taller Latinoamericano de Python, Ciencias Económicas e Investigación de Operaciones
+## Taller Latinoamericano de Python y Tecnologías Emergentes de Cómputo
 
-La industria financiera, pagos online y puertos a lo largo de más de 200,000 km de costas presentan varios desafíos a los investigadores. Expertos presentarán diferentes usos de herramientas hechas con Python para ayudar con el crecimiento económico de PyME y trasnacionales.
+La ciencia y Python ofrecen respuestas a iniciativas regionales que aprovechan oportunidades generadas por más de 689 millones de cuentas móviles, 50 millones de consumidores activos, y un mercado de IoT estimado en $15.6 mil millones y 800 millones de dispositivos conectados. 
 
 ## Idiomas oficiales
 
@@ -51,52 +51,58 @@ Español, Portugués, Inglés
 
 ******************************************************************
 
-## Tópicos del Taller de Ciencias Económicas e Investigación de Operaciones ##
+## Tópicos del Taller de Tecnologías Emergentes de Cómputo ##
 
 Algunas áreas específicas de interés son:
 
-* Simulación de aeropuertos
-* Inteligencia de negocio
-* Procesos de negocios como servicio
-* Modelación de procesos de negocio (BPM)
-* CRM, ERP y sistemas de gestión para tomas de decisiones
-* Criptomoneda
-* Predicciones
-* E-Business, E-Entrepreneurship, E-Learning, y E-Logistics
-* Aspectos económicos de fenómenos big data
-* Sistemas empresariales para gestión de información estratégica
-* Enterprise Service Bus, Workflows, integraciones de herramientas y datos
-* Software financiero como servicio (FSaaS)
-* Planificación integrada de producción, inventario y distribución
-* Lean Enterprise, Lean Startups
-* Planificación y dimensionamiento de lotes
-* Simulaciones de puertos de mercancías y sistemas de transporte para entregas
-* Protocolos, plataformas y mercados para soluciones de pago para móviles
-* Análisis económicos de aplicaciones de redes
-* Pasarelas de pagos
-* Physical internet
-* Minería y re-ingeniería de procesos
-* Herramientas de simulación de procesos
-* Simulación de transporte público
-* Sharing economy
-* Simulación para planificación de negocios
-* Simulación y modelos para sistemas financieros
-* Simulación de operaciones de almacenes
-* Simulación para predicciónes de mercado
-* Planificación basada en simulaciones
-* Economía y negocios en redes sociales
-* Procesos estocásticos
-* Sistema de información para cadenas de suministros
-* Empresas virtuales e interoperabilidad
+* Redes de comunicación celulares 4G y 5G
+* iSistemas y arquitecturas basadas en agentes
+* Deseño de interacciones agente-humano
+* Analytics as a Service (AaaS)
+* Realidad aumentada
+* Big Data
+* Computación en la nube, IaaS, PaaS y SaaS
+* Big Data as a Service (BDaaS)
+* Biometría
+* Optimización combinatoria
+* Geometría computacional
+* Imágenes generadas por computadora
+* Visión por computadora
+* Minería de datos
+* Paralelismo de datos y arquitecturas SIMD
+* Ciencia de datos (Data Science)
+* Algoritmos para sistemas operativos y bases de datos distribuidas
+* Lenguajes de propósito específico (DSL)
+* Deep learning
+* Computación evolutiva
+* Módelos de cómputo en grafos
+* Computación de gama alta (HPC)
+* Procesamiento de imágenes
+* Integración como servicio
+* Internet de las cosas (IoT)
+* Optimización a gran escala
+* Aprendizaje automático (Machine learning)
+* Comunicaciones máquina a máquina
+* Colaboración y e-learning en entornos móviles
+* Técnicas de caching, modelos de transacciones y recuperación para persistencia de datos en aplicaciones móviles
+* Virtualización de funciones de red (Network function virtualization)
+* Mobile edge computing
+* Ingeniería de sistemas escalables basados en modelos
+* Reconocimiento de patrones
+* Identificación por radiofrecuencia (RFID)
+* Redes cognitivas y redes definidas por software (SDN)
+* Radio definido por software (SDR)
+* Reconocimiento de lenguaje natural
+* Realidad virtual
+* Virtualización y contenetedores
+* Aplicaciones para dispositivos wearable
 
 En general el comité del evento aceptará artículos relacionados con las siguientes disciplinas:
 
-Publicidad, sistemas económicos complejos, economía computacional, finanza computacional,
-optimización combinatoria, E-Business, econometría, economía experimental,
-econometría financiera, optimización numérica a gran escala, logística, marketing,
-macroeconomía, economía estadística, microeconomía, gestión de operaciones,
-gestión de cadenas de suministros
-
+Intelgencia artificial, inteligencia de negocios (BI), criptografía, ciencia de datos,
+Almacenes de datos, redes digitales de difusión de datos, procesamiento de señales digitales,
+medios de difusión masiva, redes de fibra óptica, computación cuántica, telecomunicaciones,
+tecnologías inalámbricas.
 
 ![Welcome reviewers](../assets/img/cfr.png)
 
