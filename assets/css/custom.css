@@ -745,16 +745,18 @@ h1, h2, h3, h4 {
   .img-ads {
     height: 200px;
     width: 280px;
+    background-position: -620px 0px;
   }
 
 }
 
 /* Extra small */
-@media (max-width: 767px) {
+@media (min-width:481px) and ( max-width: 767px) {
 
   .img-ads {
     height: 180px;
     width: 400px;
+    background-position: 0 0;
   }
 
   .modal-footer .btn {
@@ -819,6 +821,7 @@ h1, h2, h3, h4 {
   .img-ads {
     height: 160px;
     width: 700px;
+    background-position: 0 -215px;
   }
 
 }
@@ -829,6 +832,7 @@ h1, h2, h3, h4 {
   .img-ads {
     height: 150px;
     width: 900px;
+    background-position: 0 -400px;
   }
 
 }
