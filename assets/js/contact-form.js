@@ -17,16 +17,20 @@ $(function() {
           dataType: 'json'
         })
           .done(function() {
-            $('#contact-form-errors').removeClass('alert-danger')
-            $('#contact-form-errors').addClass('alert-success')
+            $('#contact-form-errors').removeClass('text-danger')
+            $('#contact-form-errors').addClass('text-success')
             $('#contact-form-errors').html('<strong><span class="glyphicon glyphicon-envelope"></span> ENVIADO CORRECTAMENTE.</strong> Su mensaje ha llegado con &eacute;xito a su destino.')
           })
           .fail(function() {
-            $('#contact-form-errors').removeClass('alert-success')
-            $('#contact-form-errors').addClass('alert-danger')
+            $('#contact-form-errors').removeClass('text-success')
+            $('#contact-form-errors').addClass('text-danger')
             $('#contact-form-errors').html('<strong>ERROR!.</strong> Ocurri&oacute; un error al enviar su mensaje, por favor, intentelo de nuevo.')
           })
           .always(function() {
+            $('#contact-form-errors').show()
+            setTimeout(function() {
+              $('#contact-form-errors').hide()
+            }, 3000)
             console.log("complete")
           });
       }
