@@ -28,7 +28,7 @@ sus datos en el [formulario de búsqueda de colaboradores](../forms/joinus).
 - Coordinador del Taller de Tecnologías Emergentes de Cómputo : [Igr Alexander Fernández Sauco](https://www.linkedin.com/in/igr-alex%C3%A1nder-fern%C3%A1ndez-sa%C3%BAco-34374062/)
   * Coordinador del sub-evento Infraestructura para Investigación Reproducible :
 - Coordinador del Taller de Ciencias de la Tierra : [Olemis Lang](http://linkedin.com/in/olemis)
-- Coordinadora del Taller de Ciencias Sociales y Humanidades : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/)
+- Coordinadora del Taller de Ciencias Sociales y Humanidades : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/), [Rachel Domínguez Rojas](https://www.linkedin.com/in/rachel-dom%C3%ADnguez-b5271891/)
 
 - Coordinador del Teen Track :
 

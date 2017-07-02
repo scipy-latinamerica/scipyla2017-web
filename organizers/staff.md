@@ -27,7 +27,7 @@ please fill and submit the (../forms/joinus)[collaborators form].
 - Emerging Computing Technologies Workshop Coordinator : [Igr Alexander Fernández Sauco](https://www.linkedin.com/in/igr-alex%C3%A1nder-fern%C3%A1ndez-sa%C3%BAco-34374062/)
   * Infrastructure for Reproducible Research Coordinators : 
 - Earth Sciences Workshop Coordinator : [Olemis Lang](http://linkedin.com/in/olemis)
-- Social Sciences and Humanities Workshop Coordinator : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/)
+- Social Sciences and Digital Humanities Workshop Coordinator : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/), [Rachel Domínguez Roja](https://www.linkedin.com/in/rachel-dom%C3%ADnguez-b5271891/)
 
 - Teen Track Coordinator : 
 

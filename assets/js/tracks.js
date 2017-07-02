@@ -33,7 +33,7 @@
     },
     social: {
       title_es: 'Ciencias Sociales y Humanidades',
-      title_en: 'Social Science and Humanities',
+      title_en: 'Social Science and Digital Humanities',
       icon_class: 'icon-42'
     }
   },

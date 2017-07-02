@@ -24,7 +24,7 @@ The members of the CubanTech Group are young Cuban technology entrepreneurs skil
 The Python Software Foundation (PSF) is a non-profit membership organization devoted to advancing open source technology related to the Python programming language. It qualifies under the US Internal Revenue Code as a tax-exempt 501(c)(3) scientific and educational public charity, and conducts its business according to the rules for such organizations.
 
 ******************************************************************
-## Latin American workshop on Python, Social Sciences and Humanities
+## Latin American workshop on Python, Social Sciences and Digital Humanities
 
 The 670 Latin American ethnic groups conform the fastest growing Internet population in the world. Join the experts to discuss regional trends in fields like smart cities, sharing economy, multilingual content navigation, open data, social networking and e-communities.
 
@@ -41,7 +41,7 @@ Spanish, Portuguese, English
 
 ******************************************************************
 
-### Social Science and Humanities Workshop Topics
+### Social Science and Digital Humanities Workshop Topics
 
 Some particular areas of interest are:
 
