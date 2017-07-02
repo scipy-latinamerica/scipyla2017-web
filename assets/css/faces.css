@@ -1,5 +1,10 @@
 
-.sprite { background: url('../img/embajadores-sprite.png') no-repeat top left; width: 64px; height: 64px;  } 
+.sprite {
+  background: url('../img/embajadores-sprite.png') no-repeat top left;
+  display: inline-block;
+  height: 64px;
+  width: 64px;
+} 
 .sprite.face-celiacintas { background-position: 0 0; } 
 .sprite.face-rgaia { background-position: 0 -74px; } 
 .sprite.face-xmnlab { background-position: 0 -148px; } 
