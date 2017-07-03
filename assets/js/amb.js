@@ -13,7 +13,7 @@
       geocode: 'bo'
     },
     rgaia : {
-      name: 'Raniere Gaia Silva',
+      name: 'Raniere Gaia',
       country: 'Brasil',
       geocode: 'br'
     },
@@ -40,7 +40,7 @@
     soliva : {
       name: 'Sebastian Oliva',
       country: 'Guatemala',
-      geocode: 'gu'
+      geocode: 'gt'
     },
     alexd : {
       name: 'Alex Dzul',
@@ -55,7 +55,7 @@
     fpalm : {
       name: 'Francisco Palm',
       country: 'Venezuela',
-      geocode: 'vz'
+      geocode: 've'
     }
   }
 
