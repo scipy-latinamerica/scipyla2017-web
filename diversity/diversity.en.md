@@ -1,4 +1,4 @@
-Introducción
+Introduction
 ============
 
 This document gives conventions for Python (no matter if it's Python2 or Python3) communities.
@@ -7,7 +7,7 @@ This conventions can and should evolve as the community does. Sometimes, this co
 
 The purpose of this document is to give a way to consider and measure diversity in your community. It's not meant to blame, but to inspire.
 
-Reconocimiento
+Acknowledgement
 ===============
 
 This document is shamelessly based on the PEP-0008 document. Thanks for the structure and for the inspiration. Also, big thanks to the people who helped with translation and proper wording for the first release. Everyone who has contributed is listed in the *Authors* section.
@@ -28,7 +28,7 @@ In particular: be open minded and welcoming.
 Some other good reasons to improve diversity is because diverse communities:
 
 * build better products
-* help to make the *breachs* smaller
+* help to make the *breaches* smaller
 * are more creative
 * are better ready to adapt to the world
 * are happier
@@ -46,7 +46,7 @@ So if we really want to end the *statu quo* to get a diverse community, we need 
 
 This document goes through different (and classic) axes to think about diversity. Any contribution will be more than welcome.
 
-Género
+Gender
 ======
 
 For a community to be diverse, we should find different genders. All the genders.
@@ -55,14 +55,14 @@ First of all, that implies that our community accepts that gender is not necessa
 
 Secondly, representativity. A diverse community is glad and expecting diversity in the higher positions. Decisions should be taken representing the group and we can only achieve it having representation in the whole hierarchy.
 
-Orientación Sexual
+Sexual Orientation
 ==================
 
 For a community to be diverse, we need to be sure that nobody is being rejected because of bigot behaviours.
 
 Sexual orientation is not obvious to know, nor necessary; but a good point is to have a place where people openly rejects homophobia in all its manifestations. A place where being gay or lesbian doesn't mean to be pointed out.
 
-Edad
+Age
 ===
 
 For a community to be diverse, we should find people of different ages.
@@ -71,14 +71,14 @@ All ages, from children to elder people, the message should be: this *new* techn
 
 A diverse community also has in mind that people grow and sometimes have children. We can make easy for them to continue being part of the community, offering childcare when possible.
 
-Capacidad
+Ability
 =======
 
 For a community to be diverse, we should find people with functional diversity.
 
 Meaning that we care about being accesible for everyone: from impaired to people in wheel chair, everyone should feel welcome. We all use technology, but we just don't see it because it's deeply adapted to us: smartphones, keys, glasses... A diverse community takes in mind accessibility, and is resourceful helping others.
 
-Origen
+Origin
 ======
 
 For a community to be diverse, we should find people from different origins.
@@ -138,7 +138,7 @@ Bonus: why this codename
 The codename is a word play. On one hand it comes from the Python Enhancement Proposals, aka, PEPs.
 On the other hand, as this document was presented in III Pycon Spain, it references a historical moment in Spain: in 1812 was presented the first Contitution in Spain, the first time ever talking about the rights of *citizens*. This Constitution was commonly known as *Pepa*.
 
-Referencias
+References
 ==========
 
 PEP-8: https://www.python.org/dev/peps/pep-0008/
@@ -150,14 +150,14 @@ This document has been placed in the public domain.
 
 Source: http://github.com/yamila-moreno/pepa
 
-Contribuciones
+Contributions
 =============
 
 Contributions are more than welcome; please, use `pull requests` system of Github to propose changes. Include in your PR your name added to this Authors list.
 
 If you're not familiar with `pull requests` system, open an `issue` and I'll answer as soon as possible.
 
-Autores
+Authors
 =======
 
 Yamila Moreno (@yamila-moreno)
@@ -169,3 +169,7 @@ TankorSmash (@tankorsmash)
 Juan Luis Cano Rodríguez (@Juanlu001)
 
 Iacopo Spalletti (@yakky)
+
+João Felipe N. Pimentel (@JoaoFelipe)
+
+Ivan Ogasawara (@xmnlab)
