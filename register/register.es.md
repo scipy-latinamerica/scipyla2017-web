@@ -17,12 +17,12 @@ A continuación le mostramos los precios de inscripción.
 
 | Tarifa | Precio |
 |------:|------|
-| Corporativa | $TODO CAD |
+| Corporativa | $350 CAD |
 | Corporativa - Cuba | $50 CUC |
-| Individual - América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zelanda, Sudáfrica | $TODO CAD |
-| Individual - América Latina y el Caribe, y el resto de África, Asia y el Pacífico | $TODO CAD |
+| Individual - América del Norte, Europa, Rusia, Japón, Corea del Sur, Australia, Nueva Zelanda, Sudáfrica | $300 CAD |
+| Individual - América Latina y el Caribe, y el resto de África, Asia y el Pacífico | $260 CAD |
 | Individual - Cuba | $15 CUC |
-| Estudiantes | $TODO CAD |
+| Estudiantes | $220 CAD |
 | Pases diarios | serán anunciados próximamente |
 
 N.B. : El registro para participar en los tutoriales no está incluído entre las tarifas de inscripción de la conferencia. La inscripción para este tipo de talleres comenzará en mayo del 2017. El precio de inscripción será $50 CAD por taller si se reserva previamente y $75 CAD si se reserva en la sede.
