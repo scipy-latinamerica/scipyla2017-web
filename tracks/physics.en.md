@@ -8,7 +8,7 @@
 
 ## More Python, More Science
 
-##### September / October, 2017, Varadero, Cuba
+##### November 22nd - 25th, 2017, Sancti Spiritus, Cuba
 
 ###### [http://scipyla.org/conf/2017/](http://scipyla.org/conf/2017/)
 
