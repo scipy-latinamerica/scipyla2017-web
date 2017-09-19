@@ -1,7 +1,7 @@
 
 # Registro para participar en SciPyLA 2017
 
-El formulario de registro para participar en SciPyLA 2017 ya está listo. Los ciudadanos cubanos [registrarse como residentes en Cuba](http://bit.ly/scipyla2017-registro-cuba) para participar en SciPyLA 2017. Los visitantes extranjeros pueden [reservar su ticket](http://bit.ly/scipyla2017-register).
+El formulario de registro para participar en SciPyLA 2017 ya está listo. Los ciudadanos cubanos ya pueden [registrarse como residentes en Cuba](http://bit.ly/scipyla2017-registro-cuba) para participar en SciPyLA 2017. Los visitantes extranjeros pueden [reservar su ticket](http://bit.ly/scipyla2017-register).
 
 Parte de los fondos recaudados con los pagos por inscripción se utilizan para pagar servicios y productos necesarios durante la conferencia. El resto es utilizado por el fondo de ayudas financieras. Este fondo tiene como objetivo apoyar la participación de personas con bajos ingresoso que por otras causas no pueden asistir al evento. En particular estas contribuciones son las que hacen posible asumir los costos de participación de ciudadanos cubanos . El comité organizador de SciPyLA 2017 confía en que Usted seleccionará la opción de registro que se adecúa a su situación actula:
 
