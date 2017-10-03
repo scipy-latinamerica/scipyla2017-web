@@ -12,7 +12,7 @@
     <title>SciPyLA 2017 - Sponsor prospectus </title>
 
     <!-- Reveal.js slides -->
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/css/reveal.min.css">
+    <link rel="stylesheet" href="../../assets/css/reveal.css">
     <link rel="stylesheet" href="../../assets/css/slides.css">
 
     <!-- Code syntax highlighting -->
@@ -25,7 +25,7 @@
 
     <!-- Icons -->
     <link href="../../assets/css/fonts.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Yanone+Kaffeesatz" rel="stylesheet">
+    <link href="../../assets/css/Roboto+Condensed+Yanone+Kaffeesatz.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="../../assets/css/custom.css" rel="stylesheet">
@@ -40,7 +40,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/css/theme/white.min.css" id="theme">
+    <link rel="stylesheet" href="../../assets/css/white.css" id="theme">
 
     <!-- Printing and PDF exports -->
     <script>
@@ -54,110 +54,9 @@
 
   </head>
 
-  <body>
+  <body ng-app="scipyla.md">
     <!-- Fixed navbar -->
-    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse text-uppercase">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">
-            <img src="../../assets/img/scipyla.nav.svg" height="48" class="hidden-xs" />
-            <img src="../../assets/img/scipyla.nav.xs.svg" height="60" class="visible-xs" />
-          </a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Inicio <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="../../index.html#about">Acerca de SciPyLA</a></li>
-                <li><a href="../../index.html#venue">Sede</a></li>
-                <li><a href="../../index.html#org">Organizaci&oacute;n</a></li>
-                <li><a href="../../index.html#timeline">Actividades por año</a></li>
-                <li><a href="../../index.html#gallery">Galer&iacute;a</a></li>
-                <li><a href="../../index.html#traction">Audiencia</a></li>
-                <li><a href="../../index.html#signup">Reservar tickets</a></li>
-                <li><a href="../../index.html#contact">Contacto</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="../../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Programa <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="../../register">Reservar tickets</a></li>
-                <li><a href="../../schedule">Agenda de actividades</a></li>
-                <li role="separator" class="divider"></li>
-                <li class="dropdown-header">Talleres</li>
-                <li><a href="../../tracks/bio">Bioinform&aacute;tica</a></li>
-                <li><a href="../../tracks/physics">F&iacute;sica</a></li>
-                <li><a href="../../tracks/elect">Ingenier&iacute;a Électrica y Automatizaci&oacute;n</a></li>
-                <li><a href="../../tracks/econ">Econom&iacute;a e Investigaci&oacute;n de Operaciones</a></li>
-                <li><a href="../../tracks/tech">Tecnolog&iacute;as de c&oacute;mputo emergentes</a></li>
-                <li><a href="../../tracks/earth">Ciencias de la Tierra</a></li>
-                <li><a href="../../tracks/social">Ciencias Sociales y Humanidades</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="../../forms/reviewers">Llamado a revisores acad&eacute;micos</a>
-                <li><a href="../../forms/poster">Env&iacute;o de posters</a></li>
-                <li><a href="../../forms/activity">Propuestas de charlas</a></li>
-              </ul>
-            </li>
-            <li class="dropdown active">
-              <a href="../../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Comunidad <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="../../organizers">Organizadores</a></li>
-                <li><a href="../../sponsors">Patrocinadores</a></li>
-                <li><a href="../../sponsors/prospectus">Prospecto de patrocinio</a></li>
-                <li><a href="../../sponsors/levels">Niveles de patrocinio</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="../../ambassadors">Embajadores</a></li>
-                <li>
-                  <a href="../../forms/ambassadors">
-                    Llamado a embajadores
-                  </a>
-                </li>
-                <li role="separator" class="divider"></li>
-                <li><a href="../../community">Amigos de SciPyLA 2017</a></li>
-                <li>
-                  <a href="../../forms/community">
-                    Anuncia tu comunidad
-                  </a>
-                </li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="../../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Participa <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="../../register">Reservar tickets</a></li>
-                <li><a href="../../forms/financial-aid">Ayuda financiera</a></li><li><a href="../../faq/financial-aid">Preguntas - Ayuda financiera</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="../../forms/reviewers">Llamado a revisores acad&eacute;micos</a></li>
-                <li><a href="../../forms/poster">Env&iacute;o de posters</a></li>
-                <li><a href="../../forms/activity">Propuestas de charlas</a></li>
-                <li><a href="../../forms/activity">Propuestas de meetups</a></li>
-                <li><a href="../../forms/activity">Proyectos para sprints</a></li>
-                <li><a href="../../forms/activity">Propuestas de talleres</a></li>
-                <li role="separator" class="divider"></li>
-                <li><a href="../../diversity">Diversidad</a></li>
-                <li><a href="../../coc">C&oacute;digo de Conducta</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="../../#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sede <span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="../../venue#info">Informaci&oacute;n de la sede</a></li>
-                <li><a href="../../venue#lodging">Hospedaje</a></li>
-                <li><a href="../../venue#city">Ciudad</a></li>
-                <li><a href="../../visa">VISA</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>
+    <div ng-include src="'../dist/menu_ppal.html'"></div>
 
     <div class="container">
 
@@ -205,13 +104,13 @@
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+    <script src="../../assets/js/jquery.min.js"></script>
     <script src="../../dist/js/bootstrap.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.0/angular.min.js"></script>
+    <script src="../../assets/js/angular.min.js"></script>
 
     <!-- TODO: CDN link -->
     <script src="../../assets/js/head.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.2.0/js/reveal.js"></script>
+    <script src="../../assets/js/reveal.js"></script>
 
     <script>
 
@@ -244,7 +143,7 @@
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      })(window,document,'script','../../assets/js/analytics.js','ga');
 
       ga('create', 'UA-80867706-1', 'auto');
       ga('send', 'pageview');
