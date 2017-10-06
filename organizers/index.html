@@ -37,11 +37,13 @@
     <link href="../assets/css/flag-icon.min.css" rel="stylesheet" />
   </head>
 
-  <body ng-app="scipyla.ambassadors">
+  <body>
     <!-- Fixed navbar -->
-    <div ng-include src="'../dist/menu_ppal.html'"></div>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse text-uppercase" ng-app="scipyla.mainnav" ng-controller="MainNavCtl">
+      <ng-include src="'../assets/views/menu_ppal.html'"></ng-include>
+    </nav>
 
-    <div class="container">
+    <div class="container" id="container" ng-app="scipyla.ambassadors">
 
       <p>&nbsp;</p>
       <h3 class="text-center">ORGANIZADORES</h3>
@@ -185,8 +187,12 @@ tributarios, y de car&aacute;cter cient&iacute;fico y educacional.
     <script src="../assets/js/angular-sanitize.min.js"></script>
     <script src="../assets/js/markdown-it.min.js"></script>
     <script src="../assets/js/ng-markdownit.min.js"></script>
-    <script src="../assets/js/amb.js"></script>
     <script src="../assets/js/angular-route.min.js"></script>
+    <script src="../assets/js/mainnav.js"></script>
+    <script src="../assets/js/amb.js"></script>
+    <script language="javascript">
+      angular.bootstrap(document.getElementById('container'), ['scipyla.ambassadors'])
+    </script>
 
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
