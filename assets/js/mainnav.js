@@ -54,7 +54,7 @@
         { href: 'schedule',
           id: 'schedule',
           caption: { es: 'Agenda de actividades', en : 'Schedule' }},
-        null,
+        { isDivider: true },
         { href: null,
           id: '',
           caption: { es: 'Talleres', en : 'Workshops' }},
@@ -80,7 +80,7 @@
           id: 'social',
           caption: { es: 'Ciencias Sociales y Humanidades',
                      en : 'Digital Humanities and Social Sciences' }},
-        null,
+        { isDivider: true },
         { href: 'forms/reviewers',
           id: 'form_reviewers',
           caption: { es: 'Llamado a revisores académicos',
@@ -111,14 +111,14 @@
         { href: 'sponsors/levels',
           id: 'levels',
           caption: { es: 'Niveles de patrocinio', en : 'Sponsorship levels' }},
-        null,
+        { isDivider: true },
         { href: 'ambassadors',
           id: 'amb',
           caption: { es: 'Embajadores SciPyLA', en : 'SciPyLA Ambassadors' }},
         { href: 'forms/ambassadors',
           id: 'form_amb',
           caption: { es: 'Llamado a embajadores', en : 'Call for Ambassadors' }},
-        null,
+        { isDivider: true },
         { href: 'community',
           id: 'friends',
           caption: { es: 'Amigos de SciPyLA 2017', en : 'Friends of SciPyLA 2017' }},
@@ -139,7 +139,7 @@
         { href: 'faq#financial-aid',
           id: 'faq_finaid',
           caption: { es: 'Preguntas - Ayuda financiera', en : 'Financial aid FAQ' }},
-        null,
+        { isDivider: true },
         { href: 'forms/reviewers',
           id: 'form_reviewer',
           caption: { es: 'Llamado a revisores académicos', en : 'Call for acadmic reviewers' }},
@@ -158,7 +158,7 @@
         { href: 'forms/activity',
           id: 'form_tutorial',
           caption: { es: 'Propuestas de talleres', en : 'Propose tutorial' }},
-        null,
+        { isDivider: true },
         { href: 'diversity',
           id: 'diversity',
           caption: { es: 'Diversidad', en : 'Diversity' }},
@@ -168,7 +168,7 @@
         { href: 'privacy',
           id: 'privacy',
           caption: { es: 'Política de privacidad', en : 'Privacy statement' }},
-        null,
+        { isDivider: true },
         { href: 'forms/joinus',
           id: 'form_join',
           caption: { es: 'Únete al equipo', en : 'Join the team' }}
@@ -209,6 +209,7 @@
 
   app.controller('MainNavCtl', ['$scope',
     function($scope) {
+      $scope.lang = getlang()
       $scope.mainnav = mainnav_data
       $scope.route = getActiveRoute()
       $scope.hprefix = $.page_level || ''
