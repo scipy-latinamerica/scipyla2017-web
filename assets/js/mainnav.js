@@ -204,7 +204,7 @@
   function getActiveRoute() {
     if ($.route)
       return $.route
-    return {section: null, item: null}
+    return {section: null, page: null}
   }
 
   app.controller('MainNavCtl', ['$scope',
