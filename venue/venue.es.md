@@ -1,4 +1,4 @@
-## Sede
+## Universidad de Sancti Spiritus
 
 SciPyLA 2017 se realizará en La Universidad de Sancti Spíritus "José Martí Pérez" (UNISS). La misma se encuentra localizada en la calle Comandante Fajardo S/N entre Cuartel y Circunvalante, en el municipio Sancti Spíritus y provincia de igual nombre.
 

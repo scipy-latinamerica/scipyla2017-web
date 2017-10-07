@@ -179,7 +179,7 @@
       items: [
         { href: 'venue',
           id: 'about',
-          caption: { es: 'Información de la sede', en : 'About the venue' }},
+          caption: { es: 'Acerca de la sede', en : 'About the venue' }},
         { href: 'venue/lodging',
           id: 'lodging',
           caption: { es: 'Hospedaje', en : 'Lodging' }},
@@ -188,8 +188,8 @@
           caption: { es: 'Ciudad anfitriona', en : 'Host city' }},
         { href: 'venue/travel',
           id: 'travel',
-          caption: { es: 'Instrucciones de Viaje y VISA',
-                     en : 'Travel instructions and VISA' }}
+          caption: { es: 'Prepare su viaje',
+                     en : 'Travel instructions' }}
       ]
     }
   ]
