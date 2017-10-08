@@ -1,5 +1,5 @@
 
-![The Python Papers](../assets/img/TPP_logo.png)
+![The Python Papers](../../assets/img/TPP_logo.png)
 
 ### Instructions for Authors
 
@@ -9,20 +9,20 @@ The conference offers the researchers the opportunity to publish in the internat
 
 |                                          |                                          |
 | :--------------------------------------: | ---------------------------------------- |
-| ![Google Scholar](../assets/img/google-scholar-logo.jpg) | **Google Scholar** : Google search engine for academic papers |
-|   ![DRJI](../assets/img/drji-logo.jpg)   | **Directory of Research Journals Indexing** : **3674** Indexed Journals, **96378** Total Articles, **190** Total Countries |
-| ![Index Copernicus](../assets/img/index.copernicus-logo.jpg) | **Index Copernicus** : The [ICI Journals Master List](http://journals.indexcopernicus.com/page.php?page=2) database contains over 22 000 journals. Index Copernicus Value (ICV) is the measure of a journal's strength. It provides information on how fast a published article is able to increase the citation rate. ICV is a respected measure used to rate scientific journals. |
-|   ![DOAJ](../assets/img/doaj-logo.jpg)   | **Directory of Open Access Journals** : **9,457** Journals, **128** Countries, **2,442,144** Articles. |
-| ![OAIster](../assets/img/oaister-logo.png) | **OAIster (R)** : OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors. |
-| ![OCLC First search](../assets/img/oclc-logo.png) | **OCLC FirstSearch (R)** : OCLC FirstSearch service is a valuable access point to research databases. |
-| ![Pandora](../assets/img/pandora-logo.gif) | **Pandora, Australia's web archive** : PANDORA (Preserving and Accessing Networked Documentary Resources of Australia), online repository for Australian publications. |
-| ![National Library of Australia](../assets/img/nla.au-logo.gif) | **National Library of Australia**:       |
-| ![Ovid LinkSolver](../assets/img/ovid.linksolver-logo.gif) | **Ovid LinkSolver** : A journal and book browsing and linking tool. |
-| ![Ulrich's Global Serial Directory](../assets/img/ulrichs-web-logo.png) | **Ulrich's Global Serial Directory** :   |
-| ![EBSCOhost](../assets/img/ebscohost-db-logo.png) | **EBSCOhost Research Databases** :  EBSCOhost databases are the most-used, premium online information resources for tensof thousands of institutions worldwide, representing millions of end users.Now you can access five new Ultimate Databases from EBSCO with superior content,global coverage, and relevant results. |
-| ![OCLC Worldcat](../assets/img/worldcat-logo.png) | **OCLC Worldcat** :                      |
-| ![EZB Regensburg University](../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : The Electronic Journals Library is a service that enable the access to serialized journals spread over Internet. In 2016 more than 600 institutions collaborate actively with the project. |
-| ![eGranary](../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - also known as _Internet inside a box_ - offers millions of educational resources to institutions with low band Internet access. |
+| ![Google Scholar](../../assets/img/google-scholar-logo.jpg) | **Google Scholar** : Google search engine for academic papers |
+|   ![DRJI](../../assets/img/drji-logo.jpg)   | **Directory of Research Journals Indexing** : **3674** Indexed Journals, **96378** Total Articles, **190** Total Countries |
+| ![Index Copernicus](../../assets/img/index.copernicus-logo.jpg) | **Index Copernicus** : The [ICI Journals Master List](http://journals.indexcopernicus.com/page.php?page=2) database contains over 22 000 journals. Index Copernicus Value (ICV) is the measure of a journal's strength. It provides information on how fast a published article is able to increase the citation rate. ICV is a respected measure used to rate scientific journals. |
+|   ![DOAJ](../../assets/img/doaj-logo.jpg)   | **Directory of Open Access Journals** : **9,457** Journals, **128** Countries, **2,442,144** Articles. |
+| ![OAIster](../../assets/img/oaister-logo.png) | **OAIster (R)** : OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors. |
+| ![OCLC First search](../../assets/img/oclc-logo.png) | **OCLC FirstSearch (R)** : OCLC FirstSearch service is a valuable access point to research databases. |
+| ![Pandora](../../assets/img/pandora-logo.gif) | **Pandora, Australia's web archive** : PANDORA (Preserving and Accessing Networked Documentary Resources of Australia), online repository for Australian publications. |
+| ![National Library of Australia](../../assets/img/nla.au-logo.gif) | **National Library of Australia**:       |
+| ![Ovid LinkSolver](../../assets/img/ovid.linksolver-logo.gif) | **Ovid LinkSolver** : A journal and book browsing and linking tool. |
+| ![Ulrich's Global Serial Directory](../../assets/img/ulrichs-web-logo.png) | **Ulrich's Global Serial Directory** :   |
+| ![EBSCOhost](../../assets/img/ebscohost-db-logo.png) | **EBSCOhost Research Databases** :  EBSCOhost databases are the most-used, premium online information resources for tensof thousands of institutions worldwide, representing millions of end users.Now you can access five new Ultimate Databases from EBSCO with superior content,global coverage, and relevant results. |
+| ![OCLC Worldcat](../../assets/img/worldcat-logo.png) | **OCLC Worldcat** :                      |
+| ![EZB Regensburg University](../../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : The Electronic Journals Library is a service that enable the access to serialized journals spread over Internet. In 2016 more than 600 institutions collaborate actively with the project. |
+| ![eGranary](../../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - also known as _Internet inside a box_ - offers millions of educational resources to institutions with low band Internet access. |
 
 By mutual agreement between authors and the Program Committee of the SciPyLA 2017 conference, some papers considered relevant by the reviewers might be selected for publication in other magazines of the academic partners of the event. 
 
@@ -106,7 +106,7 @@ For more information about how to publish on TPP journal read [The Python Papers
 
 ## Subscription / Participation / Payment
 
-The [registration rates](../register) only cover event attendance. There is a differentiation by regions to encourage the participation of students, professionals and researchers of Latin America and the Caribbean with relevant results and yet limited economic resources. For more details consult the [registration rates](../register).  To know more about other ways to get financial resources read about [financial helps](../forms/financial-aid/en).
+The [registration rates](../../register) only cover event attendance. There is a differentiation by regions to encourage the participation of students, professionals and researchers of Latin America and the Caribbean with relevant results and yet limited economic resources. For more details consult the [registration rates](../../register).  To know more about other ways to get financial resources read about [financial helps](../../forms/financial-aid/en).
 
 To make your travel to Cuba an engaging experience, we advise you to read [Instructions to travel to Cuba](http://scipyla.org/conf/2017/travel)
 
@@ -119,5 +119,5 @@ Make yours our agenda, send your interests and research area to the __event cont
 *   scipyla2017@pythoncuba.org
 *   scipyla2017@cuban.tech
 
-Now you can review the "[list of tracks of the event](../tracks)", built collaboratively.
+Now you can review the "[list of tracks of the event](../../tracks)", built collaboratively.
 

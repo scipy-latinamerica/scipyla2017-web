@@ -1,5 +1,24 @@
 
-![The Python Papers](../assets/img/TPP_logo.png)
+![The Python Papers](../../assets/img/TPP_logo.png)
+
+La conferencia ofrece a los investigadores la posibilidad de publicar artículos académicos en la revista internacional __The Python Papers__ (TPP), ISSN: 1834-3147, y posters y abstracts en "The Python Papers Monograph (TPPM)" . Ambs publicaciones están indexadas en:
+
+|                                        |                                        |
+|:--------------------------------------:|----------------------------------------|
+| ![Google Scholar](../../assets/img/google-scholar-logo.jpg) | **Google Scholar** : Google search engine for academic papers |
+|   ![DRJI](../../assets/img/drji-logo.jpg)   | **Directory of Research Journals Indexing** : **3674** Indexed Journals, **96378** Total Articles, **190** Total Countries |
+| ![Index Copernicus](../../assets/img/index.copernicus-logo.jpg) | **Index Copernicus** : The [ICI Journals Master List](http://journals.indexcopernicus.com/page.php?page=2) database contains over 22 000 journals. Index Copernicus Value (ICV) is the measure of a journal's strength. It provides information on how fast a published article is able to increase the citation rate. ICV is a respected measure used to rate scientific journals. |
+|   ![DOAJ](../../assets/img/doaj-logo.jpg)   | **Directory of Open Access Journals** : **9,457** Journals, **128** Countries, **2,442,144** Articles. |
+| ![OAIster](../../assets/img/oaister-logo.png) | **OAIster (R)** : OAIster includes more than 50 million records that represent digital resources from more than 2,000 contributors. |
+| ![OCLC First search](../../assets/img/oclc-logo.png) | **OCLC FirstSearch (R)** : OCLC FirstSearch service is a valuable access point to research databases. |
+| ![Pandora](../../assets/img/pandora-logo.gif) | **Pandora, Australia's web archive** : PANDORA (Preserving and Accessing Networked Documentary Resources of Australia), online repository for Australian publications. |
+| ![National Library of Australia](../../assets/img/nla.au-logo.gif) | **National Library of Australia**:       |
+| ![Ovid LinkSolver](../../assets/img/ovid.linksolver-logo.gif) | **Ovid LinkSolver** : A journal and book browsing and linking tool. |
+| ![Ulrich's Global Serial Directory](../../assets/img/ulrichs-web-logo.png) | **Ulrich's Global Serial Directory** :   |
+| ![EBSCOhost](../../assets/img/ebscohost-db-logo.png) | **EBSCOhost Research Databases** :  EBSCOhost databases are the most-used, premium online information resources for tensof thousands of institutions worldwide, representing millions of end users.Now you can access five new Ultimate Databases from EBSCO with superior content,global coverage, and relevant results. |
+| ![OCLC Worldcat](../../assets/img/worldcat-logo.png) | **OCLC Worldcat** :                      |
+| ![EZB Regensburg University](../../assets/img/ezb-logo.png) | **Electronic Journal Library @ University Library of Regensburg** : The Electronic Journals Library is a service that enable the access to serialized journals spread over Internet. In 2016 more than 600 institutions collaborate actively with the project. |
+| ![eGranary](../../assets/img/egranary-logo.png) | **eGranary Digital Library** : eGranary Digital Library - also known as _Internet inside a box_ - offers millions of educational resources to institutions with low band Internet access. |
 
 ### Instrucciones para publicar en The Python Papers (TPP)
 
@@ -78,7 +97,7 @@ Para más información le invitamos a consular las [instrucciones de publicació
 
 # Inscripción / Asistencia / Pagos
 
-Las [cuotas de inscripción](../register) cubren solamente la posibilidad de asistir al evento y están diferenciadas por regiones para promover la participación de estudiantes, profesionales e investigadores de América Latina y el Caribe imposibilitados de estar presencialmente en el evento por circunstancias de índole económica u otras razones. Para más detalles sobre el tema consulte las [cuotas de inscripción](../register). Para conocer otras maneras de financiar su participación infórmese sobre [las ayudas financieras](../forms/financial-aid/es).
+Las [cuotas de inscripción](../../register) cubren solamente la posibilidad de asistir al evento y están diferenciadas por regiones para promover la participación de estudiantes, profesionales e investigadores de América Latina y el Caribe imposibilitados de estar presencialmente en el evento por circunstancias de índole económica u otras razones. Para más detalles sobre el tema consulte las [cuotas de inscripción](../../register). Para conocer otras maneras de financiar su participación infórmese sobre [las ayudas financieras](../../forms/financial-aid/es).
 
 TODO: Travel guidelines
 
@@ -92,6 +111,6 @@ Ayúdenos a organizar sus intereses en la agenda de la conferencia enviando su �
 *   scipyla2017@pythoncuba.org
 *   scipyla2017@cuban.tech
 
-Si estuviera interesado en otros temas le invitamos a conocer la [lista de talleres del evento](../tracks).
+Si estuviera interesado en otros temas le invitamos a conocer la [lista de talleres del evento](../../tracks).
 
 
