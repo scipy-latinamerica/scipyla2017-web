@@ -52,13 +52,18 @@
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
 
+    <script language="javascript">
+      window.route = { section: 'community', page: 'sponsor_prospectus' }
+    </script>
   </head>
 
-  <body ng-app="scipyla.md">
+  <body>
     <!-- Fixed navbar -->
-    <div ng-include src="'../dist/menu_ppal.html'"></div>
+    <nav class="navbar navbar-default navbar-fixed-top navbar-inverse text-uppercase" ng-app="scipyla.mainnav" ng-controller="MainNavCtl">
+      <ng-include src="'../../assets/views/menu_ppal.html'"></ng-include>
+    </nav>
 
-    <div class="container">
+    <div class="container" ng-app="scipyla.md" id="container">
 
       <div class="row">
         <div class="col-xs-12">
@@ -107,6 +112,10 @@
     <script src="../../assets/js/jquery.min.js"></script>
     <script src="../../dist/js/bootstrap.min.js"></script>
     <script src="../../assets/js/angular.min.js"></script>
+    <script src="../../assets/js/mainnav.js"></script>
+    <script language="javascript">
+      angular.bootstrap(document.getElementById('container'), ['scipyla.ambassadors'])
+    </script>
 
     <!-- TODO: CDN link -->
     <script src="../../assets/js/head.min.js"></script>
