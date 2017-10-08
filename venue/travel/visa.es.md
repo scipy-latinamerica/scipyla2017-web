@@ -107,7 +107,11 @@ Utilice el
 [formulario de Solicitud de Visa de Turismo](http://bit.ly/visa-cuba-tour)
 para llenar los datos de solicitud de Visa de turismo para viajar a Cuba.
 Su solicitud de VISA debe ser enviada posteriormente a una de las sedes de las 
-[misiones diplómaticas cubanas](TODO).
+[misiones diplómaticas cubanas](TODO) con oficinas de trámites consulares.
+
+Si necesita una carta de los organizadores para adjuntarla a su solicitud
+de Visa, por favor [contáctenos](../../#contact-div) enviando un mensaje
+via e-mail a la dirección `2017@scipyla.org`.
 
 TODO: Next steps
 
