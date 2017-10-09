@@ -2,7 +2,7 @@
 ## Visa
 
 Esta página tiene el objetivo de presentar información sobre los requerimientos
-de visado para
+de trámites para
 viajar a Cuba. Tratamos de lograr que nuestros consejos sean tan exhaustivos,
 detallados y precisos como nos resulta posible. Sin embargo le rogamos su
 comprensión de la complejidad de este tema considerando:
@@ -22,6 +22,11 @@ comprensión de la complejidad de este tema considerando:
   organización de conferencias en Cuba.
 * otros factores muy específicos que influencian la aprobación de solicitudes
   de Visa
+* las diferencias de cobertura de seguro en los diferentes países
+* las equivalencias monetarias de las coberturas a nivel internacional
+* las regulaciones sobre condiciones de salud pre-existentes e implicaciones
+  a futuro de tratamientos y procedimientos médicos
+* los acuerdos bilaterales entre empresas aseguradoras
 
 Por favor, confirme en su país la información antes de viajar.
 
@@ -162,4 +167,56 @@ de forma expedita cualquier duda que pueda haber sobre las razones de su viaje.
 Antes de viajar le recomendamos consultar la [guía de Southwest para viajeros internacionales](http://bit.ly/travel-doc). No podemos garantizar que esta
 información esté actualizada. Por favor confirme los detalles en el país de
 orígen antes de su viaje.
+
+## Seguros
+
+![ESICuba](../../assets/img/esicuba.logo.png)
+
+En muchos casos la compra de su pasaje de avión incluye otros beneficios,
+tales como el seguro médico. Infórmese sobre este particular antes de realizar
+su viaje. De no incluir seguro de ningún tipo, o en caso que se desee extender
+la cobertura de servicios, por favor consulte el
+[sitio web de ESICuba](http://www.esicuba.cu/index.php/nuestros-seguros/personas).
+Le aconsejamos que preste atención a
+[la solicitud de seguro individual para astos médicos](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2098017_03-Individuales%20y-o%20Familiares%20%2801092014%29.pdf)
+y las [condiciones generales de este servicio](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2098017_05%20%2801042016%29.pdf);
+así como
+[la solicitud de seguro de asistencia al viajero](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2004051_03%20%2801012013%29.pdf)
+y sus [condiciones generales](http://www.esicuba.cu/images/documentos/ESI%2004051_05%20CG02%20(01092016).pdf).
+
+#### Cobertura de seguro
+
+Destinados a personas que viajan desde o hacia Cuba, incluyendo aquellas que de forma temporal o a más largo plazo permanecen en el país.
+
+Estos seguros satisfacen las regulaciones actuales del país sobre la entrada de viajeros y la estancia de extranjeros en el territorio nacional y cumplimentan los requerimientos de visado de los diferentes países incluyendo la Unión Europea.
+
+![ESICuba NC ISO 9001:2008 Reg 2017:2010](../../assets/img/esicuba.iso.nc.png)
+
+Los productos que se ofrecen son combinaciones de coberturas de gastos médicos y repatriación con la inclusión de otras convenientes para resolver situaciones en las que los viajeros se pueden encontrar inmersos.
+
+##### Seguro de Viajes
+
+* Gastos Médicos por Enfermedad y Accidente
+* Repatriaciones
+* Anticipo de Fondos
+* Seguro de Accidente
+* Equipaje
+* Gestión de documentos
+* Otros gastos
+ 
+##### Seguro de Gastos Médicos
+
+*  Hospitalización y Cuidados Intensivos
+*  Gastos médicos quirúrgicos y no quirúrgicos
+*  Gastos clínicos y especiales
+*  Cirugía y tratamiento ambulatoria
+*  Traslados sanitarios
+*  Maternidad y Gastos del recién nacido
+*  Urgencia médica de enfermedad preexistente y/o congénita
+*  Odontología de Urgencia
+*  Oftalmología
+*  Medicamentos
+*  Repatriación
+
+TODO: Homologación de seguro existente en país de orígen.
 
