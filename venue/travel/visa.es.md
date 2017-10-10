@@ -99,7 +99,7 @@ antelación de estar interesados en asistir a la conferencia.
 
 #### Tarjetas de turismo
 
-![Tarjeta de turismo](../../assets/img/tourist.card.png)
+![Tarjeta de turismo](../../assets/img/cuban.visa.jpg)
 
 La Visa de turismo (i.e. **visa A-1**) o tarjeta turística
 es válida para una sola entrada al territorio nacional de Cuba en un viaje
@@ -117,9 +117,11 @@ expedidas para visitantes provenientes de otras regiones del mundo.
 Es una buena práctica adquirir la tarjeta de turismo en la agencia de viajes
 o aerolínea junto con su pasaje de avión o crucero. En particular hemos
 confirmado el procedimiento previamente con
-[Southwest](https://www.southwest.com) . Esta aerolínea ofrece las rutas
-[Fort Lauderdale, FL (FLL) -> Havana (HAV)](TODO) y
-[Tampa, FL (TPA) -> Havana (HAV)](TODO) . Por favor lea las instrucciones
+[Southwest](https://www.southwest.com) . Esta aerolínea permite
+[reservar tickets](https://www.southwest.com/flight/search-flight.html)
+de ida e ida y vuelta para las rutas
+*Fort Lauderdale, FL (FLL) -> Havana (HAV)* y
+*Tampa, FL (TPA) -> Havana (HAV)* . Por favor lea las instrucciones
 ofrecidas por Southwest a los visitantes extranjeros. 
 
 [![Vamos a Cuba , por Southwest](../../assets/img/southwest.travel.cuba.png)](https://www.southwest.com/html/promotions/new-service-cuba.html#docstotravel)
@@ -137,11 +139,38 @@ TODO: cubavisas.com ?
 
 ##### Tarjetas de turismo en otros países
 
+La tarjeta de turismo puede ser adquirida en las sedes de las misiones
+[misiones diplomáticas de Cuba](http://bit.ly/visa-cuba-misiones). Para obtenerla
+de esta manera debe presentar:
+
+* Pasaporte válido
+* [Formulario](http://bit.ly/visa-cuba-tour)
+* Billete de Avión con fecha de entrada y regreso
+* Debe abonar el arancel consular estipulado para este servicio
+
+Al solicitarla y pagar la entrega debe ser inmediata (el mismo día de la
+solicitud).
+
+Los documentos necesarios para su obtención vía correo postal
+
+* Fotocopia legible del pasaporte válido
+* Fotocopia legible del billete de Avión con fecha de entrada y regreso
+* Debe abonar el arancel consular estipulado para este servicio
+* Sobre con suficientes sellos y dirección para el retorno del visado
+
+Por vía postal se le cobrará un arancel adicional por el servicio.
+
+Todo pago debe realizarse en efectivo o por medio de pago certificado de banco.
+El efectivo enviado por correo será rechazado y devuelto a riesgo del
+solicitante.
+
 Las condiciones de adquisición y los proveedores de tarjetas de turismo pueden
 cambiar de un país de orígen a otro. Si Usted tiene conocimiento de las gestiones
 necesarias para hacer este trámite en su país, por favor
-[edite este documento en un fork en Github](TODO) y
-[envíenos un pull request](TODO).
+[cree un fork](https://help.github.com/articles/fork-a-repo/) del
+[repositorio git de este sitio web](http://github.com/scipy-latinamerica/scipyla2017-web), 
+[edite este documento en su fork en Github](https://help.github.com/articles/editing-files-in-your-repository/) y
+[envíenos un pull request](https://help.github.com/articles/creating-a-pull-request/).
 Nosotros trataremos de incluir sus contribuciones con la mayor brevedad
 que nos sea posible ya que la actualización de esta guía le facilitará el
 trámite a otros participantes .
@@ -152,7 +181,7 @@ Utilice el
 [formulario de Solicitud de Visa de Turismo](http://bit.ly/visa-cuba-tour)
 para llenar los datos de solicitud de Visa de turismo para viajar a Cuba.
 Su solicitud de VISA debe ser enviada posteriormente a una de las sedes de las 
-[misiones diplómaticas cubanas](TODO) con oficinas de trámites consulares.
+[misiones diplómaticas cubanas](http://bit.ly/visa-cuba-misiones) con oficinas de trámites consulares.
 
 #### Carta de invitación al evento.
 
@@ -167,6 +196,34 @@ de forma expedita cualquier duda que pueda haber sobre las razones de su viaje.
 Antes de viajar le recomendamos consultar la [guía de Southwest para viajeros internacionales](http://bit.ly/travel-doc). No podemos garantizar que esta
 información esté actualizada. Por favor confirme los detalles en el país de
 orígen antes de su viaje.
+
+#### Información a considerar
+
+Información importante que el portador debe considerar:
+
+- Conservar la Tarjeta de Turista hasta su salida. En ella se asienta la entrada y salida de Cuba. En caso de pérdida, deberá comunicarlo de inmediato a Inmigración para obtener un duplicado, previo pago del arancel correspondiente.
+- Para su salida (de Cuba) es requisito imprescindible presentar la tarjeta junto a su pasaporte y boleto de viaje.
+- La Tarjeta de Turista no es válido sin el cuño de la entidad que la emitió. En la parte posterior de la misma debe tener estampado el cuño de la línea aérea, agencia de viaje o consulado que se la expidió.
+
+#### Prórroga de estancia en Cuba con Visa-Tarjeta de Turista.
+
+Si Usted ya tiene una Visa válida pero necesita una prórroga para asistir al evento, deberá tramitar una extensión del visado.
+
+Para solicitar una prórroga debe presentarse (mínimo una semana antes del vencimiento de la visa) en las Oficinas de la Dirección de Inmigración y Extranjería del municipio donde va a residir o en su defecto en la DIE Nacional. La información de contacto de la DIE Nacional es la siguiente.
+
+  Dirección: Ave. 3ra y 22, Playa, Ciudad de La Habana.
+  Teléfono: (53-7) 206-3218 / 858-5100.
+
+Para el trámite debe presentar:
+
+* Pasaporte.
+* Visa-Tarjeta de Turista.
+* Recibo de pago del hospedaje en casa particular (autorizadas al arrendamiento según el Decreto-Ley 171/97); o fotocopia del contrato de arrendamiento de la casa particular donde se encuentra alojado; o tarjeta de huésped si se aloja en un hotel.
+* Boleto de avión con nueva fecha.
+* Sellos timbrados correspondiente al costo por la prórroga,
+  que consiste en 25 CUC a pagar con sellos timbrados.
+  Podrá comprar los sellos timbrados en las sucursales del Banco Metropolitano,
+  u otro que opere en moneda libremente convertible (CUC).
 
 ## Seguros
 
@@ -183,6 +240,18 @@ y las [condiciones generales de este servicio](http://www.esicuba.cu/images/docu
 así como
 [la solicitud de seguro de asistencia al viajero](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2004051_03%20%2801012013%29.pdf)
 y sus [condiciones generales](http://www.esicuba.cu/images/documentos/ESI%2004051_05%20CG02%20(01092016).pdf).
+
+Para más detalles consulte la [ley cubana sobre póliza de seguro para viajar a Cuba](http://bit.ly/visa-cuba-ley-seguro).
+
+#### Adquisición del seguro
+
+Si no poseo una póliza de gastos médicos para viajar a Cuba la puede adquirir en
+
+* En el punto de origen: Agencias de viaje en el país donde reside o desde el cual viajará hacia Cuba.
+* Al arribo a Cuba: Los viajeros que excepcionalmente no porten el seguro en el momento del arribo, podrán adquirir una póliza con cobertura de seguro y asistencia suscrita por aseguradoras cubanas, en el propio aeropuerto, puerto o marina.
+
+La primera opción es recomendada , especialmente si en su país el seguro
+fuera un requisito para solicitar su Visa.
 
 #### Cobertura de seguro
 
@@ -218,5 +287,246 @@ Los productos que se ofrecen son combinaciones de coberturas de gastos médicos 
 *  Medicamentos
 *  Repatriación
 
-TODO: Homologación de seguro existente en país de orígen.
+#### Homologación de poliza de seguro en el país de orígen.
+
+El siguiente listado muestra las compañías aseguradoras reconocidas en Cuba.
+En cualquier caso, por favor, contacte a su compañía aseguradora y verifique
+los términos.
+
+##### España
+
+* B.I. ASSISTANCE
+* CAP ARAG
+* CORIS
+* FUNESPAÑA
+* IBERO ASSISTANCE
+* RACC
+* RACE ASISTENCIA
+* SOS ASSISTANCE MADRID
+* MAFRE
+* WINTERTHUR
+
+##### Bélgica
+
+* ELVIA-BRUSELAS
+* EUROP ASSISTANCE
+* EUROCROSS
+* INTER ASSISTANCE
+* MONDIAL ASSISTANCE
+
+##### Brasil
+
+* ASSIST-CARD
+* CORIS
+* EUROCENTER
+* MONDIAL BRASIL
+* WORLDWIDE ASSISTANCE EUROP ASSISTANCE
+
+##### Canadá
+
+* ACM
+* ASSURED ASSISTANCE
+* CANASSISTANCE
+* DESJARDINS (SIGMA-ASSISTEL)
+* FOX FLIGHT
+* GLOBAL EXCEL
+* HEALTH INSURANCE DIVISION
+* ICMS-WORLDWIDE EMERGENCY ASSIST (TORONTO)
+* JOHN INGLE INSURANCE
+* KEEWATIN AIR
+* MAGNUS POIRIER
+* MEDICAL SERVICES ASSOCIATION
+* MONDIAL ASSISTANCE
+* POLTRUTT & SMITH
+* SIGMA ASISTEL
+* SKY SERVICE-FBO INC
+* WORLD ACCESS, CANADA
+* WORLD TRAVEL PROTECTION
+* WORLDWIDE MEDICLAIM
+
+##### Chile
+
+* ASSIST-CARD
+* MONDIAL ASSISTANCE
+* SUR ASISTENCIA (MAPFRE)
+
+##### Colombia
+
+* ANDIASISTENCIA
+* ASSIST-CARD
+* CORIS COLOMBIA
+* PANAMERICAN ASSISTANCE
+* COSTA RICA
+* ASSIST-CARD
+
+##### República Checa
+
+* ELVIA
+
+##### Dinamarca
+
+* EURO ALARM
+* INTERNATIONAL HEALTH INSURANCE
+* NORDIC INTERNATIONAL ASSISTANCE
+* SOS INTERNATIONAL
+
+##### Inglaterra
+
+* ACIA-SEA CLAIMS = ANGLO CARIBBEAN INSURANCE
+* AEA INTERNATIONAL – SOS ASSISTANCE
+* ALPHA ASSISTANCE
+* ASSISTANCE 2000 – PRIMARY ASSISTANCE
+* ASSISTANCE INTERNATIONAL
+* CEGA
+* CIGNA
+* COOPERATIVE FUNERAL SERVICE
+* EUROP ASSISTANCE
+* FIRST ASSIST
+* GREEN FLAG
+* HACIA
+* IAS = INTERNATIONAL ASSISTANCE SERVICE FIRST SERVICE
+* INTERGROUP ASSISTANCE SERVICE
+* INTERNATIONAL MEDICAL RESCUE
+* KENYON AIR TRANSPORTATION
+* MEDEX ASSISTANCE
+* MERCURY INTERNATIONAL ASSIST
+* MONDIAL ASSISTANCE
+* ROWLAND BROTHERS INTERNATIONAL
+* SFA
+* SOS INTERNATIONAL
+* THOMAS COOK
+* TRAVEL PROTECTION
+* WORLDWIDE ASSISTANCE
+
+##### Finlandia
+
+* EMA EMERGENCY MEDICAL ASSISTANCE
+* EUROOPPALAINEN INSURANCE
+
+##### Francia
+
+* CGS
+* FIDELIA
+* FRANCE ASSIST
+* FRANCE SECOURS INTERNATIONAL
+* GESA PARIS
+* INTERFUNE
+* INTERMUTUELLE ASSISTANCE
+* MEDIC AIR INTERNATIONAK
+* POMPES FUNEBRES GENERALES
+
+##### Grecia
+
+* EUROP ASSISTANCE
+* MAFRE
+
+##### Holanda
+
+* ANWB
+* ELVIA ASSISTANCE
+* EUROCROSS
+* OHRA
+* SAS ALARM SERVICE
+* SOS INTERNACIONAL
+
+##### Hungría
+
+* EUROP ASSISTANCE
+
+##### Italia
+
+* ACI GLOBAL – SPA
+* AIDE ASSISTANCE
+* CORIS
+* ELVIA ASSISTANCE (MADRID)
+* EURA MILAN
+* EUROP ASSISTANCE
+* FILO DIRETTO
+* ITAL ASSISTANCE (AIDE)
+* MONDIAL ASSISTANCE
+* SFA
+* WAY CALL
+
+##### Japón
+
+* EUROP ASSISTANCE
+* SFA
+
+##### Mexico
+
+* ASSIST-CARD
+* AXA – GESA ASSISTANCE
+* EUROP ASSISTANCE
+* GLOBAL LIFE FLIGHT
+* MAS MEXICO - MMC MEXICO
+* MÉXICO ASSISTANCE
+* PANAMERICAN ASSISTANCE
+
+##### Panamá
+
+* PANAMA ASISTENCIA – MAFRE
+
+##### Perú
+
+* ASSIST-CARD
+
+##### Polonia
+
+* CORIS VARSOVIA
+* ELVIA
+* ELVIA POLONIA
+* EUROP ASSISTANCE
+
+##### Portugal
+
+* AIDE ASISTENCIA
+* COMPAÑÍA PORTUGUESA DE SEGUROS DE ASISTENCIA
+* ELVIA PORTUGAL
+* EUROP ASSISTANCE
+
+##### Puerto Rico
+
+* AERO AMBULANCE
+
+##### Rusia
+
+* ACCORD LIMITED
+* BAO INTOURIST
+* GLOBAL VOYAGEUR ASSISTANCE
+* INTERMAR LIMITED
+* SOS INTERNATIONAL
+
+##### Singapur
+
+* WORLDWIDE ASSISTANCE
+
+##### Sudáfrica
+
+* EUROP ASSISTANCE
+
+##### Suecia
+
+* SFA
+
+##### Suiza
+
+* ELVIA SUIZA
+* EUROP ASSISTANCE
+* MEDICALL
+* ZURCÍ VERSICHERUNGSGESELLSCHAFT
+
+##### Estados Unidos
+
+* AIR AMBULANCE PROFESSIONALS
+* EUROP ASSISTANCE INTERNATIONAL (LOS ANGELES)
+* MEDEX
+* MERCURY INTERNATIONAL ASSISTANCE
+* MONDIAL ASSISTANCE
+* MONEY GRAM
+* NATIONAL JETS
+* NATIONAL AIR AMBULANCE
+* ON-CALL INTERNATIONAL (IAG)
+* USA ASSIST-DEMOCRACY CENTER
+* WORLD NET
+* WORLDWIDE ASSISTANCE SERVICES (WASHINGTON)
 
