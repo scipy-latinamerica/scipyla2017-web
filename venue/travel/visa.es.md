@@ -139,7 +139,7 @@ Algunas compañías como [CubaVisas.com](http://www.cubavisas.com/visa.php?act=t
 
 ##### Tarjetas de turismo en otros países
 
-La tarjeta de turismo puede ser adquirida en las sedes de las misiones
+La tarjeta de turismo puede ser adquirida en las sedes de las 
 [misiones diplomáticas de Cuba](http://bit.ly/visa-cuba-misiones). Para obtenerla
 de esta manera debe presentar:
 
@@ -171,6 +171,9 @@ necesarias para hacer este trámite en su país, por favor
 [repositorio git de este sitio web](http://github.com/scipy-latinamerica/scipyla2017-web), 
 [edite este documento en su fork en Github](https://help.github.com/articles/editing-files-in-your-repository/) y
 [envíenos un pull request](https://help.github.com/articles/creating-a-pull-request/).
+Si este procedimiento le resulta complicado o muy técnico, simplemente
+[envíe la información](../../#contact-div)
+a la dirección de email de la conferencia `2017@scipyla.org`.
 Nosotros trataremos de incluir sus contribuciones con la mayor brevedad
 que nos sea posible ya que la actualización de esta guía le facilitará el
 trámite a otros participantes .
