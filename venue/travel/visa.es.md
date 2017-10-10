@@ -135,7 +135,7 @@ a la conferencia SciPyLA 2017 viajan bajo la categoría
 
 ##### Tarjetas de turismo en Canadá, Reino Unido, Europa, Australia y Nueva Zelanda
 
-TODO: cubavisas.com ?
+Algunas compañías como [CubaVisas.com](http://www.cubavisas.com/visa.php?act=tcform&flight=yes&accom=no) venden tarjetas de turismo para que ciudadanos de Canadá, Reino Unido, Europa, Australia y Nueva Zelanda viajen a Cuba. Las tarjetas se pueden comprar en línea. Existen opciones de envío a varias regiones del planeta.
 
 ##### Tarjetas de turismo en otros países
 
