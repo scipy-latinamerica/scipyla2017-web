@@ -214,8 +214,12 @@ Si Usted ya tiene una Visa válida pero necesita una prórroga para asistir al e
 
 Para solicitar una prórroga debe presentarse (mínimo una semana antes del vencimiento de la visa) en las Oficinas de la Dirección de Inmigración y Extranjería del municipio donde va a residir o en su defecto en la DIE Nacional. La información de contacto de la DIE Nacional es la siguiente.
 
-  Dirección: Ave. 3ra y 22, Playa, Ciudad de La Habana.
-  Teléfono: (53-7) 206-3218 / 858-5100.
+>  **Dirección Nacional de Inmigración y Extranjería**
+>
+>
+>  *Dirección*: Ave. 3ra y 22, Playa, Ciudad de La Habana.
+>
+>  *Teléfono*: (53-7) 206-3218 / 858-5100.
 
 Para el trámite debe presentar:
 
