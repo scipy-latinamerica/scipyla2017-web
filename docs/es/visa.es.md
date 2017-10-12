@@ -75,7 +75,7 @@ El siguiente mapa le puede dar una rápida idea de cual es su situación , pero 
 
 ![Mapa de políticas de Visa para viajar a Cuba](../../assets/img/800px-Visa_policy_of_Cuba.png)
 
-#### Casos de excención de Visa
+#### Casos de exención de Visa
 
 No necesitan solicitar Visa, las personas en posesión de una Visa válida
 durante la duración del evento, siempre que sean de uno de los siguientes tipos

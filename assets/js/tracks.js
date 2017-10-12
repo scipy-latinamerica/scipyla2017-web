@@ -61,7 +61,7 @@
         $scope.active = track_id;
         if (track.desc === undefined) {
           var lang_id = getlang();
-          track.file = '../tracks/' + track_id + '.' + lang_id + '.md';
+          track.file = '../docs/' + lang_id + '/' + track_id + '.' + lang_id + '.md';
         }
       }
 
