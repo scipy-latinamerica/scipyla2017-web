@@ -242,7 +242,7 @@ su viaje. De no incluir seguro de ningún tipo, o en caso que se desee extender
 la cobertura de servicios, por favor consulte el
 [sitio web de ESICuba](http://www.esicuba.cu/index.php/nuestros-seguros/personas).
 Le aconsejamos que preste atención a
-[la solicitud de seguro individual para astos médicos](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2098017_03-Individuales%20y-o%20Familiares%20%2801092014%29.pdf)
+[la solicitud de seguro individual para gastos médicos](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2098017_03-Individuales%20y-o%20Familiares%20%2801092014%29.pdf)
 y las [condiciones generales de este servicio](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2098017_05%20%2801042016%29.pdf);
 así como
 [la solicitud de seguro de asistencia al viajero](http://www.esicuba.cu/images/documentos/solicitudes/ESI%2004051_03%20%2801012013%29.pdf)
@@ -252,7 +252,7 @@ Para más detalles consulte la [ley cubana sobre póliza de seguro para viajar a
 
 #### Adquisición del seguro
 
-Si no poseo una póliza de gastos médicos para viajar a Cuba la puede adquirir en
+Si no posee una póliza de gastos médicos para viajar a Cuba la puede adquirir en
 
 * En el punto de origen: Agencias de viaje en el país donde reside o desde el cual viajará hacia Cuba.
 * Al arribo a Cuba: Los viajeros que excepcionalmente no porten el seguro en el momento del arribo, podrán adquirir una póliza con cobertura de seguro y asistencia suscrita por aseguradoras cubanas, en el propio aeropuerto, puerto o marina.
