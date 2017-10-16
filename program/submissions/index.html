@@ -68,10 +68,28 @@
                         <a role="button" data-toggle="collapse" data-parent="#accepeted" href="#actp-{{act.id}}" aria-expanded="true" aria-controls="actp-{{act.id}}" ng-bind="act.title"></a>
                       </h4>
                     </div>
-                    <div id="actp-{{act.id}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="acth-{{act.id}}">
-                      <div class="panel-body">
-                        <div class="md" ng-bind="act.abstract" markdown-it></div>
-                        <div>
+                    <div>
+                      <div class="media">
+                        <div class="media-left text-center" ng-repeat="author in [getAuthor(act.author_id)]">
+                          <div>
+                            <a href="#">
+                              <img class="media-object" src="{{author.avatar}}" alt="Profile picture" width="64" />
+                            </a>
+                          </div>
+                          <div>
+                            <span class="flag-icon flag-icon-{{author.country}}">
+                          </div>
+                          <h5 ng-bind="author.name"></h5>
+                        </div>
+                        <div class="media-body">
+                          <h5 class="media-heading" ng-bind="act.talk_format"></h5>
+                          <div class="md" ng-bind="act.abstract" markdown-it></div>
+                        </div>
+                      </div>
+                      <div id="actp-{{act.id}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="acth-{{act.id}}">
+                        <div class="panel-body">
+                          <div class="md" ng-bind="act.description" markdown-it></div>
+                        </div>
                       </div>
                     </div>
                   </div>

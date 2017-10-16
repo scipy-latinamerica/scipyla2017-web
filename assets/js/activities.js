@@ -454,21 +454,6 @@ var activities = window.activities = [
     "id": "c8e726b0a5b6cd07289d169c7b1e8143"
   },
   {
-    "talk_format": "Lightning Talk (~5-10 minutes)",
-    "title": "Plataforma para Emprendedores",
-    "abstract": "El proyecto que presentamos está basado en la creación de una plataforma que fomente el emprendimiento en Cuba y ayude a los emprendedores a impulsar sus proyectos.",
-    "description": "Esta plataforma permitirá a los emprendedores cubanos informarse sobre la actualidad del país en el sector, saber el marco legal para su trabajo, obtener una formación online sobre diferentes temas, obtener retroalimentación con la experiencia de otros emprendedores, contactar con emprendedores a fines para formar equipos de desarrollos y así sustentar de una idea, inscribir sus proyectos en nuestra plataforma en busca de apoyo para lograr los mismos.",
-    "audience_level": "All",
-    "author_id": "f9584baf5e0053d2b16044faabbafdda",
-    "tags": [
-      "cuenta propistas",
-      "plataforma",
-      "emprendedores",
-      ""
-    ],
-    "id": "9763f7ad4a29c13708af2c759426e7a2"
-  },
-  {
     "talk_format": "Talk (~30-45 minutes)",
     "title": "José Martí en la era digital",
     "abstract": "La presentación aborda el contexto científico y tecnológico en que el Apóstol cubano desarrolló su vida patriótica en pos de una nación independiente y próspera, así como los descubrimientos relacionados con la comunicación de su época y la actitud que asumiría si viviera la era digital.",
