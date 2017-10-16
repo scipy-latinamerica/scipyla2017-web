@@ -18,6 +18,7 @@
       }
 
       $scope.speakers = window.speakers;
+      $scope.activities = window.activities;
   }])
  })(); 
 
