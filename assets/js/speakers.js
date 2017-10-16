@@ -9,7 +9,7 @@ var speakers = window.speakers = [
   },
   {
     "name": "Francisco Palm",
-    "avatar": "https://secure.gravatar.com/avatar/7bbdf7e75f91b6b1c36f89c106baf71f?s=500",
+    "avatar": "https://media.licdn.com/media/AAEAAQAAAAAAAAh2AAAAJGQ1ZDBlMzY1LTE4YzUtNDNjZi1hZDJkLThkMmQ4Y2U1ZmY3MA.jpg",
     "bio": "I am Francisco Palm, professor of Systems and Models at the Institute of Applied Statistics and Computer Science, Universidad de Los Andes, Mérida Venezuela, for more than 20 years. I am a promoter of the use of open source tools in science and engineering learning and research. I am the SciPyLA Ambassador for Venezuela and currently the only official Software & Data Carpentry instructor in Venezuela.",
     "organization": "Universidad de Los Andes, Mérida, Venezuela. Almus.",
     "country": "ve",
