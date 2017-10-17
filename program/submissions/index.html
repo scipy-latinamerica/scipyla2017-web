@@ -60,7 +60,7 @@
 
             <div class="tab-content">
               <div role="tabpanel" class="tab-pane active" id="talks">
-                <h3 class="text-center">Actividades aceptadas <small ng-bind="activities.length"></small></h3> 
+                <h3 class="text-center">Actividades aceptadas <br/> <small ng-repeat="stat in stats">{{stat[1]}} {{stat[0]}}s, </small></h3> 
                 <div class="panel-group" id="accepted" role="tablist" aria-multiselectable="true">
                   <div ng-if="act.id" class="panel panel-info" ng-repeat="act in activities">
                     <div class="panel-heading" role="tab" id="acth-{{act.id}}">
@@ -73,7 +73,7 @@
                         <div class="media-left text-center" ng-repeat="author in [getAuthor(act.author_id)]">
                           <div>
                             <a href="#">
-                              <img class="media-object" src="{{author.avatar}}" alt="Profile picture" width="64" />
+                              <img class="media-object btn-round" src="{{author.avatar}}" alt="Profile picture" width="64" height="64" />
                             </a>
                           </div>
                           <div>
@@ -103,7 +103,7 @@
                   <li class="media" ng-repeat="profile in speakers" id="speaker-{{profile.id}}">
                     <div class="media-left">
                       <a href="#">
-                        <img class="media-object img-circle" ng-src="{{profile.avatar}}" alt="Profile picture" width="64" />
+                        <img class="media-object img-circle btn-round" ng-src="{{profile.avatar}}" alt="Profile picture" width="64" height="64"/>
                       </a>
                     </div>
                     <div class="media-body">

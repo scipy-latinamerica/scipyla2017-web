@@ -631,6 +631,11 @@ h1, h2, h3, h4 {
   position: absolute;
 }
 
+#speakers .btn-round, #talks .btn-round {
+  border: 3px #fff solid;
+  box-shadow: #999 2px 2px 1px 0;
+}
+
 #timeline, #analytics {
   margin-bottom: 0px;
 }
