@@ -25,6 +25,13 @@ The members of the CubanTech Group are young Cuban technology entrepreneurs skil
 
 The Python Software Foundation (PSF) is a non-profit membership organization devoted to advancing open source technology related to the Python programming language. It qualifies under the US Internal Revenue Code as a tax-exempt 501(c)(3) scientific and educational public charity, and conducts its business according to the rules for such organizations.
 
+![University of Sancti Spiritus](../assets/img/uniss.png)
+
+The University of Sancti Spiritus "José Martí" is the institution of the province
+of Sancti Spiritus in charge for universitary, professional, and pedagogic
+education as well as instruction in the field of sports.
+
+
 ******************************************************************
 ## Latin American workshop on Python, Economics and Operations Research
 

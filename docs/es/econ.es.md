@@ -32,6 +32,12 @@ La misma opera bajo las reglas del epígrafe 501(c)3 del US Internal Revenue Cod
 con el status de organización caritativa, pública, exenta de gravámenes
 tributarios, y de carácter científico y educacional.
 
+![Universidad de Sancti Spiritus](../assets/img/uniss.png)
+
+La Universidad de Sancti Spiritus "José Martí" es el órgano rector de
+la enseñanza superior, profesional, pedagógica y deportiva en la provincia de
+Sancti Spiritus.
+
 ******************************************************************
 
 ## Taller Latinoamericano de Python, Ciencias Económicas e Investigación de Operaciones
