@@ -186,21 +186,6 @@ var activities = window.activities = [
   },
   {
     "talk_format": "Talk (~30-45 minutes)",
-    "title": "Artificial Intelligence – What could go wrong?",
-    "abstract": "AI can spot you in a crowd (even when you’re wearing a mask) tell your sexual orientation from images and is trained from public data sets. What could go wrong?",
-    "description": "Artificial Intelligence is an exciting and (over?) hyped field. We're beginning to see some really exciting capabilities, as well as some worrying ones.\r\n\r\nSome of these we face in the short term are biased algorithms, powerful surveillance, autonomous weapons and vulnerable AI systems. \r\n\r\nThere are many unknowns; if you create an intelligent system, how do you align it's values to your own? And if you are Iran...",
-    "audience_level": "All",
-    "author_id": "c858bcab81880f494eef6bbfd8ac904e",
-    "tags": [
-      "ai and machine learning",
-      "data science",
-      "artificial intelligence",
-      ""
-    ],
-    "id": "0e547e697af0a8358936188619f367db"
-  },
-  {
-    "talk_format": "Talk (~30-45 minutes)",
     "title": "New connectivity feature for IoT: API with multi-network SIM cards.",
     "abstract": "What would you think if you have the network coverage wherever your sensor are, your own independent cloud based network, extremely scalable and global. Nowadays SIM cards and endpoints can be easily managed in real-time via the intuitive user-interface or an easy-to-integrate API. \n",
     "description": "An implicit goal of developing applications is to increase the quality of life, or the general well-being of individuals and society as a whole.  In light of this a, new paradigm of the real-time communication between things has emerged, in which the quality of life of citizens in dense urban environments is increased through the use big data and cloud technology. The rapidly changing social and environmental order is becoming more complex as resources grow scarcer and populations increase, it requires just one technical integration point in IoT, which will provide technological fluency in the use big data for public benefit.  The proposal idea is the “wherever SIM” that provides the network coverage wherever devices may roam, has its own independent cloud based network, extremely scalable and global. SIM cards and endpoints can be easily managed in real-time via the intuitive user-interface or directly from the customer’s software application via an easy-to-integrate API for SIM cards. Key features, development and implementation stages, as well as use cases and code demonstration will be discussed.\r\n",
