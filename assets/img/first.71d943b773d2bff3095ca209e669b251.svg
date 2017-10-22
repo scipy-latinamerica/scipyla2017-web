@@ -17,7 +17,7 @@
    width="575.99963"
    height="323.99963"
    viewBox="0 0 575.99963 323.99963"
-   sodipodi:docname="firstac.svg"><metadata
+   sodipodi:docname="first.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -103,8 +103,8 @@
      inkscape:window-height="695"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.4079855"
-     inkscape:cx="287.28914"
+     inkscape:zoom="1.4045133"
+     inkscape:cx="287.99937"
      inkscape:cy="161.99963"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -193,25 +193,25 @@
          sodipodi:role="line"
          id="tspan66">Computación Cientíﬁca con Python</tspan></text>
 <text
-       transform="scale(1,-1)"
-       style="font-variant:normal;font-weight:normal;font-size:10.37100029px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-size:10.37100029px;font-family:'Roboto Condensed';-inkscape-font-specification:RobotoCondensed;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text68"
-       x="201.23613"
+       transform="scale(1,-1)"
+       x="230.40962"
        y="-150.8596"><tspan
          sodipodi:role="line"
          id="tspan70"
-         x="201.23613"
-         y="-150.8596">Puja Purswani</tspan></text>
+         x="230.40962"
+         y="-150.8596">Karina Popova</tspan></text>
 <text
        transform="scale(1,-1)"
-       style="font-variant:normal;font-weight:normal;font-size:16.09700012px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:YanoneKaffeesatz;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:normal;font-size:16.09700012px;font-family:'Yanone Kaffeesatz';-inkscape-font-specification:YanoneKaffeesatz;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text72"
-       x="88.394279"
+       x="230.40227"
        y="-167.466"><tspan
          sodipodi:role="line"
          id="tspan74"
-         x="88.394279"
-         y="-167.466">When VR meets Internet of things: Life beyond second life</tspan></text>
+         x="230.40227"
+         y="-167.466">New connectivity feature for IoT: API with multi-network SIM cards.</tspan></text>
 <g
        id="g76"
        transform="translate(-64.773394,0.56818767)"><g
@@ -361,4 +361,44 @@
        preserveAspectRatio="none"
        height="24"
        width="33.120003"
-       transform="scale(1,-1)" /></g></svg>
+       transform="scale(1,-1)" /><rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4764"
+       width="23.992298"
+       height="16.368553"
+       x="291.9433"
+       y="-67.492256"
+       transform="scale(1,-1)" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13px;line-height:125%;font-family:'Roboto Condensed';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Roboto Condensed, ';font-stretch:normal;font-variant:normal;"
+       x="147.54124"
+       y="-60.765461"
+       id="text4766"
+       sodipodi:linespacing="125%"
+       transform="scale(1,-1)"><tspan
+         sodipodi:role="line"
+         id="tspan4768"
+         x="147.54124"
+         y="-60.765461" /></text>
+<rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4777"
+       width="144.86301"
+       height="11.435568"
+       x="146.16769"
+       y="-62.629955"
+       transform="scale(1,-1)" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:125%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#091727;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="327.5466"
+       y="-47.824783"
+       id="text4770"
+       sodipodi:linespacing="125%"
+       transform="scale(0.88377298,-1.1315123)"><tspan
+         sodipodi:role="line"
+         id="tspan4772"
+         x="327.5466"
+         y="-47.824783">LINK Mobility</tspan></text>
+</g></svg>
+
+
