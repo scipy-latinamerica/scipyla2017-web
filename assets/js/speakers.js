@@ -1,5 +1,53 @@
 var speakers = window.speakers = [
   {
+    "name": "Luiz Irber",
+    "avatar": "https://secure.gravatar.com/avatar/806614bee86a0bef3c22b15248cdc7dc?s=500",
+    "bio": "Computer Science PhD student at UC Davis, DIB lab minion, Software Carpentry enthusiast.",
+    "organization": "University of California, Davis",
+    "country": "br",
+    "id": "806614bee86a0bef3c22b15248cdc7dc"
+  },
+  {
+    "name": "Puja Purswani",
+    "avatar": "https://secure.gravatar.com/avatar/9ecf8d590a47f752e6dd8254f79acee7?s=500",
+    "bio": "Being an Electronics Engineer and a Tech Speaker at Mozilla, Pooja loves tinkering with various emerging technologies mainly VR, IoT-based platforms, with a motto of making the web a better and connected place for everyone, and spreading the love of web literacy. She has been conducting workshops at across India spreading the love of tech.",
+    "organization": "Techspeaker at Mozilla",
+    "country": "in",
+    "id": "9ecf8d590a47f752e6dd8254f79acee7"
+  },
+  {
+    "name": "Jort Rodenburg",
+    "avatar": "https://secure.gravatar.com/avatar/157480d535da04fc1fab2f03de98ee86?s=500",
+    "bio": "Jort Rodenburg currently works at FujiFilm Medical Systems, USA in Raleigh, NC, as a Software Test Engineer. He has a background in the movies, having spent more than five years producing low-budget action movies that you have most likely not seen, and if you have, he is very sorry and does not give out refunds. Jort has won National Education Awards for his work on anti-cyberbullying campaigns in the Netherlands, and he is a subscriber to lifelong learning and is teaching a C# Course at FujiFilm, as well as wasting his time learning Ancient Greek. ",
+    "organization": "FujiFilm Medical Systems, USA",
+    "country": "nl",
+    "id": "157480d535da04fc1fab2f03de98ee86"
+  },
+  {
+    "name": "Jane Prusakova",
+    "avatar": "https://secure.gravatar.com/avatar/00147df918ba806f8d4d649f05b32e7e?s=500",
+    "bio": "I am a software architect and developer, an Agile proponent, and a great believer in building valuable software that users will love to use. I build large back-end systems that require high-performance and high-reliability, and process vast amounts of data. I believe that successful software is created by strong teams, requires good engineering practices, and evolves in close collaboration with the users. \r\nAs a Principal Consultant for Improving Enterprises, I work with distributed teams on distributed software. As a consulting team, we focus on technical excellence, close contact with the client, and rapid iterations.",
+    "organization": "Improving Enterprises",
+    "country": "ru",
+    "id": "00147df918ba806f8d4d649f05b32e7e"
+  },
+  {
+    "name": "Mark Wyner",
+    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/4059/Social-Bio-Profile.png",
+    "bio": "Mark has been working as a creative professional and technologist for nearly twenty years, partnering with Fortune 100/500 companies and non-profits to craft meaningful experiences for digital UIs and ecosystems in new technologies. He shares his thoughts as an international speaker and writer. In his personal life Mark is a daily meditator, soccer addict, father of five, husband of one, and social justice activist. He also has a great story about saving his son from a scorpion by catching it in a jar with his ninja-like reflexes.",
+    "organization": "Mark Wyner LLC",
+    "country": "us",
+    "id": "da37a9787d36bc974217f1ff852c8873"
+  },
+  {
+    "name": "Ramiro Batista da Luz",
+    "avatar": "https://secure.gravatar.com/avatar/1d0e63c82656ba189e55e4e6fb734346?s=500",
+    "bio": "Software developer since 1991, have a master degree in Software Engineer granted by the Universidade Tecnológica Federal do Paraná. Developer at Câmara Municipal de Curitiba, member of several python user groups in Brasil. Host of the PythonBrasil[6] in 2010, associate member of Associação Python Brasil.",
+    "organization": "Câmara Municipal de Curitiba",
+    "country": "br",
+    "id": "1d0e63c82656ba189e55e4e6fb734346"
+  },
+  {
     "name": "Kajal Puri",
     "avatar": "https://secure.gravatar.com/avatar/9289b08391643b55c0d09ac492bb06e1?s=500",
     "bio": "Kajal Puri is working as a Data Scientist in India. She has been dabbling with numbers and statistical models since last one year through personal projects and industrial internships (All thanks to Startups!). She has trained models to make them understand human language (Natural Language Processing) and categorize objects (Computer Vision). When she is not reading about AI Apocalypse, she can be seen traveling to waterfalls and weird forests.",
@@ -9,7 +57,7 @@ var speakers = window.speakers = [
   },
   {
     "name": "Francisco Palm",
-    "avatar": "https://media.licdn.com/media/AAEAAQAAAAAAAAh2AAAAJGQ1ZDBlMzY1LTE4YzUtNDNjZi1hZDJkLThkMmQ4Y2U1ZmY3MA.jpg",
+    "avatar": "https://secure.gravatar.com/avatar/7bbdf7e75f91b6b1c36f89c106baf71f?s=500",
     "bio": "I am Francisco Palm, professor of Systems and Models at the Institute of Applied Statistics and Computer Science, Universidad de Los Andes, Mérida Venezuela, for more than 20 years. I am a promoter of the use of open source tools in science and engineering learning and research. I am the SciPyLA Ambassador for Venezuela and currently the only official Software & Data Carpentry instructor in Venezuela.",
     "organization": "Universidad de Los Andes, Mérida, Venezuela. Almus.",
     "country": "ve",
@@ -20,7 +68,7 @@ var speakers = window.speakers = [
     "avatar": "https://secure.gravatar.com/avatar/11666cbce9f44e9389caa6e274a1144f?s=500",
     "bio": "Alizishaan's professional passions revolve around two things : using technology to solve real-world problems and sharing solutions with the community. Over the summer of 2017, he designed and built an offensive content detection system for a Silicon Valley company. Past industry projects include a price-prediction system for cars and a status communication system that minimized false alerts. \r\n\r\nOutside of work, Alizishaan's passions include mountaineering, skiing, travelling and photography.  ",
     "organization": "",
-    "country": "in",
+    "country": "us",
     "id": "11666cbce9f44e9389caa6e274a1144f"
   },
   {
@@ -38,14 +86,6 @@ var speakers = window.speakers = [
     "organization": "Barclays Africa",
     "country": "za",
     "id": "c858bcab81880f494eef6bbfd8ac904e"
-  },
-  {
-    "name": "Jort Rodenburg",
-    "avatar": "https://secure.gravatar.com/avatar/157480d535da04fc1fab2f03de98ee86?s=500",
-    "bio": "Jort Rodenburg currently works at FujiFilm Medical Systems, USA in Raleigh, NC, as a Software Test Engineer. He has a background in the movies, having spent more than five years producing low-budget action movies that you have most likely not seen, and if you have, he is very sorry and does not give out refunds. Jort has won National Education Awards for his work on anti-cyberbullying campaigns in the Netherlands, and he is a subscriber to lifelong learning and is teaching a C# Course at FujiFilm, as well as wasting his time learning Ancient Greek. ",
-    "organization": "FujiFilm Medical Systems, USA",
-    "country": "us",
-    "id": "157480d535da04fc1fab2f03de98ee86"
   },
   {
     "name": "Karina Popova",
@@ -72,28 +112,12 @@ var speakers = window.speakers = [
     "id": "496183698246ccaaec22894d81319fd1"
   },
   {
-    "name": "Puja Purswani",
-    "avatar": "https://secure.gravatar.com/avatar/9ecf8d590a47f752e6dd8254f79acee7?s=500",
-    "bio": "Being an Electronics Engineer and a Tech Speaker at Mozilla, Pooja loves tinkering with various emerging technologies mainly VR, IoT-based platforms, with a motto of making the web a better and connected place for everyone, and spreading the love of web literacy. She has been conducting workshops at across India spreading the love of tech.",
-    "organization": "Techspeaker at Mozilla",
-    "country": "in",
-    "id": "9ecf8d590a47f752e6dd8254f79acee7"
-  },
-  {
     "name": "Kesha Williams",
     "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/9363/Kesha_Williams.jpg",
     "bio": "Kesha Williams is a software engineer with over 20 years’ experience specializing in application development using Java, Python, AngularJS, Bootstrap, and Amazon Web Services (AWS). In addition to being a software engineer with Chick-fil-A, she trains and mentors thousands of software developers in the US, Europe, and Asia while teaching at the University of California.  She's authored courses on Java, Machine Learning (ML), Artificial Intelligence (AI), and Augmented Reality (AR).  She most recently won the Think Different Innovation Award from Chick-fil-A for her work on investigating how emerging technologies like Artificial Intelligence (AI), Augmented Reality (AR), Computer Vision/Facial Recognition, and the Internet of Things (IOT) can enhance restaurant operations and customer experiences.  In her spare time, she leads the Georgia chapter of Technovation seeking to close the gender gap in technology, serves as a mentor with the New York Academy of Sciences, and conducts free Hour of Code sessions for children at her local library. ",
     "organization": "Chick-fil-A",
     "country": "us",
     "id": "6fb022847405be48a26aabb520090347"
-  },
-  {
-    "name": "Jane Prusakova",
-    "avatar": "https://secure.gravatar.com/avatar/00147df918ba806f8d4d649f05b32e7e?s=500",
-    "bio": "I am a software architect and developer, an Agile proponent, and a great believer in building valuable software that users will love to use. I build large back-end systems that require high-performance and high-reliability, and process vast amounts of data. I believe that successful software is created by strong teams, requires good engineering practices, and evolves in close collaboration with the users. \r\nAs a Principal Consultant for Improving Enterprises, I work with distributed teams on distributed software. As a consulting team, we focus on technical excellence, close contact with the client, and rapid iterations.",
-    "organization": "Improving Enterprises",
-    "country": "us",
-    "id": "00147df918ba806f8d4d649f05b32e7e"
   },
   {
     "name": "en zyme",
@@ -108,16 +132,8 @@ var speakers = window.speakers = [
     "avatar": "https://secure.gravatar.com/avatar/7f0beb1fce4f057d5c482b1bc2665831?s=500",
     "bio": "Ivan Ogasawara is a data scientist with expertise in private and public sectors in the areas such as: education, governance, business, health and transport engineering. ",
     "organization": "",
-    "country": "bo",
+    "country": "br",
     "id": "7f0beb1fce4f057d5c482b1bc2665831"
-  },
-  {
-    "name": "Mark Wyner",
-    "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/4059/Social-Bio-Profile.png",
-    "bio": "Mark has been working as a creative professional and technologist for nearly twenty years, partnering with Fortune 100/500 companies and non-profits to craft meaningful experiences for digital UIs and ecosystems in new technologies. He shares his thoughts as an international speaker and writer. In his personal life Mark is a daily meditator, soccer addict, father of five, husband of one, and social justice activist. He also has a great story about saving his son from a scorpion by catching it in a jar with his ninja-like reflexes.",
-    "organization": "Mark Wyner LLC",
-    "country": "us",
-    "id": "da37a9787d36bc974217f1ff852c8873"
   },
   {
     "name": "U.M.K. Dikshit",
@@ -151,12 +167,5 @@ var speakers = window.speakers = [
     "country": "cu",
     "id": "85ae73e1a8d68f5504dd2166c6960453"
   },
-  {
-    "name": "Olemis Lang",
-    "avatar": "https://www.xing.com/image/7_b_c_793518571_28321837_2/olemis-lang-foto.64x64.jpg",
-    "bio": "Olemis has previous experience in the fields of antivirus, security systems, process automation, fieldbus protocols, graphics programming, businees processes, enterprise application bus, process orchestration, ML, big data, data science, and 3D printing. He has worked in projects of corporations based in +10 countries, including the Apache Software Foundation. He's SciPyLA Ambassador for Cuba, a member of the Python-Cuba WG of the PSF, a supporter of Open Source initiatives and founded the CubanTech group to share his experience with others, and learn in the process.",
-    "organization": "CubanTech group",
-    "country": "cu",
-    "id": "6bf80c6bd32faa61fa9ca568ef3b5c6b"
-  }
+  {}
 ]

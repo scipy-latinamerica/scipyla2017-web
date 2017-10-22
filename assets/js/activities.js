@@ -1,6 +1,120 @@
 var activities = window.activities = [
   {
     "talk_format": "Talk (~30-45 minutes)",
+    "title": "Decentralized indexes for public genome databases",
+    "abstract": "Searching sequences by content is currently limited in public avaliable databases like NCBI's GenBank, RefSeq and SRA. We use a data structure based on Sequence Bloom Trees and MinHashes to allow searching for similar datasets in these massive databases.",
+    "description": "",
+    "audience_level": "All",
+    "author_id": "806614bee86a0bef3c22b15248cdc7dc",
+    "tags": [
+      "bioinformatics",
+      "computational biology",
+      "genomics",
+      ""
+    ],
+    "id": "df49ac741992d33e50caeed2f9839ea6"
+  },
+  {
+    "talk_format": "Talk (~30-45 minutes)",
+    "title": "Using Snakemake for scientific workflow management",
+    "abstract": "Rule-based description of workflows are best exemplified by Make, but it has shortcomings (mostly derived from being targeted at programmers and compiling code). Snakemake solves many of these problems, allowing easily deployment and specification of workflows.",
+    "description": "",
+    "audience_level": "All",
+    "author_id": "806614bee86a0bef3c22b15248cdc7dc",
+    "tags": [
+      "bioinformatics",
+      ""
+    ],
+    "id": "b766c1ece591584fbde8101ec103b696"
+  },
+  {
+    "talk_format": "Talk (~30-45 minutes)",
+    "title": "When VR meets Internet of things: Life beyond second life",
+    "abstract": "imagine the possibilities that can exist if we were to we combine the worlds of Virtual Reality and Internet of Things This session will enable people with minimal knowledge of VR and basic IoT boards(such as Arduino, Raspberry Pi) to experience the best of the IoT & VR worlds. \n\n\n",
+    "description": "\"It gets even more interesting when virtual and augmented reality meets the Internet of Things.\"  — Phil Repp\r\n\r\n \r\n\r\nIoT is taking over the technology industry with a huge bang! Our focus is to make the IoT smarter and more suitable for human interaction. Virtual Reality is the next billion dollar industry and it is the future of the Entertainment, Gaming and Education Industry. Now, imagine the possibilities that can exist if we were to we combine the worlds of Virtual Reality and Internet of Things This session will enable people with minimal knowledge of VR and basic IoT boards(such as Arduino, Raspberry Pi) to experience the best of the IoT & VR worlds. \r\n\r\n\r\nFurthermore, attendees will experience a remote tele-robotic presence as they transport and assume the identity of a web-connected robot, tasked with monitoring and maintaining atmospheric conditions.\r\n\r\n\r\n Along with the view of the place, the robot will be monitoring the nearby surroundings such as temperature, humidity and light intensity which will be then displayed along with the scenario displayed by VR device. Thus by this audience will learn how to Combine IoT with VR and hence make their own smart telepresence system like Jarvis.\r\n\r\n\r\n \r\n\r\nBy the end of the session, the audience will gain an increased understanding of the VR and IoT landscape, as well as how these technologies can be combined to give them an experience in life that was previously never-before-possible. A short Q&A session will be held after the [talk/workshop].",
+    "audience_level": "All",
+    "author_id": "9ecf8d590a47f752e6dd8254f79acee7",
+    "tags": [
+      ""
+    ],
+    "id": "e666db3b61705fa7a94af15966f5963d"
+  },
+  {
+    "talk_format": "Lightning Talk (~5-10 minutes)",
+    "title": "Lessons Learned In Unit Testing or: How I stopped Listening To Developers And QA",
+    "abstract": "Imagine a world where QA and Developers work together without friction or problems. In reality, we can come very close to this, but no matter what, one subject that always pops up: Unit Testing. Often, it becomes a battle between Developers and QA. Should we Unit Test? There is no correct answer.",
+    "description": "Developers and QA often clash when it comes to the practice of Unit Testing. How are we going to do it? Who is going to do it? And sometimes even, Should we do it? Before this starts looking like the War of the Roses, let’s examine the core issues at hand, and, in the span of 5 to 10 minutes, come up with a quick fire list of ways that you can convince, or discourage, others to use Unit Testing in your context.\r\n\r\nAnybody that tells you that unit testing is something you should always do… well, they are dead wrong. The same goes for the other side of the argument. If somebody tells you that you should never do Unit Testing, hit them over the head with a saucepan. The core keyword for unit testing is context. Would it be beneficial for me to apply unit testing to my project? This is the question you will be able to answer in exchange for 10 minutes of your time. Both the QA and Development managers will thank you for your newfound wisdom.",
+    "audience_level": "All",
+    "author_id": "157480d535da04fc1fab2f03de98ee86",
+    "tags": [
+      "testing",
+      "qa",
+      "development",
+      "unit testing",
+      "unit tests",
+      "teamwork",
+      ""
+    ],
+    "id": "3eaa0f1f391e9620eed39c18e4bddd76"
+  },
+  {
+    "talk_format": "Talk (~30-45 minutes)",
+    "title": "Can you keep a secret? or Privacy in the Digital Age",
+    "abstract": "Do you know what data is being collected, the implications of cross-processing streams of data from different sources, the power of metadata? There are no more secrets.\n\nInspired by “Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World” by Bruce Schneier",
+    "description": "Computers and the Internet-Of-Things generate data about our every move, passing thought or feeling. There is also a comprehensive set of data on our life’s context: our whereabouts, connections, physiological state, patterns of movement, and deeply ingrained subconscious behaviors.\r\n\r\nWhile that information may not be immediately visible or easy to learn from, it is created, collected and saved. Over time, the pile of data grows. The processing technologies become more sophisticated and powerful. The data that was originally “anonymous” becomes easily identifiable. And no data is ever “forgotten”.\r\n\r\nIn this session we will consider what data is being collected, the implications of cross-processing streams of data from different sources, and the power of metadata. There are no more secrets.\r\n\r\nInspired by “Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World” by Bruce Schneier",
+    "audience_level": "All",
+    "author_id": "00147df918ba806f8d4d649f05b32e7e",
+    "tags": [
+      "speech recognition",
+      "internet of things",
+      "data mining",
+      "mass media",
+      "analytics as a service (aaas)",
+      "big data",
+      "social media",
+      "data",
+      "security",
+      "privacy",
+      ""
+    ],
+    "id": "32deb5daa90aa3236faf4668ae6b4c8d"
+  },
+  {
+    "talk_format": "Talk (~30-45 minutes)",
+    "title": "A New Dawn of the Human Experience: Artificial Sentience and Fabricated Empathy in Cognitive Computing",
+    "abstract": "Exploring how, through the anthropomorphizing of machines, we’re creating fabricated empathy that will change the human experience, how we’re asking machines to make ethical decisions they’re grossly unprepared to do, and why AI won’t create an apocalypse of robots who take over the world. Maybe.",
+    "description": "In what is being called the “third era of computing,” cognitive computing is revolutionizing the relationship between humans and computers. Internet of Things is only the beginning. Artificial Intelligence is finally sprouting out of science fiction and blossoming into palpable technology. Cognitive systems are able to learn independently, build upon pre-programmed knowledge, understand natural language, and interact with human beings with reasoning and logic.\r\n\r\nIn this session Mark will explore how, through the anthropomorphizing of machines, we are creating an environment of fabricated empathy that will change the human experience, and how we are asking machines to make ethical decisions that they’re grossly unprepared to do. He will also discuss why Artificial Intelligence won’t create an apocalypse of robots who take over the world. Maybe.",
+    "audience_level": "Intermediate",
+    "author_id": "da37a9787d36bc974217f1ff852c8873",
+    "tags": [
+      "artificial intelligence",
+      "ai",
+      "cognitive computing",
+      "robotics",
+      "robots",
+      "human experience",
+      ""
+    ],
+    "id": "59d0a1ff98ba2ee0a7c7e7b8a9e5ee74"
+  },
+  {
+    "talk_format": "Talk (~30-45 minutes)",
+    "title": "The best of R in Python",
+    "abstract": "This talk will present the RPy2 library. The lib is used to run R code in Python. R is a free software environment for statistical computing and graphics. Python is a programming language that lets you work quickly and integrate systems more effectively. Why to choose one if you can have both?",
+    "description": "This talk will present the RPy2 library. The lib is used to run R code in Python. R is a free software environment for statistical computing and graphics. Python is a programming language that lets you work quickly and integrate systems more effectively. Why to choose one if you can have both?\r\n\r\nExamples:\r\n  - How to bind R functions in python.\r\n  - How to run R code inside python.\r\n  - How to get data from R calls in python.",
+    "audience_level": "All",
+    "author_id": "1d0e63c82656ba189e55e4e6fb734346",
+    "tags": [
+      "R",
+      "Python",
+      "RPy2",
+      "data science",
+      ""
+    ],
+    "id": "b35686cb6229cd811c249cb45c862867"
+  },
+  {
+    "talk_format": "Talk (~30-45 minutes)",
     "title": "Build text classification models ( CBOW and Skip-gram) with FastText in python",
     "abstract": "NLP is an exciting way to interpret the textual data especially when we know that computer neither speak nor understand any kind of human language. So, how do we represent each word of a language in such a unique numerical pattern and process it in quickest way possible. Answer is FastText library.",
     "description": "FastText has been open-sourced by Facebook in 2016 and with its release, it became the fastest and most accurate library in Python for text classification and word representation. It is to be seen as a substitute for gensim package's word2vec.  It includes the implementation of two extremely important methodologies in NLP i.e Continuous Bag of Words and Skip-gram model. Fasttext performs exceptionally well with supervised as well as unsupervised learning. \r\n\r\nThe tutorial will be divided in following four segments :\r\n\r\n1. 0-10 minutes: The talk will begin with explaining the difference between word embeddings generated by word2vec, Glove, Fasttext and how FastText beats all the other libraries with better accuracy and in lesser time.\r\n\r\n2. 10-30 minutes: The code will be shown and explained line by line for both the models (CBOW and Skip-gram) on a standard textual labeled dataset with the tips on hyper-parametric tuning to get the best possible results.\r\n\r\n3. 30-40 minutes: How to use the pre-trained word embeddings released by FastText on various languages and where to use them. Various use cases of what kind of problems can be solved using FastText in python.\r\n\r\n4. 40-45 minutes: For QA session.",
@@ -84,24 +198,6 @@ var activities = window.activities = [
       ""
     ],
     "id": "0e547e697af0a8358936188619f367db"
-  },
-  {
-    "talk_format": "Lightning Talk (~5-10 minutes)",
-    "title": "Lessons Learned In Unit Testing or: How I stopped Listening To Developers And QA",
-    "abstract": "Imagine a world where QA and Developers work together without friction or problems. In reality, we can come very close to this, but no matter what, one subject that always pops up: Unit Testing. Often, it becomes a battle between Developers and QA. Should we Unit Test? There is no correct answer.",
-    "description": "Developers and QA often clash when it comes to the practice of Unit Testing. How are we going to do it? Who is going to do it? And sometimes even, Should we do it? Before this starts looking like the War of the Roses, let’s examine the core issues at hand, and, in the span of 5 to 10 minutes, come up with a quick fire list of ways that you can convince, or discourage, others to use Unit Testing in your context.\r\n\r\nAnybody that tells you that unit testing is something you should always do… well, they are dead wrong. The same goes for the other side of the argument. If somebody tells you that you should never do Unit Testing, hit them over the head with a saucepan. The core keyword for unit testing is context. Would it be beneficial for me to apply unit testing to my project? This is the question you will be able to answer in exchange for 10 minutes of your time. Both the QA and Development managers will thank you for your newfound wisdom.",
-    "audience_level": "All",
-    "author_id": "157480d535da04fc1fab2f03de98ee86",
-    "tags": [
-      "testing",
-      "qa",
-      "development",
-      "unit testing",
-      "unit tests",
-      "teamwork",
-      ""
-    ],
-    "id": "3eaa0f1f391e9620eed39c18e4bddd76"
   },
   {
     "talk_format": "Talk (~30-45 minutes)",
@@ -233,28 +329,6 @@ var activities = window.activities = [
   },
   {
     "talk_format": "Talk (~30-45 minutes)",
-    "title": "Can you keep a secret? or Privacy in the Digital Age",
-    "abstract": "Do you know what data is being collected, the implications of cross-processing streams of data from different sources, the power of metadata? There are no more secrets.\n\nInspired by “Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World” by Bruce Schneier",
-    "description": "Computers and the Internet-Of-Things generate data about our every move, passing thought or feeling. There is also a comprehensive set of data on our life’s context: our whereabouts, connections, physiological state, patterns of movement, and deeply ingrained subconscious behaviors.\r\n\r\nWhile that information may not be immediately visible or easy to learn from, it is created, collected and saved. Over time, the pile of data grows. The processing technologies become more sophisticated and powerful. The data that was originally “anonymous” becomes easily identifiable. And no data is ever “forgotten”.\r\n\r\nIn this session we will consider what data is being collected, the implications of cross-processing streams of data from different sources, and the power of metadata. There are no more secrets.\r\n\r\nInspired by “Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World” by Bruce Schneier",
-    "audience_level": "All",
-    "author_id": "00147df918ba806f8d4d649f05b32e7e",
-    "tags": [
-      "speech recognition",
-      "internet of things",
-      "data mining",
-      "mass media",
-      "analytics as a service (aaas)",
-      "big data",
-      "social media",
-      "data",
-      "security",
-      "privacy",
-      ""
-    ],
-    "id": "32deb5daa90aa3236faf4668ae6b4c8d"
-  },
-  {
-    "talk_format": "Talk (~30-45 minutes)",
     "title": "A Guide to Exponentiation, and How It Effects Machine Learning",
     "abstract": "Exponentiation: acme of math ops and tool of Machine Learning. Be it square or square root, exp, log, tanh, or the complex roots of unity, ** has it's work cut out. Ints, floats, fractions, matrices, complex, and zero don't play nice. See precision, accuracy, and performance down to the bits.  ",
     "description": "Mathematics of exponentiation and why data science cares (nearest neighbors and neural network activation functions, e.g logit/logistic)\r\n\r\nCalculation, precision, storage, representation and graphing all need to be considered, especially at scale. ** is prone to underflow and overflow with possibly dire consequences. It can even take longer to display the result of an exponentiation than to calculate it! Speed does matter when billions of calculations are being done.\r\n\r\nA very brief recap language and version differences\r\n\r\nThe CPython implementation of exponentiation is fairly convoluted n informative. Ironically, it is sometimes possible to successfully perform exponentiation with integers when floats will fail. As an operator becomes the function pow or ipow. Numerically help is needed at edge cases and so: exp -> expm1, sqrt -> hypot, log -> log1p, factorial -> gamma and Stirling, and why recursion is evil (especially for Fibonacci where an exponential comes to the rescue), and how caching might be useful.\r\n\r\nIn addition, numpy provides exp and exp2, ldexp and frexp, log2, logaddexp and logaddexp2, square and power, and each with interesting use cases.\r\n\r\nDid someone say matrix exponentiation? numpy.linalg.matrix_power scipy.linalg has expm, expm2, expm3, exmp_cond, expm_frechet.\r\n\r\nCryptography uses lots of modular exponentiation and tricks apply here.\r\n\r\nSolving the simple equation: x** y == y**x is challenging for both rational and real solutions. Graphing can help, with it's challenges of logarithmic scaling. We'll be examining the decimal, fractions, mpmath, bignum, and sympy modules for insights, workarounds and new gotchas.",
@@ -286,24 +360,6 @@ var activities = window.activities = [
       ""
     ],
     "id": "49f51cc85392ecd4a726750e83ff1a54"
-  },
-  {
-    "talk_format": "Talk (~30-45 minutes)",
-    "title": "A New Dawn of the Human Experience: Artificial Sentience and Fabricated Empathy in Cognitive Computing",
-    "abstract": "Exploring how, through the anthropomorphizing of machines, we’re creating fabricated empathy that will change the human experience, how we’re asking machines to make ethical decisions they’re grossly unprepared to do, and why AI won’t create an apocalypse of robots who take over the world. Maybe.",
-    "description": "In what is being called the “third era of computing,” cognitive computing is revolutionizing the relationship between humans and computers. Internet of Things is only the beginning. Artificial Intelligence is finally sprouting out of science fiction and blossoming into palpable technology. Cognitive systems are able to learn independently, build upon pre-programmed knowledge, understand natural language, and interact with human beings with reasoning and logic.\r\n\r\nIn this session Mark will explore how, through the anthropomorphizing of machines, we are creating an environment of fabricated empathy that will change the human experience, and how we are asking machines to make ethical decisions that they’re grossly unprepared to do. He will also discuss why Artificial Intelligence won’t create an apocalypse of robots who take over the world. Maybe.",
-    "audience_level": "Intermediate",
-    "author_id": "da37a9787d36bc974217f1ff852c8873",
-    "tags": [
-      "artificial intelligence",
-      "ai",
-      "cognitive computing",
-      "robotics",
-      "robots",
-      "human experience",
-      ""
-    ],
-    "id": "59d0a1ff98ba2ee0a7c7e7b8a9e5ee74"
   },
   {
     "talk_format": "Talk (~30-45 minutes)",
@@ -361,18 +417,6 @@ var activities = window.activities = [
       ""
     ],
     "id": "bf65f6d54c6d01ce8091b6cd0147feca"
-  },
-  {
-    "talk_format": "Talk (~30-45 minutes)",
-    "title": "When VR meets Internet of things: Life beyond second life",
-    "abstract": "imagine the possibilities that can exist if we were to we combine the worlds of Virtual Reality and Internet of Things This session will enable people with minimal knowledge of VR and basic IoT boards(such as Arduino, Raspberry Pi) to experience the best of the IoT & VR worlds. \n\n\n",
-    "description": "\"It gets even more interesting when virtual and augmented reality meets the Internet of Things.\"  — Phil Repp\r\n\r\n \r\n\r\nIoT is taking over the technology industry with a huge bang! Our focus is to make the IoT smarter and more suitable for human interaction. Virtual Reality is the next billion dollar industry and it is the future of the Entertainment, Gaming and Education Industry. Now, imagine the possibilities that can exist if we were to we combine the worlds of Virtual Reality and Internet of Things This session will enable people with minimal knowledge of VR and basic IoT boards(such as Arduino, Raspberry Pi) to experience the best of the IoT & VR worlds. \r\n\r\n\r\nFurthermore, attendees will experience a remote tele-robotic presence as they transport and assume the identity of a web-connected robot, tasked with monitoring and maintaining atmospheric conditions.\r\n\r\n\r\n Along with the view of the place, the robot will be monitoring the nearby surroundings such as temperature, humidity and light intensity which will be then displayed along with the scenario displayed by VR device. Thus by this audience will learn how to Combine IoT with VR and hence make their own smart telepresence system like Jarvis.\r\n\r\n\r\n \r\n\r\nBy the end of the session, the audience will gain an increased understanding of the VR and IoT landscape, as well as how these technologies can be combined to give them an experience in life that was previously never-before-possible. A short Q&A session will be held after the [talk/workshop].",
-    "audience_level": "All",
-    "author_id": "9ecf8d590a47f752e6dd8254f79acee7",
-    "tags": [
-      ""
-    ],
-    "id": "e666db3b61705fa7a94af15966f5963d"
   },
   {
     "talk_format": "Talk (~30-45 minutes)",
