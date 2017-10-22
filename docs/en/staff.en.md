@@ -25,7 +25,7 @@ please fill and submit the (../forms/joinus)[collaborators form].
 - Electrical Engineering and Process Automation Workshop Coordinator : [Yudivián Almeida Cruz](https://www.linkedin.com/in/yudivi%C3%A1n-almeida-cruz-a534a8a4/)
 - Economy and Operations Research Workshop Coordinator : [Eduardo Sánchez González](https://www.linkedin.com/in/eduardo-s%C3%A1nchez-gonz%C3%A1lez-13750889/)
 - Emerging Computing Technologies Workshop Coordinator : [Igr Alexander Fernández Sauco](https://www.linkedin.com/in/igr-alex%C3%A1nder-fern%C3%A1ndez-sa%C3%BAco-34374062/)
-  * Infrastructure for Reproducible Research Coordinators : 
+  * Infrastructure for Reproducible Research Coordinators : Yoslán Jimenez
 - Earth Sciences Workshop Coordinator : [Olemis Lang](http://linkedin.com/in/olemis)
 - Social Sciences and Digital Humanities Workshop Coordinator : [Bárbara Maseda](http://www.linkedin.com/in/barbaramaseda/), [Rachel Domínguez Roja](https://www.linkedin.com/in/rachel-dom%C3%ADnguez-b5271891/)
 

@@ -114,7 +114,7 @@ var speakers = window.speakers = [
     "name": "Kesha Williams",
     "avatar": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/9363/Kesha_Williams.jpg",
     "bio": "Kesha Williams is a software engineer with over 20 years’ experience specializing in application development using Java, Python, AngularJS, Bootstrap, and Amazon Web Services (AWS). In addition to being a software engineer with Chick-fil-A, she trains and mentors thousands of software developers in the US, Europe, and Asia while teaching at the University of California.  She's authored courses on Java, Machine Learning (ML), Artificial Intelligence (AI), and Augmented Reality (AR).  She most recently won the Think Different Innovation Award from Chick-fil-A for her work on investigating how emerging technologies like Artificial Intelligence (AI), Augmented Reality (AR), Computer Vision/Facial Recognition, and the Internet of Things (IOT) can enhance restaurant operations and customer experiences.  In her spare time, she leads the Georgia chapter of Technovation seeking to close the gender gap in technology, serves as a mentor with the New York Academy of Sciences, and conducts free Hour of Code sessions for children at her local library. ",
-    "organization": "Chick-fil-A",
+    "organization": "Chick-fil-A. University of California, Irvine",
     "country": "us",
     "id": "6fb022847405be48a26aabb520090347"
   },
