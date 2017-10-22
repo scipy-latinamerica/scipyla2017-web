@@ -4,8 +4,7 @@ var speakers = window.speakers = [
     "avatar": "https://secure.gravatar.com/avatar/806614bee86a0bef3c22b15248cdc7dc?s=500",
     "bio": "Computer Science PhD student at UC Davis, DIB lab minion, Software Carpentry enthusiast.",
     "organization": "University of California, Davis",
-    "country": "br",
-    "id": "806614bee86a0bef3c22b15248cdc7dc"
+    "country": "br", "id": "806614bee86a0bef3c22b15248cdc7dc"
   },
   {
     "name": "Puja Purswani",
@@ -167,5 +166,12 @@ var speakers = window.speakers = [
     "country": "cu",
     "id": "85ae73e1a8d68f5504dd2166c6960453"
   },
-  {}
+  {
+    "name": "Olemis Lang",
+    "avatar": "https://www.xing.com/image/7_b_c_793518571_28321837_2/olemis-lang-foto.64x64.jpg",
+    "bio": "Olemis has previous experience in the fields of antivirus, security systems, process automation, fieldbus protocols, graphics programming, businees processes, enterprise application bus, process orchestration, ML, big data, data science, and 3D printing. He has worked in projects of corporations based in +10 countries, including the Apache Software Foundation. He's SciPyLA Ambassador for Cuba, a member of the Python-Cuba WG of the PSF, a supporter of Open Source initiatives and founded the CubanTech group to share his experience with others, and learn in the process.",
+    "organization": "CubanTech group",
+    "country": "cu",
+    "id": "6bf80c6bd32faa61fa9ca568ef3b5c6b"
+  }
 ]
