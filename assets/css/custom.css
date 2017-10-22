@@ -753,6 +753,10 @@ h1, h2, h3, h4 {
     background-position: -620px 0px;
   }
 
+  .navbar-brand img {
+    margin-top: -20px;
+  }
+
 }
 
 /* Extra small */
